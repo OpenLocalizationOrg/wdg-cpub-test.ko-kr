@@ -1,20 +1,21 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 2
+ Total Files | 3
 
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [wdg-cpub-test\ndolci1\audio-video-camera\capture-device-controls-for-photo-and-video-capture.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/9184e189ff98e07b33ac01badcd7e5a0645a6395/wdg-cpub-test/ndolci1/audio-video-camera/capture-device-controls-for-photo-and-video-capture.md) | HandedOffSuccess | [Details](#f38a4a4b6a02ce80b2cc251fb01afe743f17bf1b205)
+ [wdg-cpub-test\ndolci2\audio-video-camera\capture-device-controls-for-photo-and-video-capture.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/730e19953dcd6d4a0396c71a57192536084d0ac2/wdg-cpub-test/ndolci2/audio-video-camera/capture-device-controls-for-photo-and-video-capture.md) | HandedOffSuccess | [Details](#a74e5e1953eb68cb3f74fac6dd2d93fc64964816808)
  [wdg-cpub-test\ndolci2\winrt-components\walkthrough-creating-a-basic-windows-runtime-component-in-cpp-and-calling-it-from-javascript-or-csharp.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/5907beedcb3d2b1c6838847f2bba92e8c12a1675/wdg-cpub-test/ndolci2/winrt-components/walkthrough-creating-a-basic-windows-runtime-component-in-cpp-and-calling-it-from-javascript-or-csharp.md) | HandedOffFailed | [Details](#be6fb5fc439de3213ef0815ea205ac51112bb2021640)
+ [wdg-cpub-test\testhtml.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/730e19953dcd6d4a0396c71a57192536084d0ac2/wdg-cpub-test/testhtml.md) | HandedOffSuccess | [Details](#007206c8ebe98d26c62e908fea231470cccbd2b41677)
 
 ## Item Details
-##### <a name='f38a4a4b6a02ce80b2cc251fb01afe743f17bf1b205'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\capture-device-controls-for-photo-and-video-capture.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/9184e189ff98e07b33ac01badcd7e5a0645a6395/wdg-cpub-test/ndolci1/audio-video-camera/capture-device-controls-for-photo-and-video-capture.md)
+##### <a name='a74e5e1953eb68cb3f74fac6dd2d93fc64964816808'></a> Source: [wdg-cpub-test\ndolci2\audio-video-camera\capture-device-controls-for-photo-and-video-capture.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/730e19953dcd6d4a0396c71a57192536084d0ac2/wdg-cpub-test/ndolci2/audio-video-camera/capture-device-controls-for-photo-and-video-capture.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [capture-device-controls-for-photo-and-video-capture.2244826f4e2564d6e82c5925f7678abf4570b3ca.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/44d5c5208576ee9a2adaac2ff1b16dc197016b3f/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/capture-device-controls-for-photo-and-video-capture.2244826f4e2564d6e82c5925f7678abf4570b3ca.ko-kr.xlf)
-* Handoff Datetime: 2016-03-12 09:23:45
+* Handoff File: [capture-device-controls-for-photo-and-video-capture.2244826f4e2564d6e82c5925f7678abf4570b3ca.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/78ec49005ac078e164a00a5fdbf547c4e82291ee/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/capture-device-controls-for-photo-and-video-capture.2244826f4e2564d6e82c5925f7678abf4570b3ca.ko-kr.xlf)
+* Handoff Datetime: 2016-03-12 13:51:39
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -29,6 +30,18 @@
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
 * Handoff Error: [handoff_transform_failed](#be6fb5fc439de3213ef0815ea205ac51112bb2021640handoff_transform_failed)
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* [Back to Top](#report-top)
+
+##### <a name='007206c8ebe98d26c62e908fea231470cccbd2b41677'></a> Source: [wdg-cpub-test\testhtml.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/730e19953dcd6d4a0396c71a57192536084d0ac2/wdg-cpub-test/testhtml.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [testhtml.a5059cd2abaa4519b328ce39518d5ebfcd6b4fc0.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/78ec49005ac078e164a00a5fdbf547c4e82291ee/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/testhtml.a5059cd2abaa4519b328ce39518d5ebfcd6b4fc0.ko-kr.xlf)
+* Handoff Datetime: 2016-03-12 13:51:39
+* Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
