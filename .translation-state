@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "5907beedcb3d2b1c6838847f2bba92e8c12a1675",
+  "LastProcessedCommit": "9184e189ff98e07b33ac01badcd7e5a0645a6395",
   "LastTranslatedCommit": null,
   "Items": {
     "3c246d6c393687dbeff05e58303c204713ba80a4": {
@@ -25871,7 +25871,7 @@
       ],
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
-      "HandoffDateTime": "2016-03-09T03:33:00.0300741Z",
+      "HandoffDateTime": "2016-03-12T09:23:45.3831982Z",
       "HandoffPriority": "",
       "HandoffException": {
         "internal_error_code": "handoff_transform_failed",
@@ -25879,10 +25879,10 @@
         "internal_error_retriable": false,
         "exception_message": "The specified path, file name, or both are too long. The fully qualified file name must be less than 260 characters, and the directory name must be less than 248 characters.",
         "exception_type": "System.IO.PathTooLongException",
-        "stack_trace": "   at System.IO.PathHelper.GetFullPathName()\r\n   at System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)\r\n   at System.IO.Path.NormalizePath(String path, Boolean fullCheck)\r\n   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass10_0.<GetHandoffFiles>b__0(Tuple`3 handoff) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 365",
+        "stack_trace": "   at System.IO.PathHelper.GetFullPathName()\r\n   at System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)\r\n   at System.IO.Path.NormalizePath(String path, Boolean fullCheck)\r\n   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass10_1.<GetHandoffFiles>b__1(Tuple`3 handoff) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 389",
         "extended_information": null
       },
-      "HandoffFailureTimes": 1,
+      "HandoffFailureTimes": 2,
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandbackFilePath": null,
@@ -28445,6 +28445,34 @@
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\wdg-cpub-test.ko-kr\\master\\Welcome.ecbb965b6e13825c7524206fa12c4cc64183e55b.ko-kr.xlf",
       "HandoffFileCommit": "039ebc6c30c9d07aff9580c1715331c72b4bf798",
       "HandoffDateTime": "2016-03-09T03:33:00.0144529Z",
+      "HandoffPriority": "",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "f38a4a4b6a02ce80b2cc251fb01afe743f17bf1b": {
+      "FileHash": "f38a4a4b6a02ce80b2cc251fb01afe743f17bf1b",
+      "SourceFileCommit": "9184e189ff98e07b33ac01badcd7e5a0645a6395",
+      "SourceFilePath": "wdg-cpub-test\\ndolci1\\audio-video-camera\\capture-device-controls-for-photo-and-video-capture.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "FilePathList": [
+        "wdg-cpub-test\\ndolci1\\audio-video-camera\\capture-device-controls-for-photo-and-video-capture.md"
+      ],
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\wdg-cpub-test.ko-kr\\master\\capture-device-controls-for-photo-and-video-capture.2244826f4e2564d6e82c5925f7678abf4570b3ca.ko-kr.xlf",
+      "HandoffFileCommit": "44d5c5208576ee9a2adaac2ff1b16dc197016b3f",
+      "HandoffDateTime": "2016-03-12T09:23:45.3831982Z",
       "HandoffPriority": "",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
