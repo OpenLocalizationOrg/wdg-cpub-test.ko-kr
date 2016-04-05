@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "ba6e92cff71c81ac75751208f7bfeff710a0cf46",
+  "LastProcessedCommit": "04c9c004728d8e4dc0cd570bf4e1b4a6ac327dfc",
   "LastTranslatedCommit": null,
   "Items": {
     "3c246d6c393687dbeff05e58303c204713ba80a4": {
@@ -29468,8 +29468,8 @@
         "wdg-cpub-test\\ndolci1\\audio-video-camera\\capture-device-controls-for-photo-and-video-capture.md"
       ],
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\wdg-cpub-test.ko-kr\\master\\capture-device-controls-for-photo-and-video-capture.2244826f4e2564d6e82c5925f7678abf4570b3ca.ko-kr.xlf",
-      "HandoffFileCommit": "5442b3ac05abc74af902cb414512237a3e29717b",
-      "HandoffDateTime": "2016-04-05T09:27:38.2925637Z",
+      "HandoffFileCommit": "3e2bb2f5e936567cb2c871960374b9e61706b665",
+      "HandoffDateTime": "2016-04-05T09:36:04.0322255Z",
       "HandoffPriority": "",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
@@ -29528,6 +29528,35 @@
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\wdg-cpub-test.ko-kr\\master\\new_extension.f88bd3f6fa14afe4748498423af87153bb741983.ko-kr.xlf",
       "HandoffFileCommit": "5442b3ac05abc74af902cb414512237a3e29717b",
       "HandoffDateTime": "2016-04-05T09:27:38.2925637Z",
+      "HandoffPriority": "",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "b7e8d8638d928212045c967a4455299abc12643d": {
+      "FileHash": "b7e8d8638d928212045c967a4455299abc12643d",
+      "SourceFileCommit": "04c9c004728d8e4dc0cd570bf4e1b4a6ac327dfc",
+      "SourceFilePath": "wdg-cpub-test\\new_extension.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "TokenReference": null,
+      "FilePathList": [
+        "wdg-cpub-test\\new_extension.md"
+      ],
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\wdg-cpub-test.ko-kr\\master\\new_extension.f88bd3f6fa14afe4748498423af87153bb741983.ko-kr.xlf",
+      "HandoffFileCommit": "3e2bb2f5e936567cb2c871960374b9e61706b665",
+      "HandoffDateTime": "2016-04-05T09:36:04.0322255Z",
       "HandoffPriority": "",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
