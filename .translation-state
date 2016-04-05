@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "4955fad63824a71aa3c8b2f9ed55f74eddca812b",
+  "LastProcessedCommit": "ba6e92cff71c81ac75751208f7bfeff710a0cf46",
   "LastTranslatedCommit": null,
   "Items": {
     "3c246d6c393687dbeff05e58303c204713ba80a4": {
@@ -4606,8 +4606,8 @@
         "wdg-cpub-test\\ndolci2\\audio-video-camera\\capture-device-controls-for-photo-and-video-capture.md"
       ],
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\wdg-cpub-test.ko-kr\\master\\capture-device-controls-for-photo-and-video-capture.2244826f4e2564d6e82c5925f7678abf4570b3ca.ko-kr.xlf",
-      "HandoffFileCommit": "78ec49005ac078e164a00a5fdbf547c4e82291ee",
-      "HandoffDateTime": "2016-03-12T13:51:39.4502963Z",
+      "HandoffFileCommit": "8908820c7c29ae6f055f7c327a64953d9c8723ee",
+      "HandoffDateTime": "2016-04-05T09:33:56.4985023Z",
       "HandoffPriority": "",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
