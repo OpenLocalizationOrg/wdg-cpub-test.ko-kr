@@ -1202,7 +1202,7 @@
  [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\what_happens_when_you_provision_a_computer__wdk_8_0_.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/what_happens_when_you_provision_a_computer__wdk_8_0_.md) | HandedOffSuccess | [Details](#cdbd2c7425bbf263c6af57d28cfd8473d02551ec1747)
  [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\what_happens_when_you_provision_a_computer__wdk_8_1_.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/what_happens_when_you_provision_a_computer__wdk_8_1_.md) | HandedOffSuccess | [Details](#d310c4b3d444ed7b5dc551ca034106fc466179871748)
  [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\windows_10_editions_for_universal_drivers.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/windows_10_editions_for_universal_drivers.md) | HandedOffSuccess | [Details](#79a3dd217ffa3beb73851aac9bb6609218e946991749)
- [wdg-cpub-test\Welcome.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/842a1be4156266feee83bc0d14cf677162b5e4b4/wdg-cpub-test/Welcome.md) | HandedOffSuccess | [Details](#29b6d04af51c8a26332a452e3145c0eee5e98f901750)
+ [wdg-cpub-test\Welcome.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7998d743c9410c2870b8dc744347a1fcd4cab919/wdg-cpub-test/Welcome.md) | HandedOffSuccess | [Details](#8d1c438b061282117810226a0d79d450b5486a0a1750)
 
 ## <a name='archive-failed-list'></a> Archive Failed File List
 
@@ -22860,11 +22860,11 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='29b6d04af51c8a26332a452e3145c0eee5e98f901750'></a> Source: [wdg-cpub-test\Welcome.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/842a1be4156266feee83bc0d14cf677162b5e4b4/wdg-cpub-test/Welcome.md)
+##### <a name='8d1c438b061282117810226a0d79d450b5486a0a1750'></a> Source: [wdg-cpub-test\Welcome.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7998d743c9410c2870b8dc744347a1fcd4cab919/wdg-cpub-test/Welcome.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [Welcome.ecbb965b6e13825c7524206fa12c4cc64183e55b.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/039ebc6c30c9d07aff9580c1715331c72b4bf798/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/Welcome.ecbb965b6e13825c7524206fa12c4cc64183e55b.ko-kr.xlf)
-* Handoff Datetime: 2016-03-09 03:33:00
+* Handoff File: [Welcome.ecbb965b6e13825c7524206fa12c4cc64183e55b.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/6b6b13d7b7ced46de52e4aca5cf7bf1bb9d2e976/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/Welcome.ecbb965b6e13825c7524206fa12c4cc64183e55b.ko-kr.xlf)
+* Handoff Datetime: 2016-04-18 02:39:51
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
