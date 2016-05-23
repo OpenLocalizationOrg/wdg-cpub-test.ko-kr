@@ -1904,7 +1904,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [readme.af6253305c53dd1b0aae6b09cb2e883c85e0a5f1.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/readme.af6253305c53dd1b0aae6b09cb2e883c85e0a5f1.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -1928,7 +1928,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [Directions_To_Update_Existing_Topic_Using_Browser.467f0472275ff2bf87dc67094be537d8ed3ee882.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/Directions_To_Update_Existing_Topic_Using_Browser.467f0472275ff2bf87dc67094be537d8ed3ee882.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -1940,7 +1940,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [044a112ca2e00f71a2a8d04b2e9aa8bd2628f5ed.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/044a112ca2e00f71a2a8d04b2e9aa8bd2628f5ed.png)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -1953,7 +1953,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [3dcb3c57b957dd388a5115f830f1c1cb2cf6936e.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/3dcb3c57b957dd388a5115f830f1c1cb2cf6936e.png)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -1966,7 +1966,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [36f650b486398eec8dda23bcce6de967a49b8425.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/36f650b486398eec8dda23bcce6de967a49b8425.png)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -1979,7 +1979,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [f43cbe8759da606676de094fd0024cb7c86551ec.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/f43cbe8759da606676de094fd0024cb7c86551ec.png)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -1992,7 +1992,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [61d96a22a5f72b0e5f41de91f1ec3320f0f9888e.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/61d96a22a5f72b0e5f41de91f1ec3320f0f9888e.png)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2029,7 +2029,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [get-app-acquisitions.2c261632474f731870e246e617ee9e9ab23ae2e8.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/get-app-acquisitions.2c261632474f731870e246e617ee9e9ab23ae2e8.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2053,7 +2053,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [test.32f64f5d1fb6a6d1c28f2fdcde27666d5ae6d241.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/test.32f64f5d1fb6a6d1c28f2fdcde27666d5ae6d241.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2065,7 +2065,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [90d7dca36f340986a0c7b98525226d3fd282aa6a.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/90d7dca36f340986a0c7b98525226d3fd282aa6a.png)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2078,7 +2078,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [51b695b5f279ee59c19fa59c6b5b4b9ed521ef8e.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/51b695b5f279ee59c19fa59c6b5b4b9ed521ef8e.png)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2091,7 +2091,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [ced6981729e25a31e25e8bbac32f2a822851abb0.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/ced6981729e25a31e25e8bbac32f2a822851abb0.png)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2104,7 +2104,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [1.c0f7c69bab68ceb8d93511c887bb9a2591749ef4.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/1.c0f7c69bab68ceb8d93511c887bb9a2591749ef4.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2116,7 +2116,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [2.958a9868b1ddb66de02d0c0f0c20db9042013ea5.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/2.958a9868b1ddb66de02d0c0f0c20db9042013ea5.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2128,7 +2128,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [JasGro-home.ba84114f220b838b887e90f9f4cd08731827ca7e.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/JasGro-home.ba84114f220b838b887e90f9f4cd08731827ca7e.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2140,7 +2140,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [table_creation_tools.5ac47164b84c765dfffb92438e12fbe35019767e.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/table_creation_tools.5ac47164b84c765dfffb92438e12fbe35019767e.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2152,7 +2152,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [test1.7f0f552458431654d6ec10125262b97426875375.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/test1.7f0f552458431654d6ec10125262b97426875375.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2164,7 +2164,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [test2.07a4be2c106a040b3bdba866b593683135789f3f.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/test2.07a4be2c106a040b3bdba866b593683135789f3f.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2176,7 +2176,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [tools-for-beginners.c71176847e2ebf0c8813ff5acbcc8f660f8adee2.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/tools-for-beginners.c71176847e2ebf0c8813ff5acbcc8f660f8adee2.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2188,7 +2188,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [HelloWorld.7aaa496756fe8c6b3dcd6becf9a46bec0b205822.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/HelloWorld.7aaa496756fe8c6b3dcd6becf9a46bec0b205822.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2200,7 +2200,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [HelloWorld.7aaa496756fe8c6b3dcd6becf9a46bec0b205822.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/HelloWorld.7aaa496756fe8c6b3dcd6becf9a46bec0b205822.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2212,7 +2212,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [HelloWorld.7aaa496756fe8c6b3dcd6becf9a46bec0b205822.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/HelloWorld.7aaa496756fe8c6b3dcd6becf9a46bec0b205822.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2224,7 +2224,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [HelloWorld.7aaa496756fe8c6b3dcd6becf9a46bec0b205822.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/HelloWorld.7aaa496756fe8c6b3dcd6becf9a46bec0b205822.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2236,7 +2236,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [HelloWorld.7aaa496756fe8c6b3dcd6becf9a46bec0b205822.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/HelloWorld.7aaa496756fe8c6b3dcd6becf9a46bec0b205822.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2248,7 +2248,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [available_policies.ff49108befeca60e0cb8e2a505ce332559123ced.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/available_policies.ff49108befeca60e0cb8e2a505ce332559123ced.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2260,7 +2260,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [emie_to_improve_compatibility.01466982c77753bd70eee0c62860ff289eab85fd.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/emie_to_improve_compatibility.01466982c77753bd70eee0c62860ff289eab85fd.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2272,7 +2272,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [hardware_and_software_requirements.b95d588b7b44b2bbc115562bda4a63386f1b62fb.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/hardware_and_software_requirements.b95d588b7b44b2bbc115562bda4a63386f1b62fb.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2284,7 +2284,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [3db200b5df5b492cd6cfcc04c59db9a3bffc1db1.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/3db200b5df5b492cd6cfcc04c59db9a3bffc1db1.png)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2297,7 +2297,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [c4ad8cd0e62f8f177e1b945b19b0ae2667a08e51.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/c4ad8cd0e62f8f177e1b945b19b0ae2667a08e51.png)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2310,7 +2310,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [c60b61e09592ccc99e5af898dcef91d310e8d794.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/c60b61e09592ccc99e5af898dcef91d310e8d794.png)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2323,7 +2323,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [13db3344d2ab0ff7d5350584470566ac2b128e12.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/13db3344d2ab0ff7d5350584470566ac2b128e12.png)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2336,7 +2336,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [msedge_deployment_guide_for_it_pros.b5fb018fe51efcf49ab261fda90e80e2c708e2c5.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/msedge_deployment_guide_for_it_pros.b5fb018fe51efcf49ab261fda90e80e2c708e2c5.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2348,7 +2348,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [macapara.1f4a6c8a550f2dadc79422a1faf545785d5e7174.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/macapara.1f4a6c8a550f2dadc79422a1faf545785d5e7174.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2360,7 +2360,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [best-practices-for-your-app-s-startup-performance.04f0cc628384b05099fa9f74b97f079c9bd2f9f7.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/best-practices-for-your-app-s-startup-performance.04f0cc628384b05099fa9f74b97f079c9bd2f9f7.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2372,7 +2372,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [beta-testing.4d0f92a23e8012f4c602f7bd041e438c8138202e.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/beta-testing.4d0f92a23e8012f4c602f7bd041e438c8138202e.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2384,7 +2384,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [debugging-and-testing-apps-portal.8b577d832ef1bb1ed54c0c42a719af1d6296b1b6.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/debugging-and-testing-apps-portal.8b577d832ef1bb1ed54c0c42a719af1d6296b1b6.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2396,7 +2396,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [deploying-and-debugging-uwp-apps.0bd4b1a79e86b75f0d29169b3f3ca46d8bbdb903.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/deploying-and-debugging-uwp-apps.0bd4b1a79e86b75f0d29169b3f3ca46d8bbdb903.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2408,7 +2408,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [de64362d21f090b76586193191ed6df624521fd0.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/de64362d21f090b76586193191ed6df624521fd0.png)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2421,7 +2421,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [be67298c637f11a63d6f7973c658b7d7258fbc96.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/be67298c637f11a63d6f7973c658b7d7258fbc96.png)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2434,7 +2434,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [3c13afd3c3794a7173390bb719c152d2be9ae622.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/3c13afd3c3794a7173390bb719c152d2be9ae622.png)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2447,7 +2447,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [b57f6bfba888a9cb57bfc2242b3c6d9b65867b52.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/b57f6bfba888a9cb57bfc2242b3c6d9b65867b52.png)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2460,7 +2460,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [3b5af7218d84235781ffc7e51764f154365f4ec7.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/3b5af7218d84235781ffc7e51764f154365f4ec7.png)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2473,7 +2473,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [2ac42acfeb68e181714b37fd7d6675f8484fc294.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/2ac42acfeb68e181714b37fd7d6675f8484fc294.png)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2486,7 +2486,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [49d5c6b9b25d3dee65e09aeb7726c3695132bc60.PNG](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/49d5c6b9b25d3dee65e09aeb7726c3695132bc60.PNG)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2499,7 +2499,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [ea673383ad3164af72a73e80425c7e4b0982aa42.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/ea673383ad3164af72a73e80425c7e4b0982aa42.png)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2512,7 +2512,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [8330a2966313c8c81bf3082cccf18cdfd97612c0.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/8330a2966313c8c81bf3082cccf18cdfd97612c0.png)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2525,7 +2525,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [ca8c6bd1bba1a76f7e2fcc4673b055f7768a9631.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/ca8c6bd1bba1a76f7e2fcc4673b055f7768a9631.png)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2538,7 +2538,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [f7abe9d85d0dc10b263ebbe90fe9f3d72a1069a3.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/f7abe9d85d0dc10b263ebbe90fe9f3d72a1069a3.png)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2551,7 +2551,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [fbead21ab5fb26b1f04a0cdb0c39770106cbc2f0.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/fbead21ab5fb26b1f04a0cdb0c39770106cbc2f0.png)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2564,7 +2564,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [8f814bc4fa6eb794dc1d2d21fce479f2093ee76d.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/8f814bc4fa6eb794dc1d2d21fce479f2093ee76d.png)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2577,7 +2577,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [32a52771b9a99c2d29c8b77f37b880bbdbdf612d.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/32a52771b9a99c2d29c8b77f37b880bbdbdf612d.png)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2590,7 +2590,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [45ff0e690ec5ac6c1e2db1c789cf558851cdd672.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/45ff0e690ec5ac6c1e2db1c789cf558851cdd672.png)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2603,7 +2603,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [fe7567cf0d82bf502aeb102aac071fd560b0d47e.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/fe7567cf0d82bf502aeb102aac071fd560b0d47e.png)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2616,7 +2616,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [e273d46684a3fe6d157892b7db4999dce035401c.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/e273d46684a3fe6d157892b7db4999dce035401c.png)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2629,7 +2629,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [68f2e5c1d62a0d70574037395b80f1d0c70fb43a.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/68f2e5c1d62a0d70574037395b80f1d0c70fb43a.png)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2642,7 +2642,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [7a21e1ce72a44d286995acbb76a4813054f87533.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/7a21e1ce72a44d286995acbb76a4813054f87533.png)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2655,7 +2655,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [055fc04e0997c7ab9ee8da2762587fd01d8b949f.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/055fc04e0997c7ab9ee8da2762587fd01d8b949f.png)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2668,7 +2668,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [70174df9d165e4b9845ed2300000bf0dd5718905.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/70174df9d165e4b9845ed2300000bf0dd5718905.png)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2681,7 +2681,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [f1edb548dee0c9f192acedc13d7ba31c1bb4728e.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/f1edb548dee0c9f192acedc13d7ba31c1bb4728e.png)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2694,7 +2694,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [b8cb5db84b4f8675c88c6f2a68299770f9f2895b.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/b8cb5db84b4f8675c88c6f2a68299770f9f2895b.png)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2707,7 +2707,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [294384ee98e324679fafb2b71b289a893394c8b9.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/294384ee98e324679fafb2b71b289a893394c8b9.png)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2720,7 +2720,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [6d1a9a148c0284c7eb58787e97562dad238d89e8.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/6d1a9a148c0284c7eb58787e97562dad238d89e8.png)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2733,7 +2733,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [37eeaaeaec2acf7ee51ab3cfa7b145faae08388f.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/37eeaaeaec2acf7ee51ab3cfa7b145faae08388f.png)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2746,7 +2746,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [improve-garbage-collection-performance.9e3a2508f0d5e3c8782bdc227fdd4488cda03ead.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/improve-garbage-collection-performance.9e3a2508f0d5e3c8782bdc227fdd4488cda03ead.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2758,7 +2758,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [index.320fa250d18f59b12ad4eede2f1cf9ba6059dab8.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/index.320fa250d18f59b12ad4eede2f1cf9ba6059dab8.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2770,7 +2770,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [keep-the-ui-thread-responsive.598b4043f7a432de1902034180f56ed570a96486.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/keep-the-ui-thread-responsive.598b4043f7a432de1902034180f56ed570a96486.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2782,7 +2782,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [listview-and-gridview-data-optimization.8cdd3eee6e7811d3222512ed7a952e280cf1e12c.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/listview-and-gridview-data-optimization.8cdd3eee6e7811d3222512ed7a952e280cf1e12c.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2794,7 +2794,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [mvvm-performance-tips.b913c1d997582cc0e32c17e6ad9034f672202bf5.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/mvvm-performance-tips.b913c1d997582cc0e32c17e6ad9034f672202bf5.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2806,7 +2806,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [optimize-animations-and-media.99026a4fcc661ba5f7414835db426abe88042280.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/optimize-animations-and-media.99026a4fcc661ba5f7414835db426abe88042280.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2818,7 +2818,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [optimize-file-access.05f1dce16cf19e1f809bac768f1ea2a61a897b8c.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/optimize-file-access.05f1dce16cf19e1f809bac768f1ea2a61a897b8c.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2830,7 +2830,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [optimize-gridview-and-listview.4ca478d74f6fd489ba30fe5d2ed6b7ffe6d45573.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/optimize-gridview-and-listview.4ca478d74f6fd489ba30fe5d2ed6b7ffe6d45573.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2842,7 +2842,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [optimize-suspend-resume.6ab823d05bc14825ef88be1e6b3446b9b63f7126.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/optimize-suspend-resume.6ab823d05bc14825ef88be1e6b3446b9b63f7126.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2854,7 +2854,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [optimize-xaml-loading.cd7419752f6cf7ef345afe87aebebe0127ca72a2.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/optimize-xaml-loading.cd7419752f6cf7ef345afe87aebebe0127ca72a2.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2866,7 +2866,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [optimize-your-xaml-layout.d4968c41cefe7f6297508c0572f45d4104b45f0c.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/optimize-your-xaml-layout.d4968c41cefe7f6297508c0572f45d4104b45f0c.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2878,7 +2878,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [performance-and-xaml-ui.2f6eb2a6dca02a80da76b07a4448993c4181c009.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/performance-and-xaml-ui.2f6eb2a6dca02a80da76b07a4448993c4181c009.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2890,7 +2890,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [planning-and-measuring-performance.c3990da27f48a681f56ee1eacd82eaaaa50ebd0d.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/planning-and-measuring-performance.c3990da27f48a681f56ee1eacd82eaaaa50ebd0d.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2902,7 +2902,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [test-with-the-emulator.d7e00009bdd774b2904c5e47cde2b00b40ebf12c.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/test-with-the-emulator.d7e00009bdd774b2904c5e47cde2b00b40ebf12c.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2914,7 +2914,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [tools-for-profiling-and-performance.c1f225265468b1b2915371f9e5f66288c4b39189.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/tools-for-profiling-and-performance.c1f225265468b1b2915371f9e5f66288c4b39189.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2926,7 +2926,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [windows-app-certification-kit.63d7a11b44646d6a1f9e29e1a26ac93c778a03bb.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/windows-app-certification-kit.63d7a11b44646d6a1f9e29e1a26ac93c778a03bb.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2938,7 +2938,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [windows-app-certification-kit-tests.0428aa2e01fe39818f6e2bf56dee51b18cb712ae.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/windows-app-certification-kit-tests.0428aa2e01fe39818f6e2bf56dee51b18cb712ae.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2950,7 +2950,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [windows-runtime-components-and-optimizing-interop.5e6bf38830c852f7f8250cb3a23412e379d661eb.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/windows-runtime-components-and-optimizing-interop.5e6bf38830c852f7f8250cb3a23412e379d661eb.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2962,7 +2962,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [aep-service-class-ids.6040b5e55e95d218c5f04f4d50596b503dc8bec7.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/aep-service-class-ids.6040b5e55e95d218c5f04f4d50596b503dc8bec7.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2974,7 +2974,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [bluetooth.f390e7d55a60ea136658562fb9b7be2d501fb2e1.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/bluetooth.f390e7d55a60ea136658562fb9b7be2d501fb2e1.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2986,7 +2986,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [build-a-device-selector.73ca8c5316647711d9a64e3afd0c065b89bbb1d1.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/build-a-device-selector.73ca8c5316647711d9a64e3afd0c065b89bbb1d1.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2998,7 +2998,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [calibrate-sensors.a6cb69b28339df5044c72fa5fc1f2d9c3db6a39f.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/calibrate-sensors.a6cb69b28339df5044c72fa5fc1f2d9c3db6a39f.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3010,7 +3010,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [customize-the-print-preview-ui.4a84cee2b17c70edba458c33fcd4b2f25230925c.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/customize-the-print-preview-ui.4a84cee2b17c70edba458c33fcd4b2f25230925c.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3022,7 +3022,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [device-information-properties.fb1f3fcb8354f18648910773a1c6f0af72dbc801.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/device-information-properties.fb1f3fcb8354f18648910773a1c6f0af72dbc801.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3034,7 +3034,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [enable-device-capabilities.44e72b0dceffb7cd537add26930a69dc30953f32.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/enable-device-capabilities.44e72b0dceffb7cd537add26930a69dc30953f32.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3046,7 +3046,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [enumerate-devices.a7c60acb94b1664cf9a6472cbe9d3cea5ea598fb.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/enumerate-devices.a7c60acb94b1664cf9a6472cbe9d3cea5ea598fb.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3058,7 +3058,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [enumerate-devices-over-a-network.20a76402493fc0f7b46b898daf546452ebd7c301.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/enumerate-devices-over-a-network.20a76402493fc0f7b46b898daf546452ebd7c301.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3070,7 +3070,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [epson-esc-pos-with-formatting.e0f00ec656a87948256d4a2fbc6ab073e09ab9ff.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/epson-esc-pos-with-formatting.e0f00ec656a87948256d4a2fbc6ab073e09ab9ff.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3082,7 +3082,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [gatt-scenarios.772b474456664c71f2d8fb16310871eba80b5c4b.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/gatt-scenarios.772b474456664c71f2d8fb16310871eba80b5c4b.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3094,7 +3094,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [get-battery-info.e77dc140d559efaef4af8061f78c62ca2c76c799.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/get-battery-info.e77dc140d559efaef4af8061f78c62ca2c76c799.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3106,7 +3106,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [host-card-emulation.31f059139660c32f47c999f09bfe253700baf78f.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/host-card-emulation.31f059139660c32f47c999f09bfe253700baf78f.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3118,7 +3118,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [34ce1ba42c93457b28691e358831a508597b298f.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/34ce1ba42c93457b28691e358831a508597b298f.png)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3131,7 +3131,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [ad405137416569d6e655743fbf94c8c80f93755c.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/ad405137416569d6e655743fbf94c8c80f93755c.png)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3144,7 +3144,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [db61344d5f58e7e9974e86abc07dd44c3429167a.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/db61344d5f58e7e9974e86abc07dd44c3429167a.png)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3157,7 +3157,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [dc7225c2a9f6ad98c98e4e02eeecc555288b4157.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/dc7225c2a9f6ad98c98e4e02eeecc555288b4157.png)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3170,7 +3170,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [280322bf9a41f156f092e9b52d1c6536c386e27b.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/280322bf9a41f156f092e9b52d1c6536c386e27b.png)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3183,7 +3183,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [4da08a6e9faf12bb5dc7caf4f346dc50ae378ac8.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/4da08a6e9faf12bb5dc7caf4f346dc50ae378ac8.png)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3196,7 +3196,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [0d10b05a511c945d903d6bd82be796202912d483.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/0d10b05a511c945d903d6bd82be796202912d483.png)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3209,7 +3209,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [c43ef20d6b9d6422c0306d81e891e519666e3310.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/c43ef20d6b9d6422c0306d81e891e519666e3310.png)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3222,7 +3222,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [d1dfac2bf4fd565909a296de37cdcc7d88b2f66c.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/d1dfac2bf4fd565909a296de37cdcc7d88b2f66c.png)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3235,7 +3235,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [002511e038f43b765ad0e70703796fa3f6f1f54a.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/002511e038f43b765ad0e70703796fa3f6f1f54a.png)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3248,7 +3248,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [90c7ecda71cf0000fd5b8bb0adfd17e1e0e03dfd.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/90c7ecda71cf0000fd5b8bb0adfd17e1e0e03dfd.png)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3261,7 +3261,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [c19c414d13095c61971d3d0fe7ef2820bfb0d6cc.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/c19c414d13095c61971d3d0fe7ef2820bfb0d6cc.png)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3274,7 +3274,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [85ca5217a6a62cad158009e9c26a5a9e4607b82a.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/85ca5217a6a62cad158009e9c26a5a9e4607b82a.png)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3287,7 +3287,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [1e45b813bb59c1c92dc98602387180ae11d43249.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/1e45b813bb59c1c92dc98602387180ae11d43249.png)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3300,7 +3300,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [5f0f8f74ecf3a67cf978683559ec0994695068fe.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/5f0f8f74ecf3a67cf978683559ec0994695068fe.png)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3313,7 +3313,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [6e4afeadfe36ce4b91f6c9617ee00814924f2770.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/6e4afeadfe36ce4b91f6c9617ee00814924f2770.png)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3326,7 +3326,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [4f625926cc2e273d91c1f0179fc5bb3e78fbf3ad.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/4f625926cc2e273d91c1f0179fc5bb3e78fbf3ad.png)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3339,7 +3339,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [6084dfebd13ad8f42139027580920b2c316db9a0.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/6084dfebd13ad8f42139027580920b2c316db9a0.png)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3352,7 +3352,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [edd67b20e8ca923aedcc76f7ee4726c2d302c972.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/edd67b20e8ca923aedcc76f7ee4726c2d302c972.png)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3365,7 +3365,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [58236135d6c51eeca583aa62721d60d2244a3f69.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/58236135d6c51eeca583aa62721d60d2244a3f69.png)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3378,7 +3378,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [d0ca1c2b792d95199b7c692d4be7852a6413440d.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/d0ca1c2b792d95199b7c692d4be7852a6413440d.png)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3391,7 +3391,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [7245ab445177e9240f9294539c5fa108ccf52add.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/7245ab445177e9240f9294539c5fa108ccf52add.png)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3404,7 +3404,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [7551619cd5856be67a81dd891dd7b75cafa45877.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/7551619cd5856be67a81dd891dd7b75cafa45877.png)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3417,7 +3417,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [index.d8f5d38c5cf676f2b6eb983430cac93d5df9baeb.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/index.d8f5d38c5cf676f2b6eb983430cac93d5df9baeb.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3429,7 +3429,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [pair-devices.a30f6dd445f09790cf0e0cd247713c26758deb0f.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/pair-devices.a30f6dd445f09790cf0e0cd247713c26758deb0f.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3441,7 +3441,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [print-from-your-app.58ab5ca6d57a48fcf04c797ad5f2a977104667e7.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/print-from-your-app.58ab5ca6d57a48fcf04c797ad5f2a977104667e7.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3453,7 +3453,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [printing-and-scanning.2c18a085d60f646e4661f27895996c19a3a3f929.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/printing-and-scanning.2c18a085d60f646e4661f27895996c19a3a3f929.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3465,7 +3465,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [scan-from-your-app.399544c601dd2cb14dc495a367a31b89cd97e8e1.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/scan-from-your-app.399544c601dd2cb14dc495a367a31b89cd97e8e1.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3477,7 +3477,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [send-or-receive-files-with-rfcomm.c11e709a26b55c3917fe66b4d5d7eb3743ea8b58.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/send-or-receive-files-with-rfcomm.c11e709a26b55c3917fe66b4d5d7eb3743ea8b58.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3489,7 +3489,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [sensor-orientation.346253c0e9ef1141bad735b32b349389c78cf5d9.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/sensor-orientation.346253c0e9ef1141bad735b32b349389c78cf5d9.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3501,7 +3501,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [sensors.a6edb4bf6b41a0c6d5a4bd61a13f645c97499bd8.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/sensors.a6edb4bf6b41a0c6d5a4bd61a13f645c97499bd8.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3513,7 +3513,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [use-the-accelerometer.accab948d3a5c4fa9702a2d74448f54acbc09dff.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/use-the-accelerometer.accab948d3a5c4fa9702a2d74448f54acbc09dff.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3525,7 +3525,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [use-the-compass.328e498f03a41c4c83f80efebe143c0cef524556.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/use-the-compass.328e498f03a41c4c83f80efebe143c0cef524556.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3537,7 +3537,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [use-the-gyrometer.d00d71c33d3bbe1731b94026b3d5c13743395cb9.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/use-the-gyrometer.d00d71c33d3bbe1731b94026b3d5c13743395cb9.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3549,7 +3549,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [use-the-inclinometer.7753e131358e9fd48f30cbfc5e7d7526f7053943.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/use-the-inclinometer.7753e131358e9fd48f30cbfc5e7d7526f7053943.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3561,7 +3561,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [use-the-light-sensor.f0de4fbc65b3d3940b6bdd517ff3514ab0336f6b.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/use-the-light-sensor.f0de4fbc65b3d3940b6bdd517ff3514ab0336f6b.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3573,7 +3573,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [use-the-orientation-sensor.e842467fa4867df8300415ddf6c23e4068b390a4.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/use-the-orientation-sensor.e842467fa4867df8300415ddf6c23e4068b390a4.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3585,7 +3585,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [access-the-sd-card.1e3e7291e00d44d2af390382a7ff474aea50633a.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/access-the-sd-card.1e3e7291e00d44d2af390382a7ff474aea50633a.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3597,7 +3597,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [file-access-permissions.7425425764fdb6786845a277e69193ad0b6cff54.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/file-access-permissions.7425425764fdb6786845a277e69193ad0b6cff54.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3609,7 +3609,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [how-to-track-recently-used-files-and-folders.b9ac60fec225e009f39d8b00c3d1335998bcee35.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/how-to-track-recently-used-files-and-folders.b9ac60fec225e009f39d8b00c3d1335998bcee35.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3621,7 +3621,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [1223021b5904a53a7ae4f06400037d597608eeea.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/1223021b5904a53a7ae4f06400037d597608eeea.png)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3634,7 +3634,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [9a5d025932240178a724c75df457cf6e2e3dead6.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/9a5d025932240178a724c75df457cf6e2e3dead6.png)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3647,7 +3647,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [c380c2394ff9d39c56af5f382a131a8460a4a136.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/c380c2394ff9d39c56af5f382a131a8460a4a136.png)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3660,7 +3660,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [6d4b6e3ac9146763af8ef8e02271aafa2047e50c.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/6d4b6e3ac9146763af8ef8e02271aafa2047e50c.png)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3673,7 +3673,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [index.cdc7e3b3cfc7f0fbd9fcbeba43a8268f4becd98e.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/index.cdc7e3b3cfc7f0fbd9fcbeba43a8268f4becd98e.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3685,7 +3685,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [quickstart-accessing-homegroup-content.48cdd458e952b7462dd7ed50490b941b86d5ab3e.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/quickstart-accessing-homegroup-content.48cdd458e952b7462dd7ed50490b941b86d5ab3e.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3697,7 +3697,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [quickstart-determining-availability-of-microsoft-onedrive-files.5a2eebcb3409c4cfe44bd91865a838a30679e362.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/quickstart-determining-availability-of-microsoft-onedrive-files.5a2eebcb3409c4cfe44bd91865a838a30679e362.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3709,7 +3709,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [quickstart-getting-file-properties.5baf8faefb0ad7b6974d51c623198e4497d59e26.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/quickstart-getting-file-properties.5baf8faefb0ad7b6974d51c623198e4497d59e26.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3721,7 +3721,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [quickstart-listing-files-and-folders.c1ff66b949dd1c5c9de12e249c3c6880b6b65815.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/quickstart-listing-files-and-folders.c1ff66b949dd1c5c9de12e249c3c6880b6b65815.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3733,7 +3733,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [quickstart-managing-folders-in-the-music-pictures-and-videos-libraries.c416e527086416cc65ea34afac96bc7968cd2062.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/quickstart-managing-folders-in-the-music-pictures-and-videos-libraries.c416e527086416cc65ea34afac96bc7968cd2062.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3745,7 +3745,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [quickstart-reading-and-writing-files.d462dc969721d7923ae8beda35525c960d382c37.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/quickstart-reading-and-writing-files.d462dc969721d7923ae8beda35525c960d382c37.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3757,7 +3757,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [quickstart-save-a-file-with-a-picker.8edc62fececd3db78a2c33a5651a63de095f44da.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/quickstart-save-a-file-with-a-picker.8edc62fececd3db78a2c33a5651a63de095f44da.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3769,7 +3769,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [quickstart-using-file-and-folder-pickers.c5350ea2e3b0f7d473c98047869cd93a190d43f6.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/quickstart-using-file-and-folder-pickers.c5350ea2e3b0f7d473c98047869cd93a190d43f6.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -4225,7 +4225,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [copy-and-paste.937f2db2b7819787c39520e8bdc6250b9924d624.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/copy-and-paste.937f2db2b7819787c39520e8bdc6250b9924d624.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -4237,7 +4237,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [drag-and-drop.c95532f436d95a6d1f93dd4eb3e10606a8ba5f24.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/drag-and-drop.c95532f436d95a6d1f93dd4eb3e10606a8ba5f24.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -4249,7 +4249,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [index.8516bc6d882b081c2236684930ae6e6096ac48e2.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/index.8516bc6d882b081c2236684930ae6e6096ac48e2.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -4261,7 +4261,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [receive-data.80097f8ba93490c22aea08f63a14a21715043641.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/receive-data.80097f8ba93490c22aea08f63a14a21715043641.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -4273,7 +4273,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [share-data.e9f7059f5445d872140823cac9009f93e18f74e8.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/share-data.e9f7059f5445d872140823cac9009f93e18f74e8.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -4285,7 +4285,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [adaptive-streaming.ad27508ebbf8345711f3272f09f44d36b9062305.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/adaptive-streaming.ad27508ebbf8345711f3272f09f44d36b9062305.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -4297,7 +4297,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [adaptive-streaming-with-playready.f931cb35e7c2f336ca247a0143c1d6e70547707a.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/adaptive-streaming-with-playready.f931cb35e7c2f336ca247a0143c1d6e70547707a.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -4309,7 +4309,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [audio-graphs.dad20592f64514be27f44c47c3209c8a525bbe2f.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/audio-graphs.dad20592f64514be27f44c47c3209c8a525bbe2f.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -4321,7 +4321,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [background-audio.f66026485363a7e0569fcc6016caacc0793cab69.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/background-audio.f66026485363a7e0569fcc6016caacc0793cab69.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -4333,7 +4333,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [bitmapencoder-options-reference.0fa9864d7941df960c66583a5ce09cd6170f568a.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/bitmapencoder-options-reference.0fa9864d7941df960c66583a5ce09cd6170f568a.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -4345,7 +4345,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [camera-independent-flashlight.273354eb33565b764165872c73021598b853a058.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/camera-independent-flashlight.273354eb33565b764165872c73021598b853a058.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -4357,7 +4357,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [camera-profiles.0ec096db9ca2c1d5f4a15ebf4fa053f769908667.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/camera-profiles.0ec096db9ca2c1d5f4a15ebf4fa053f769908667.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -4369,7 +4369,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [capture-device-controls-for-photo-and-video-capture.2244826f4e2564d6e82c5925f7678abf4570b3ca.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/capture-device-controls-for-photo-and-video-capture.2244826f4e2564d6e82c5925f7678abf4570b3ca.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -4381,7 +4381,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [capture-device-controls-for-video-capture.d991fb32dc3a22667ceaba4de45560593402cbc4.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/capture-device-controls-for-video-capture.d991fb32dc3a22667ceaba4de45560593402cbc4.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -4393,7 +4393,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [capture-photos-and-video-with-cameracaptureui.aba17b3db98a084c6dd26fbe726ff10d7c9c275a.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/capture-photos-and-video-with-cameracaptureui.aba17b3db98a084c6dd26fbe726ff10d7c9c275a.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -4405,7 +4405,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [capture-photos-and-video-with-mediacapture.0b841baab063eefd4e59ca1dc226098053a502b4.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/capture-photos-and-video-with-mediacapture.0b841baab063eefd4e59ca1dc226098053a502b4.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -6709,7 +6709,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [detect-and-track-faces-in-an-image.67e5866ac8e294cecf48e84f782b54fcdc402e1d.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/detect-and-track-faces-in-an-image.67e5866ac8e294cecf48e84f782b54fcdc402e1d.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -6721,7 +6721,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [effects-for-video-capture.0909f8caf28c915597d8465efb8f4f21343a29c7.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/effects-for-video-capture.0909f8caf28c915597d8465efb8f4f21343a29c7.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -6733,7 +6733,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [get-a-preview-frame.6e8790178b6a7006b6f412beafda806bfd85372e.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/get-a-preview-frame.6e8790178b6a7006b6f412beafda806bfd85372e.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -6745,7 +6745,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [hardware-drm.6e3b289924f382fd61a4c7849814e9166a007b10.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/hardware-drm.6e3b289924f382fd61a4c7849814e9166a007b10.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -6757,7 +6757,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [high-dynamic-range-hdr-photo-capture.a85be19e45ed348ae57de1321970352ebee18528.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/high-dynamic-range-hdr-photo-capture.a85be19e45ed348ae57de1321970352ebee18528.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -6769,7 +6769,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [image-metadata.c9c60a337a8c37bb39cf0a68f98b9858d1a2da9a.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/image-metadata.c9c60a337a8c37bb39cf0a68f98b9858d1a2da9a.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -6781,7 +6781,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [imaging.175d9df7e94a1fc57030da38199e5cbfe13137aa.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/imaging.175d9df7e94a1fc57030da38199e5cbfe13137aa.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -6793,7 +6793,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [index.a9430364886a3b06e3921637072a0aaee016e553.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/index.a9430364886a3b06e3921637072a0aaee016e553.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -6805,7 +6805,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [media-casting.ac986e0aa63b2f0eae3698473b40669c5d4af3c1.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/media-casting.ac986e0aa63b2f0eae3698473b40669c5d4af3c1.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -6817,7 +6817,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [media-compositions-and-editing.a4f0c7e1818d5678b745f9ea4cbeefb07e765c7b.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/media-compositions-and-editing.a4f0c7e1818d5678b745f9ea4cbeefb07e765c7b.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -6829,7 +6829,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [media-playback-with-mediasource.7b4e3d6bbf9945dab97325c385db5e68ca7ef92a.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/media-playback-with-mediasource.7b4e3d6bbf9945dab97325c385db5e68ca7ef92a.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -6841,7 +6841,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [midi.2ef0afab3f19b7f17af6a04f33db943faf36b627.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/midi.2ef0afab3f19b7f17af6a04f33db943faf36b627.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -6853,7 +6853,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [playready-client-sdk.925b058b149f2c80c3295db3ca8bad4950fbfe63.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/playready-client-sdk.925b058b149f2c80c3295db3ca8bad4950fbfe63.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -6865,7 +6865,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [playready-encrypted-media-extension.3eb4f2554423e0c8cac177f9d4d37cd87f1fa146.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/playready-encrypted-media-extension.3eb4f2554423e0c8cac177f9d4d37cd87f1fa146.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -6877,7 +6877,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [process-media-files-in-the-background.56a5cb3b562a1b70f51d9679d72078ebb09b9ecb.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/process-media-files-in-the-background.56a5cb3b562a1b70f51d9679d72078ebb09b9ecb.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -6889,7 +6889,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [scene-analysis-for-media-capture.d8155ec5104aeec9f5ea5fa51c259f580be47402.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/scene-analysis-for-media-capture.d8155ec5104aeec9f5ea5fa51c259f580be47402.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -6901,7 +6901,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [set-media-encoding-properties.448cf88fc28ffd4a46bbe59a452d2398de5f3aba.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/set-media-encoding-properties.448cf88fc28ffd4a46bbe59a452d2398de5f3aba.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -6913,7 +6913,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [simple-camera-preview-access.8986c11c2d98b17dc76e7e42324d8dc762a4f93d.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/simple-camera-preview-access.8986c11c2d98b17dc76e7e42324d8dc762a4f93d.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -6925,7 +6925,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [supported-codecs.62cd34b114887b447ea8f3740a65ca629bc73812.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/supported-codecs.62cd34b114887b447ea8f3740a65ca629bc73812.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -6937,7 +6937,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [system-media-transport-controls.563a94bceca940ec0a52134cb28f6517665ae14a.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/system-media-transport-controls.563a94bceca940ec0a52134cb28f6517665ae14a.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -6949,7 +6949,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [transcode-media-files.5ca3115ca70d979f20301441e8609ad57c695047.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/transcode-media-files.5ca3115ca70d979f20301441e8609ad57c695047.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -6961,7 +6961,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [variable-photo-sequence.73f0aab1b682c841a24f2ffaa26033de15e9f320.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/variable-photo-sequence.73f0aab1b682c841a24f2ffaa26033de15e9f320.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -6973,7 +6973,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [index.f11a6244947f266c706f656e6ef5b6d66a0a0cfc.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/index.f11a6244947f266c706f656e6ef5b6d66a0a0cfc.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -6985,7 +6985,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [managing-appointments.f1c1e6efe7d259db9a81bffba704e33cdefc867f.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/managing-appointments.f1c1e6efe7d259db9a81bffba704e33cdefc867f.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -6997,7 +6997,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [selecting-contacts.43c0a022573465b4add838efaf43e34d43343408.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/selecting-contacts.43c0a022573465b4add838efaf43e34d43343408.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7009,7 +7009,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [sending-an-sms-message.e2928a35578b1bcd8e3d859139ebcc56bd3ceafb.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/sending-an-sms-message.e2928a35578b1bcd8e3d859139ebcc56bd3ceafb.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7021,7 +7021,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [sending-email.943040f1b1a387da631ab3231167741ff6022e2f.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/sending-email.943040f1b1a387da631ab3231167741ff6022e2f.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7033,7 +7033,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [entity-framework-7-with-sqlite-for-csharp-apps.2039f0b252c88f1f449bd9b18f27c710ccca40c1.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/entity-framework-7-with-sqlite-for-csharp-apps.2039f0b252c88f1f449bd9b18f27c710ccca40c1.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7045,7 +7045,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [index.8708ca78a50a7446b72aa9ec3247d88a80fceb0c.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/index.8708ca78a50a7446b72aa9ec3247d88a80fceb0c.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7057,7 +7057,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [sqlite-databases.3ac906003cecff1be34a0c9ec2f8dbbc5834acc7.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/sqlite-databases.3ac906003cecff1be34a0c9ec2f8dbbc5834acc7.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7069,7 +7069,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [data-binding-in-depth.b424360742d9ebee728c69a526b27ea36285144b.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/data-binding-in-depth.b424360742d9ebee728c69a526b27ea36285144b.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7081,7 +7081,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [data-binding-quickstart.4e8634e6a37555281c59ddd593d0f2c9ea839428.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/data-binding-quickstart.4e8634e6a37555281c59ddd593d0f2c9ea839428.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7093,7 +7093,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [displaying-data-in-the-designer.3afa7dee8686cb59b7fb626047382c6b548e4704.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/displaying-data-in-the-designer.3afa7dee8686cb59b7fb626047382c6b548e4704.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7105,7 +7105,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [how-to-bind-to-hierarchical-data-and-create-a-master-details-view.02dc7edc047987d824865f8e211eb7ce6225bac0.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/how-to-bind-to-hierarchical-data-and-create-a-master-details-view.02dc7edc047987d824865f8e211eb7ce6225bac0.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7117,7 +7117,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [index.c0ab8a12ea06eb5b7787617d40a85c2c2ca0d046.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/index.c0ab8a12ea06eb5b7787617d40a85c2c2ca0d046.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7129,7 +7129,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [best-practices-for-your-app-s-startup-performance.cd19e93e737f7ba4b0bd5a86f68412617f6e98f1.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/best-practices-for-your-app-s-startup-performance.cd19e93e737f7ba4b0bd5a86f68412617f6e98f1.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7141,7 +7141,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [beta-testing.25478422f0c3c3512db3aa5cbe9b1353abc0de7d.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/beta-testing.25478422f0c3c3512db3aa5cbe9b1353abc0de7d.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7153,7 +7153,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [debugging-and-testing-apps-portal.9fa7cdf8c199dd364b19dde17659cb532f389b2d.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/debugging-and-testing-apps-portal.9fa7cdf8c199dd364b19dde17659cb532f389b2d.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7165,7 +7165,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [deploying-and-debugging-uwp-apps.88f92f7ab1b6df862c0496743e87fdd3cf4e21cb.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/deploying-and-debugging-uwp-apps.88f92f7ab1b6df862c0496743e87fdd3cf4e21cb.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7177,7 +7177,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [improve-garbage-collection-performance.22bf1f6dbcec7999a2b05fdac52bdc86e8c76bbb.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/improve-garbage-collection-performance.22bf1f6dbcec7999a2b05fdac52bdc86e8c76bbb.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7189,7 +7189,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [index.5199211968ae324a6f36f8140d3684a944796fa5.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/index.5199211968ae324a6f36f8140d3684a944796fa5.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7201,7 +7201,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [keep-the-ui-thread-responsive.5ae27a21cb15ffe8d113848574c2e2a322fdf4fd.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/keep-the-ui-thread-responsive.5ae27a21cb15ffe8d113848574c2e2a322fdf4fd.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7213,7 +7213,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [listview-and-gridview-data-optimization.b85ba77def1e7d3ebcb092789c6fe29d3a7d9e0e.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/listview-and-gridview-data-optimization.b85ba77def1e7d3ebcb092789c6fe29d3a7d9e0e.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7225,7 +7225,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [mvvm-performance-tips.f1e1b28ea6f84470c832acc325ed208cc204ce90.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/mvvm-performance-tips.f1e1b28ea6f84470c832acc325ed208cc204ce90.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7237,7 +7237,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [optimize-animations-and-media.d236b898fa8e96f8792e9c0f26f292e74f0924b7.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/optimize-animations-and-media.d236b898fa8e96f8792e9c0f26f292e74f0924b7.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7249,7 +7249,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [optimize-file-access.0df08ecce893f1620468918c3a3a2c8a2f1e01cd.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/optimize-file-access.0df08ecce893f1620468918c3a3a2c8a2f1e01cd.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7261,7 +7261,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [optimize-gridview-and-listview.e43deabb38af4b916cf8446119e7e34856a36970.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/optimize-gridview-and-listview.e43deabb38af4b916cf8446119e7e34856a36970.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7273,7 +7273,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [optimize-suspend-resume.046ac79107510d2b78d17a4d1533c82dbde74ad9.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/optimize-suspend-resume.046ac79107510d2b78d17a4d1533c82dbde74ad9.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7285,7 +7285,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [optimize-xaml-loading.81887647640ff3d2d720a1d1168ac35115787be2.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/optimize-xaml-loading.81887647640ff3d2d720a1d1168ac35115787be2.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7297,7 +7297,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [optimize-your-xaml-layout.bec17aa94f943f78d0268e64655c6a3181a606af.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/optimize-your-xaml-layout.bec17aa94f943f78d0268e64655c6a3181a606af.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7309,7 +7309,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [performance-and-xaml-ui.c7e31f5c05011612d57cc8315e8562cd6fabc9b5.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/performance-and-xaml-ui.c7e31f5c05011612d57cc8315e8562cd6fabc9b5.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7321,7 +7321,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [planning-and-measuring-performance.aedf39f9c2354830d35dee3eee8c595d48b0261d.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/planning-and-measuring-performance.aedf39f9c2354830d35dee3eee8c595d48b0261d.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7333,7 +7333,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [test-with-the-emulator.fe4da7342660d737f0b399da8570fc875600c7fb.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/test-with-the-emulator.fe4da7342660d737f0b399da8570fc875600c7fb.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7345,7 +7345,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [tools-for-profiling-and-performance.93c0e74cb655bfac68c6137b0fef1615b4256319.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/tools-for-profiling-and-performance.93c0e74cb655bfac68c6137b0fef1615b4256319.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7357,7 +7357,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [windows-app-certification-kit.d00586bccd5967df773ccd124f08e040fe5361fb.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/windows-app-certification-kit.d00586bccd5967df773ccd124f08e040fe5361fb.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7369,7 +7369,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [windows-app-certification-kit-tests.92997173e40105cd7983b19862ba88d3328ae101.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/windows-app-certification-kit-tests.92997173e40105cd7983b19862ba88d3328ae101.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7381,7 +7381,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [windows-runtime-components-and-optimizing-interop.4bc2c2c19cbca94aad4a3d13421bc3fab5888694.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/windows-runtime-components-and-optimizing-interop.4bc2c2c19cbca94aad4a3d13421bc3fab5888694.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7393,7 +7393,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [aep-service-class-ids.7616ccbccd19245d7c28581acbd641ba9d2494c4.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/aep-service-class-ids.7616ccbccd19245d7c28581acbd641ba9d2494c4.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7405,7 +7405,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [bluetooth.84366f2f19b935d3902fed5f69cfc9325502a8d9.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/bluetooth.84366f2f19b935d3902fed5f69cfc9325502a8d9.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7417,7 +7417,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [build-a-device-selector.6815e5f3a00e0bab6b8a107fd20883a88b65f36e.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/build-a-device-selector.6815e5f3a00e0bab6b8a107fd20883a88b65f36e.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7429,7 +7429,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [calibrate-sensors.b1c0e4250685fa882ff2a0853efefd439bfb1a62.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/calibrate-sensors.b1c0e4250685fa882ff2a0853efefd439bfb1a62.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7441,7 +7441,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [customize-the-print-preview-ui.246cd4b5e913b6392ccf64d5cd9e4102c1d2edb6.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/customize-the-print-preview-ui.246cd4b5e913b6392ccf64d5cd9e4102c1d2edb6.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7453,7 +7453,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [device-information-properties.858a00336df0be024e6583d9e5573071485ef9e1.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/device-information-properties.858a00336df0be024e6583d9e5573071485ef9e1.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7465,7 +7465,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [enable-device-capabilities.39b3122e65d99043b9df657a4b1c5acdd11d16e9.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/enable-device-capabilities.39b3122e65d99043b9df657a4b1c5acdd11d16e9.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7477,7 +7477,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [enumerate-devices.5ab1a90fd283c9c34838df46e97c12b5614c8320.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/enumerate-devices.5ab1a90fd283c9c34838df46e97c12b5614c8320.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7489,7 +7489,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [enumerate-devices-over-a-network.4fd6ba504203266e98966717f01527e1cac7cd6b.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/enumerate-devices-over-a-network.4fd6ba504203266e98966717f01527e1cac7cd6b.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7501,7 +7501,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [epson-esc-pos-with-formatting.07b6a370e497a59231de0b09ae6a75e959750ccf.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/epson-esc-pos-with-formatting.07b6a370e497a59231de0b09ae6a75e959750ccf.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7513,7 +7513,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [gatt-scenarios.51b530d57b23f4a0b4f4fb8645a308c3a5f639f7.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/gatt-scenarios.51b530d57b23f4a0b4f4fb8645a308c3a5f639f7.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7525,7 +7525,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [get-battery-info.5e591b891a55cdbfa7b9c68b2d3a1a6f14a54b45.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/get-battery-info.5e591b891a55cdbfa7b9c68b2d3a1a6f14a54b45.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7537,7 +7537,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [host-card-emulation.c74e9d0ac7f2cd484aea506ee7224f6c9ccade86.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/host-card-emulation.c74e9d0ac7f2cd484aea506ee7224f6c9ccade86.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7549,7 +7549,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [index.3e49c104c7e5cbed276589098c5335ddc22b915c.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/index.3e49c104c7e5cbed276589098c5335ddc22b915c.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7561,7 +7561,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [pair-devices.c2ca83860076474a16fd7ea32a03cffd86b129f5.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/pair-devices.c2ca83860076474a16fd7ea32a03cffd86b129f5.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7573,7 +7573,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [print-from-your-app.202d24b1ff38a6487c4a62110d4f935bf7aaead9.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/print-from-your-app.202d24b1ff38a6487c4a62110d4f935bf7aaead9.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7585,7 +7585,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [printing-and-scanning.ab20216236a2d6e9e87d2fe4caed0bd1c36b54d7.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/printing-and-scanning.ab20216236a2d6e9e87d2fe4caed0bd1c36b54d7.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7597,7 +7597,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [scan-from-your-app.dfe7ac1ce1e8019751c7cc45c203897ab0328f28.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/scan-from-your-app.dfe7ac1ce1e8019751c7cc45c203897ab0328f28.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7609,7 +7609,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [send-or-receive-files-with-rfcomm.e38b5d08f364377e929e987d26306f55252d6416.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/send-or-receive-files-with-rfcomm.e38b5d08f364377e929e987d26306f55252d6416.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7621,7 +7621,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [sensor-orientation.6167c66dbd9ac266b2013af64cd00ed36c383be0.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/sensor-orientation.6167c66dbd9ac266b2013af64cd00ed36c383be0.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7633,7 +7633,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [sensors.93322ef23190d5747de6b99381a48bc26d5ca22a.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/sensors.93322ef23190d5747de6b99381a48bc26d5ca22a.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7645,7 +7645,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [use-the-accelerometer.3d329186bf888606211122121016ba3c5c1799a6.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/use-the-accelerometer.3d329186bf888606211122121016ba3c5c1799a6.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7657,7 +7657,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [use-the-compass.e7c3f66251ba89ffe4df3e922c6f13b98ffb4106.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/use-the-compass.e7c3f66251ba89ffe4df3e922c6f13b98ffb4106.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7669,7 +7669,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [use-the-gyrometer.8829b6c09a82aa5d0f92be6b324a1bb28de417e9.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/use-the-gyrometer.8829b6c09a82aa5d0f92be6b324a1bb28de417e9.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7681,7 +7681,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [use-the-inclinometer.d0826c490c910bc0d4fcdae60c57fc5d71af632c.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/use-the-inclinometer.d0826c490c910bc0d4fcdae60c57fc5d71af632c.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7693,7 +7693,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [use-the-light-sensor.615458c8cf49efd35c4ae69e169dce39dc32df1e.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/use-the-light-sensor.615458c8cf49efd35c4ae69e169dce39dc32df1e.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7705,7 +7705,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [use-the-orientation-sensor.af0cf80413f8e53f43b62ad230c6b263f640be5c.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/use-the-orientation-sensor.af0cf80413f8e53f43b62ad230c6b263f640be5c.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7729,7 +7729,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [index.96a8d42f8815f365b08e4dda0ed55ad6780899bd.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/index.96a8d42f8815f365b08e4dda0ed55ad6780899bd.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7741,7 +7741,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [access-the-sd-card.6157ef204c6941e79098a8f1fce292452eb974b7.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/access-the-sd-card.6157ef204c6941e79098a8f1fce292452eb974b7.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7753,7 +7753,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [file-access-permissions.df043c3d335cf16e802c8ee6d7752078ed6eaf66.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/file-access-permissions.df043c3d335cf16e802c8ee6d7752078ed6eaf66.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7765,7 +7765,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [how-to-track-recently-used-files-and-folders.6d958a02164b89daf660ef7d8fceeb042ac381dc.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/how-to-track-recently-used-files-and-folders.6d958a02164b89daf660ef7d8fceeb042ac381dc.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7777,7 +7777,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [index.3900c6470fb1b5df5121e4b40a7630862ab7bd98.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/index.3900c6470fb1b5df5121e4b40a7630862ab7bd98.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7789,7 +7789,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [quickstart-accessing-homegroup-content.2d3f5e28d4c786508346fd13bb71dd783efd96d0.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/quickstart-accessing-homegroup-content.2d3f5e28d4c786508346fd13bb71dd783efd96d0.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7801,7 +7801,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [quickstart-determining-availability-of-microsoft-onedrive-files.8a476c2ec353846cddbe79767582eca206a6cbb8.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/quickstart-determining-availability-of-microsoft-onedrive-files.8a476c2ec353846cddbe79767582eca206a6cbb8.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7813,7 +7813,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [quickstart-getting-file-properties.068894fc6b2ee5e632714e0c8cf7b2541dfcb781.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/quickstart-getting-file-properties.068894fc6b2ee5e632714e0c8cf7b2541dfcb781.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7825,7 +7825,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [quickstart-listing-files-and-folders.38e95aa83106ca2126714155526d3149bcd31f5c.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/quickstart-listing-files-and-folders.38e95aa83106ca2126714155526d3149bcd31f5c.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7837,7 +7837,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [quickstart-managing-folders-in-the-music-pictures-and-videos-libraries.87a41664065f89ac0b147d28cee1591dfd1d47a9.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/quickstart-managing-folders-in-the-music-pictures-and-videos-libraries.87a41664065f89ac0b147d28cee1591dfd1d47a9.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7849,7 +7849,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [quickstart-reading-and-writing-files.3966e007f9b9d0d4516ca711940c498859236626.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/quickstart-reading-and-writing-files.3966e007f9b9d0d4516ca711940c498859236626.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7861,7 +7861,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [quickstart-save-a-file-with-a-picker.fde48679ea65d14d7192727cf1ac0e97b03bfbe3.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/quickstart-save-a-file-with-a-picker.fde48679ea65d14d7192727cf1ac0e97b03bfbe3.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7873,7 +7873,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [quickstart-using-file-and-folder-pickers.6095391c9f5f4865bb9d21a847e89287b2065297.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/quickstart-using-file-and-folder-pickers.6095391c9f5f4865bb9d21a847e89287b2065297.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7885,7 +7885,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [account-types-locations-and-fees.52e52704753403f64bda470c9808229f2f42f46e.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/account-types-locations-and-fees.52e52704753403f64bda470c9808229f2f42f46e.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7897,7 +7897,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [create-a-basic-windows-10-app-in-cpp.961b676f2c934cd2a618de690461895a9504e7c2.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/create-a-basic-windows-10-app-in-cpp.961b676f2c934cd2a618de690461895a9504e7c2.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7909,7 +7909,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [create-a-hello-world-app-js-universal.bd637662f26e3c97eeff15abf8169108b4bbaf5f.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/create-a-hello-world-app-js-universal.bd637662f26e3c97eeff15abf8169108b4bbaf5f.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7921,7 +7921,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [create-a-hello-world-app-xaml-universal.84598707912b9cb1397fb1e49a041be8b2e3b842.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/create-a-hello-world-app-xaml-universal.84598707912b9cb1397fb1e49a041be8b2e3b842.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7933,7 +7933,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [enable-your-device-for-development.33eafb3b7d062997799f72d699a35c22dd4de8de.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/enable-your-device-for-development.33eafb3b7d062997799f72d699a35c22dd4de8de.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7945,7 +7945,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [get-set-up.155e493f23a86db2d181ac72f015a387ba8387ce.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/get-set-up.155e493f23a86db2d181ac72f015a387ba8387ce.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7969,7 +7969,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [learn-more.bf7926f086400a7fe167f1dc5baa9bdc8a75f45c.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/learn-more.bf7926f086400a7fe167f1dc5baa9bdc8a75f45c.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7981,7 +7981,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [managing-your-profile.c3fcd011c459adaed5362b43dce4a5abb14f815c.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/managing-your-profile.c3fcd011c459adaed5362b43dce4a5abb14f815c.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7993,7 +7993,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [opening-a-developer-account.6dd56fda6fda0fca00cca1a65a24e353a292d6c9.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/opening-a-developer-account.6dd56fda6fda0fca00cca1a65a24e353a292d6c9.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8005,7 +8005,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [sign-up.c4480a7c991dfa348f29a56fccddbdac6af58203.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/sign-up.c4480a7c991dfa348f29a56fccddbdac6af58203.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8017,7 +8017,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [whats-a-uwp.103f4d8c237764b15069ebfaba088e4e44517fe7.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/whats-a-uwp.103f4d8c237764b15069ebfaba088e4e44517fe7.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8029,7 +8029,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [your-first-app.1e63e7ec8501e4f3b1f8297ea1581282aefa13af.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/your-first-app.1e63e7ec8501e4f3b1f8297ea1581282aefa13af.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8041,7 +8041,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [3-d-perspective-effects.6d34006f43a5b6ac4548ca4b38894cf986bbc6af.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/3-d-perspective-effects.6d34006f43a5b6ac4548ca4b38894cf986bbc6af.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8053,7 +8053,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [animations-overview.06e6af4e60834c44e8d2e2c6f9c70f04722878df.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/animations-overview.06e6af4e60834c44e8d2e2c6f9c70f04722878df.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8065,7 +8065,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [composition-animation.3117dec48670c0d08e8777f2e40018b19bd9ae5c.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/composition-animation.3117dec48670c0d08e8777f2e40018b19bd9ae5c.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8077,7 +8077,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [composition-brushes.10345c9ff0c30c6eed1b3cb69339d362da4b069a.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/composition-brushes.10345c9ff0c30c6eed1b3cb69339d362da4b069a.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8089,7 +8089,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [composition-effects.5efb444c3e341f994783c9e9a71ad6d6a3e2db9c.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/composition-effects.5efb444c3e341f994783c9e9a71ad6d6a3e2db9c.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8101,7 +8101,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [composition-native-interop.f67e1eda4d61ecac845c2f75c25f8223796a5a44.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/composition-native-interop.f67e1eda4d61ecac845c2f75c25f8223796a5a44.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8113,7 +8113,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [composition-visual-tree.bf1237f5418821ae9ac8b31891f4d52b410c6ad0.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/composition-visual-tree.bf1237f5418821ae9ac8b31891f4d52b410c6ad0.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8125,7 +8125,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [drawing-shapes.22d0dec46e5303ff48547df5ba2906b0a2f1468b.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/drawing-shapes.22d0dec46e5303ff48547df5ba2906b0a2f1468b.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8137,7 +8137,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [2c93f2a215aa9b5e0a5b880a0cafaa790fb9b141.gif](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/2c93f2a215aa9b5e0a5b880a0cafaa790fb9b141.gif)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8150,7 +8150,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [index.a1175b28cfe476167942c3c7862feacf2cc13ba4.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/index.a1175b28cfe476167942c3c7862feacf2cc13ba4.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8162,7 +8162,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [key-frame-and-easing-function-animations.de84d775b836ab0641d65387ad6833034a598980.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/key-frame-and-easing-function-animations.de84d775b836ab0641d65387ad6833034a598980.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8174,7 +8174,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [storyboarded-animations.281128eeb4d5c15d77be48b2aed4925f8115bcb4.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/storyboarded-animations.281128eeb4d5c15d77be48b2aed4925f8115bcb4.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8186,7 +8186,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [transforms-overview.97ffdbc6cc409d1eee11bd0a9a1e4445feebf064.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/transforms-overview.97ffdbc6cc409d1eee11bd0a9a1e4445feebf064.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8198,7 +8198,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [using-brushes.29c5580e75ff4cf77a88a9741290313b880e3e8e.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/using-brushes.29c5580e75ff4cf77a88a9741290313b880e3e8e.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8210,7 +8210,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [visual-layer.922af3c848c3c3ca7fb4ee7ed9e239205881eed9.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/visual-layer.922af3c848c3c3ca7fb4ee7ed9e239205881eed9.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8222,7 +8222,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [index.e2bef827a3922d6092b4a2672eeac61275590024.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/index.e2bef827a3922d6092b4a2672eeac61275590024.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8234,7 +8234,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [add-ads-to-apps-with-microsoft-advertising.6f906fb49f7a90d9637c9b82583a74322030aaa0.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/add-ads-to-apps-with-microsoft-advertising.6f906fb49f7a90d9637c9b82583a74322030aaa0.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8246,7 +8246,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [add-and-use-the-ad-mediator-control.0cbbf0a7c4cc717b4992cd07040f95ff6629bf67.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/add-and-use-the-ad-mediator-control.0cbbf0a7c4cc717b4992cd07040f95ff6629bf67.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8258,7 +8258,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [enable-consumable-in-app-product-purchases.226c7e60c1e8a5f63c7dcc6b4befd33e991b87bc.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/enable-consumable-in-app-product-purchases.226c7e60c1e8a5f63c7dcc6b4befd33e991b87bc.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8270,7 +8270,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [enable-in-app-product-purchases.eb9c4b61326f84aae9140582a71a0bc8b23883c3.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/enable-in-app-product-purchases.eb9c4b61326f84aae9140582a71a0bc8b23883c3.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8282,7 +8282,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [exclude-or-limit-features-in-a-trial-version-of-your-app.2d0d892fc260965ec292f63013bd911029b01162.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/exclude-or-limit-features-in-a-trial-version-of-your-app.2d0d892fc260965ec292f63013bd911029b01162.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8294,7 +8294,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [grant-free-products.df4beaeb26d5661670d94e55f72d2f6952467528.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/grant-free-products.df4beaeb26d5661670d94e55f72d2f6952467528.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8306,7 +8306,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [index.9a43326244b9332ed24e3588006cb46256f58abb.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/index.9a43326244b9332ed24e3588006cb46256f58abb.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8318,7 +8318,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [install-the-microsoft-universal-ad-client-sdk.319afe78c78c640aca0231a9d7f3fd0d0d6b6d86.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/install-the-microsoft-universal-ad-client-sdk.319afe78c78c640aca0231a9d7f3fd0d0d6b6d86.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8330,7 +8330,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [manage-a-large-catalog-of-in-app-products.58497889327f9ce9d9d6e75c3f7597d7baca2dcb.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/manage-a-large-catalog-of-in-app-products.58497889327f9ce9d9d6e75c3f7597d7baca2dcb.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8342,7 +8342,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [query-for-products.f3d5364ca940c8b7d97de4877062ed5084ec9480.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/query-for-products.f3d5364ca940c8b7d97de4877062ed5084ec9480.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8354,7 +8354,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [renew-a-windows-store-id-key.ecf15f951899193447be845edc958145505395d1.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/renew-a-windows-store-id-key.ecf15f951899193447be845edc958145505395d1.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8366,7 +8366,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [report-consumable-products-as-fulfilled.70c85797516f3bba14ca05d1fac02bffe5c5ec00.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/report-consumable-products-as-fulfilled.70c85797516f3bba14ca05d1fac02bffe5c5ec00.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8378,7 +8378,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [select-and-manage-your-ad-networks.f3765c96cb3d09d26ef34f94f4d6c45719a1362c.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/select-and-manage-your-ad-networks.f3765c96cb3d09d26ef34f94f4d6c45719a1362c.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8390,7 +8390,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [submit-your-app-and-configure-ad-mediation.f8a03e13b9233f799ee43dccbc0881d44b5f3c02.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/submit-your-app-and-configure-ad-mediation.f8a03e13b9233f799ee43dccbc0881d44b5f3c02.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8402,7 +8402,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [test-your-ad-mediation-implementation.152db2d94530d4fe92c393f4ca0557ca765b74b5.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/test-your-ad-mediation-implementation.152db2d94530d4fe92c393f4ca0557ca765b74b5.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8414,7 +8414,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [troubleshoot-ad-mediation.20d41f2d8baca2d0917ca1e9ebe6d291e263a4d1.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/troubleshoot-ad-mediation.20d41f2d8baca2d0917ca1e9ebe6d291e263a4d1.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8426,7 +8426,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [use-ad-mediation-to-maximize-revenue.8751cb700a90a5c9e88e595150a787c87e7a643a.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/use-ad-mediation-to-maximize-revenue.8751cb700a90a5c9e88e595150a787c87e7a643a.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8438,7 +8438,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [use-receipts-to-verify-product-purchases.3f65480a5a0b5b25cb9846cbae4b0711762afdc0.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/use-receipts-to-verify-product-purchases.3f65480a5a0b5b25cb9846cbae4b0711762afdc0.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8450,7 +8450,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [view-and-grant-products-from-a-service.e69a468383a54aeef8d6db622ecc3c59a7fd358c.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/view-and-grant-products-from-a-service.e69a468383a54aeef8d6db622ecc3c59a7fd358c.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8462,7 +8462,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [background-transfers.7a606bc8f88b2297a71646f87d8d02f8d1859c66.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/background-transfers.7a606bc8f88b2297a71646f87d8d02f8d1859c66.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8522,7 +8522,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [httpclient.7a1c617dae410d92435ef2ab4e7f97d3f8db362a.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/httpclient.7a1c617dae410d92435ef2ab4e7f97d3f8db362a.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8534,7 +8534,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [index.3ddd1ae5ea902d8e1be5b5b110eb476883589d2d.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/index.3ddd1ae5ea902d8e1be5b5b110eb476883589d2d.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8546,7 +8546,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [network-communications-in-the-background.9f00ce6151956c88170574168d1d7389268ce7dc.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/network-communications-in-the-background.9f00ce6151956c88170574168d1d7389268ce7dc.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8558,7 +8558,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [networking-basics.add32d38d1e2ac691218d396483f0e39be7d3a01.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/networking-basics.add32d38d1e2ac691218d396483f0e39be7d3a01.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8570,7 +8570,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [sockets.6796d16e83b4026f60d158c8bc3dbd8a5d7367b3.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/sockets.6796d16e83b4026f60d158c8bc3dbd8a5d7367b3.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8582,7 +8582,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [web-feeds.83f92f165fe11405132be3d2c1a055efa0a561ae.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/web-feeds.83f92f165fe11405132be3d2c1a055efa0a561ae.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8594,7 +8594,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [websockets.332bea1369c9632a7de854b6c9beea35ca5597e7.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/websockets.332bea1369c9632a7de854b6c9beea35ca5597e7.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8606,7 +8606,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [which-networking-technology.2ad0c8f8099eb922850259ffcaad8b9b27e5c437.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/which-networking-technology.2ad0c8f8099eb922850259ffcaad8b9b27e5c437.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8618,7 +8618,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [app-capability-declarations.593ff2975fa4721c68f51f89de936a6a77be6a1f.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/app-capability-declarations.593ff2975fa4721c68f51f89de936a6a77be6a1f.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8630,7 +8630,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [index.f868972ee124fa51b08eb00a937ed11589125eb9.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/index.f868972ee124fa51b08eb00a937ed11589125eb9.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8642,7 +8642,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [install-universal-windows-apps-with-the-winappdeploycmd-tool.921fa50a81057ac57ebeac4758b7bada421e6f39.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/install-universal-windows-apps-with-the-winappdeploycmd-tool.921fa50a81057ac57ebeac4758b7bada421e6f39.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8654,7 +8654,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [packaging-uwp-apps.d386af56286c0b715e8a0a84cd76c22167721d24.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/packaging-uwp-apps.d386af56286c0b715e8a0a84cd76c22167721d24.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8666,7 +8666,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [getting-started-animation.0c3c47de4f92f54b5323f188d4e92ab0145c7b2e.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/getting-started-animation.0c3c47de4f92f54b5323f188d4e92ab0145c7b2e.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8678,7 +8678,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [getting-started-choosing-a-programming-language.b9a09e9bb3b2dd56e484aa5cab9b78552a429511.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/getting-started-choosing-a-programming-language.b9a09e9bb3b2dd56e484aa5cab9b78552a429511.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8690,7 +8690,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [getting-started-common-controls.60e81aa4772648ce58249527aa48d301673e9bc1.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/getting-started-common-controls.60e81aa4772648ce58249527aa48d301673e9bc1.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8702,7 +8702,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [getting-started-creating-a-project.6361db18fe04f57c6dea909e6fb7bf918b2e1226.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/getting-started-creating-a-project.6361db18fe04f57c6dea909e6fb7bf918b2e1226.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8714,7 +8714,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [getting-started-getting-around-in-visual-studio.889152041043d277c180e84d2fe4f6b5d831790e.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/getting-started-getting-around-in-visual-studio.889152041043d277c180e84d2fe4f6b5d831790e.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8726,7 +8726,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [getting-started-navigation.898677f5edd385bfed3e34355b5bc33b2eb704ad.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/getting-started-navigation.898677f5edd385bfed3e34355b5bc33b2eb704ad.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8738,7 +8738,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [getting-started-what-next.2a5aeb67865eb25b002726b9970f1f39f7f8ca32.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/getting-started-what-next.2a5aeb67865eb25b002726b9970f1f39f7f8ca32.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8750,7 +8750,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [getting-started-with-uwp-for-ios-developers.9799534dae9d5ac7eaee9d0f97f185e52f95ff12.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/getting-started-with-uwp-for-ios-developers.9799534dae9d5ac7eaee9d0f97f185e52f95ff12.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8762,7 +8762,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [index.02cfdd80a794895364e6db1352c7ec0bff239801.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/index.02cfdd80a794895364e6db1352c7ec0bff239801.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8774,7 +8774,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [ios-to-uwp-root.b5fab31ce36fc34be420c277e699bcf9d3e23b29.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/ios-to-uwp-root.b5fab31ce36fc34be420c277e699bcf9d3e23b29.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8786,7 +8786,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [selecting-an-approach-to-ios-and-uwp-app-development.47d68ff930c336bd39c413a46ec1e1d721ed39d6.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/selecting-an-approach-to-ios-and-uwp-app-development.47d68ff930c336bd39c413a46ec1e1d721ed39d6.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8798,7 +8798,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [setting-up-your-mac-with-windows-10.b7d8ab4c5747fb76ad43befb88260b3246cdbc3f.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/setting-up-your-mac-with-windows-10.b7d8ab4c5747fb76ad43befb88260b3246cdbc3f.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8810,7 +8810,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [update-your-visual-studio-2015-rc-project-to-rtm.0ec209344851dd3482c946360c0cf32f5bc1bb0c.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/update-your-visual-studio-2015-rc-project-to-rtm.0ec209344851dd3482c946360c0cf32f5bc1bb0c.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8822,7 +8822,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [w8x-to-uwp-case-study-bookstore1.ea2d4062c23a69ea394bc2ed9d2458b77fd9d0ca.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/w8x-to-uwp-case-study-bookstore1.ea2d4062c23a69ea394bc2ed9d2458b77fd9d0ca.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8834,7 +8834,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [w8x-to-uwp-case-study-bookstore2.ec790a74e7aa088a430e656965b0287a89d5472f.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/w8x-to-uwp-case-study-bookstore2.ec790a74e7aa088a430e656965b0287a89d5472f.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8846,7 +8846,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [w8x-to-uwp-case-study-quizgame.d13eee65b1f108802aba45d1e2f80578d648c09b.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/w8x-to-uwp-case-study-quizgame.d13eee65b1f108802aba45d1e2f80578d648c09b.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8858,7 +8858,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [w8x-to-uwp-input-and-sensors.a737c8bd842a5e509de7d99d86d68ab9206f500b.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/w8x-to-uwp-input-and-sensors.a737c8bd842a5e509de7d99d86d68ab9206f500b.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8870,7 +8870,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [w8x-to-uwp-porting-to-a-uwp-project.58b8fafdc5ed8dbe5b73c9783b9812f3e35edccf.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/w8x-to-uwp-porting-to-a-uwp-project.58b8fafdc5ed8dbe5b73c9783b9812f3e35edccf.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8882,7 +8882,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [w8x-to-uwp-porting-xaml-and-ui.4233606a97893971ff870f08f6cd8d5542d6046d.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/w8x-to-uwp-porting-xaml-and-ui.4233606a97893971ff870f08f6cd8d5542d6046d.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8894,7 +8894,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [w8x-to-uwp-root.28963c21e75cb8137c69e6b72fb7c29a3312c014.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/w8x-to-uwp-root.28963c21e75cb8137c69e6b72fb7c29a3312c014.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8906,7 +8906,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [w8x-to-uwp-troubleshooting.60bc58c68adc46954879730a2f760da67cb7860c.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/w8x-to-uwp-troubleshooting.60bc58c68adc46954879730a2f760da67cb7860c.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8918,7 +8918,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [wpsl-to-uwp-business-and-data.2ac194cdc595bf4bdae6bda24250669077cd4df8.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/wpsl-to-uwp-business-and-data.2ac194cdc595bf4bdae6bda24250669077cd4df8.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8930,7 +8930,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [wpsl-to-uwp-case-study-bookstore1.38a7dde3d572b66d58c764c4dc56f46e63b176f2.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/wpsl-to-uwp-case-study-bookstore1.38a7dde3d572b66d58c764c4dc56f46e63b176f2.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8942,7 +8942,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [wpsl-to-uwp-case-study-bookstore2.8732f1af3c518457bd5b03e88b238fd53d97e375.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/wpsl-to-uwp-case-study-bookstore2.8732f1af3c518457bd5b03e88b238fd53d97e375.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8954,7 +8954,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [wpsl-to-uwp-form-factors-and-ux.2982dfcd114ede84c469640518b3ba108f0b5a28.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/wpsl-to-uwp-form-factors-and-ux.2982dfcd114ede84c469640518b3ba108f0b5a28.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8966,7 +8966,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [wpsl-to-uwp-input-and-sensors.90f3b2665cdbf0d42f949d3ddb865d38c5cd959b.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/wpsl-to-uwp-input-and-sensors.90f3b2665cdbf0d42f949d3ddb865d38c5cd959b.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8978,7 +8978,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [wpsl-to-uwp-namespace-and-class-mappings.33e7d94bee725d6c47de4511e491188742d7431d.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/wpsl-to-uwp-namespace-and-class-mappings.33e7d94bee725d6c47de4511e491188742d7431d.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8990,7 +8990,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [wpsl-to-uwp-porting-to-a-uwp-project.2f8f00bf46a8a34cba51d65ba5800516f2953667.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/wpsl-to-uwp-porting-to-a-uwp-project.2f8f00bf46a8a34cba51d65ba5800516f2953667.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9002,7 +9002,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [wpsl-to-uwp-porting-xaml-and-ui.393cf6918819f12cc26fa6b15ae5c294315c8b3a.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/wpsl-to-uwp-porting-xaml-and-ui.393cf6918819f12cc26fa6b15ae5c294315c8b3a.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9014,7 +9014,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [wpsl-to-uwp-root.91f1dfb08f766e169984c863df309b99a0d10e3a.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/wpsl-to-uwp-root.91f1dfb08f766e169984c863df309b99a0d10e3a.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9026,7 +9026,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [wpsl-to-uwp-troubleshooting.5b286c171c95aa020f0acc3dbc10e23f57e45abe.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/wpsl-to-uwp-troubleshooting.5b286c171c95aa020f0acc3dbc10e23f57e45abe.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9038,7 +9038,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [about-house-ads.7fab8592496cb1a6c93599465c3bff9782656be0.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/about-house-ads.7fab8592496cb1a6c93599465c3bff9782656be0.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9050,7 +9050,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [acquisitions-report.190a6fd55d65cfce7c475dd17c4353a64ad52587.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/acquisitions-report.190a6fd55d65cfce7c475dd17c4353a64ad52587.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9062,7 +9062,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [ad-mediation-report.660398cc23164fc0b92650dd2318fd33ca1f2a18.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/ad-mediation-report.660398cc23164fc0b92650dd2318fd33ca1f2a18.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9074,7 +9074,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [advertising-performance-report.7c69eca7d0e4a2a5b79f21d8397b0784931a677c.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/advertising-performance-report.7c69eca7d0e4a2a5b79f21d8397b0784931a677c.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9086,7 +9086,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [age-ratings.e19b1ffd53f0f998b0e39d827175d3117769f8ed.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/age-ratings.e19b1ffd53f0f998b0e39d827175d3117769f8ed.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9098,7 +9098,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [analytics.455ce9e2f62c707f75af2401970ab7384331bdaa.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/analytics.455ce9e2f62c707f75af2401970ab7384331bdaa.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9110,7 +9110,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [app-declarations.5c1af0dea9a4d28357b1349b01a714e1fdb0b4bc.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/app-declarations.5c1af0dea9a4d28357b1349b01a714e1fdb0b4bc.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9122,7 +9122,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [app-install-ads-reports.911e6730d778a0f3bc2c5e055937282c888cd455.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/app-install-ads-reports.911e6730d778a0f3bc2c5e055937282c888cd455.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9134,7 +9134,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [app-management-and-services.3a7db6bdadfec4a523f7155c2e0533f7ba3bc7e3.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/app-management-and-services.3a7db6bdadfec4a523f7155c2e0533f7ba3bc7e3.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9146,7 +9146,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [app-marketing-guidelines.6922266366712bf4ca48e87369411bd5a5bd52a0.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/app-marketing-guidelines.6922266366712bf4ca48e87369411bd5a5bd52a0.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9158,7 +9158,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [app-package-requirements.e8abc8daa488ce664fd2f5b6fbbb00d4bedea184.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/app-package-requirements.e8abc8daa488ce664fd2f5b6fbbb00d4bedea184.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9170,7 +9170,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [app-promotion-and-customer-engagement.2cc29cc45864f9d6d8ab15da08778e490088470a.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/app-promotion-and-customer-engagement.2cc29cc45864f9d6d8ab15da08778e490088470a.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9182,7 +9182,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [app-screenshots-and-images.f88dc906664ea6b020594c48baccc1019c76acfe.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/app-screenshots-and-images.f88dc906664ea6b020594c48baccc1019c76acfe.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9194,7 +9194,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [app-submissions.05678bf82b761ff1a73b616cd74391922d29440e.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/app-submissions.05678bf82b761ff1a73b616cd74391922d29440e.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9206,7 +9206,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [avoid-common-certification-failures.dddfe460b1f0d0ee6f3a59650c004260052ccbfa.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/avoid-common-certification-failures.dddfe460b1f0d0ee6f3a59650c004260052ccbfa.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9218,7 +9218,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [beta-testing-and-targeted-distribution.40714beb4fea018208df0acf2c1b1cf108c779a5.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/beta-testing-and-targeted-distribution.40714beb4fea018208df0acf2c1b1cf108c779a5.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9230,7 +9230,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [category-and-subcategory-table.4dc343c829f7c72d24a11ff563f9faea66e74e57.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/category-and-subcategory-table.4dc343c829f7c72d24a11ff563f9faea66e74e57.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9242,7 +9242,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [channels-and-conversions-report.54c314ab02735e1c67c34a8aefa9ffc04e148668.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/channels-and-conversions-report.54c314ab02735e1c67c34a8aefa9ffc04e148668.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9254,7 +9254,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [common-questions.9959466d216073817dc5d6918cad7fc6649b1617.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/common-questions.9959466d216073817dc5d6918cad7fc6649b1617.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9266,7 +9266,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [create-a-custom-app-promotion-campaign.10b3d41ff1061cdd6dbaacf41bc04cf7705ed4ff.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/create-a-custom-app-promotion-campaign.10b3d41ff1061cdd6dbaacf41bc04cf7705ed4ff.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9278,7 +9278,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [create-an-ad-campaign-for-your-app.d591a19c6572f58706825ac22db632b938ee8dcb.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/create-an-ad-campaign-for-your-app.d591a19c6572f58706825ac22db632b938ee8dcb.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9290,7 +9290,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [create-app-descriptions.b6ca885fc6f46afc953a0e54893893d42613e934.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/create-app-descriptions.b6ca885fc6f46afc953a0e54893893d42613e934.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9302,7 +9302,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [create-iap-descriptions.7e023b199feaa9bc40e6b810bcc71a20f387c6da.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/create-iap-descriptions.7e023b199feaa9bc40e6b810bcc71a20f387c6da.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9314,7 +9314,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [create-platform-specific-descriptions.52d46858f84709ed13b593d48357884f5e00c15d.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/create-platform-specific-descriptions.52d46858f84709ed13b593d48357884f5e00c15d.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9326,7 +9326,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [create-your-app-by-reserving-a-name.fffb9e18159e6ed65206734d6d73a6fb362d369c.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/create-your-app-by-reserving-a-name.fffb9e18159e6ed65206734d6d73a6fb362d369c.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9338,7 +9338,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [define-pricing-and-market-selection.1db6a701782e36b0eb5a90069bed9475a8b3edf9.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/define-pricing-and-market-selection.1db6a701782e36b0eb5a90069bed9475a8b3edf9.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9350,7 +9350,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [distribute-lob-apps-to-enterprises.caf3bbf99f80e7e913dfb48e0413077bff680550.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/distribute-lob-apps-to-enterprises.caf3bbf99f80e7e913dfb48e0413077bff680550.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9362,7 +9362,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [download-analytic-reports.3d323a332686f489173052e30076ee281d544e08.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/download-analytic-reports.3d323a332686f489173052e30076ee281d544e08.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9374,7 +9374,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [enter-app-properties.5046ffc90629a374f5778dbbce333384bccc08e4.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/enter-app-properties.5046ffc90629a374f5778dbbce333384bccc08e4.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9386,7 +9386,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [enter-iap-properties.ffaff1ed561e5005055f8f4152baed6079b5df66.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/enter-iap-properties.ffaff1ed561e5005055f8f4152baed6079b5df66.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9398,7 +9398,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [generate-preinstall-packages-for-oems.968dceefa201152449c8051b603088891d8b332c.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/generate-preinstall-packages-for-oems.968dceefa201152449c8051b603088891d8b332c.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9410,7 +9410,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [generate-promotional-codes.7a39f65d52b445c3f54d218ed9aa7b3a9d446d2b.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/generate-promotional-codes.7a39f65d52b445c3f54d218ed9aa7b3a9d446d2b.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9422,7 +9422,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [getting-paid-apps.7d80c1fe0d90ab2c827e673f1557658e0e8699b4.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/getting-paid-apps.7d80c1fe0d90ab2c827e673f1557658e0e8699b4.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9434,7 +9434,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [guidance-for-app-package-management.d9360b2a1639af4f0aefe61d72e7fa273754f3c4.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/guidance-for-app-package-management.d9360b2a1639af4f0aefe61d72e7fa273754f3c4.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9446,7 +9446,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [health-report.58669872d23ac63ad122e4bffe24704c4a4eac4d.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/health-report.58669872d23ac63ad122e4bffe24704c4a4eac4d.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9458,7 +9458,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [how-your-app-appears-in-the-store-for-windows-10-customers.b39cf4b13d2151423c6ed5d9ee7f1b4f6b1ca562.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/how-your-app-appears-in-the-store-for-windows-10-customers.b39cf4b13d2151423c6ed5d9ee7f1b4f6b1ca562.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9470,7 +9470,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [iap-acquisitions-report.2b5908bf06bc12739f6c9c0d5a508ac90ebe8504.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/iap-acquisitions-report.2b5908bf06bc12739f6c9c0d5a508ac90ebe8504.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9482,7 +9482,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [iap-submissions.53095fd63bb22535a6588aa508c0d9d0743bcf6c.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/iap-submissions.53095fd63bb22535a6588aa508c0d9d0743bcf6c.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9494,7 +9494,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [link-to-your-app.1ccb15949263e42b125e4d61281f6a56e207e003.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/link-to-your-app.1ccb15949263e42b125e4d61281f6a56e207e003.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9506,7 +9506,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [make-your-app-easier-to-promote.a6eca7bffeffb0ccb77f3f737ae8c244e153e636.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/make-your-app-easier-to-promote.a6eca7bffeffb0ccb77f3f737ae8c244e153e636.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9518,7 +9518,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [manage-account-users.86a86117e1d656caf4f8a0ef19c11ae408fc72f4.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/manage-account-users.86a86117e1d656caf4f8a0ef19c11ae408fc72f4.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9530,7 +9530,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [manage-app-names.a41334c6c7ce2694d502f850268403d030dd07b8.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/manage-app-names.a41334c6c7ce2694d502f850268403d030dd07b8.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9542,7 +9542,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [managing-your-ad-campaign.3282f1722fc63273f3c5167ba97cd9ad4d3d6aa8.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/managing-your-ad-campaign.3282f1722fc63273f3c5167ba97cd9ad4d3d6aa8.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9554,7 +9554,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [mobile-operator-billing.d29ca18bc3792ed8939616447619d46b211d8a0d.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/mobile-operator-billing.d29ca18bc3792ed8939616447619d46b211d8a0d.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9566,7 +9566,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [monetize-with-ads.c960916ecd87e53547e28c3e84bed284e8358605.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/monetize-with-ads.c960916ecd87e53547e28c3e84bed284e8358605.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9578,7 +9578,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [notes-for-certification.a78bf11942b44fac1de5385bd64f2c5ed8c82ff6.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/notes-for-certification.a78bf11942b44fac1de5385bd64f2c5ed8c82ff6.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9590,7 +9590,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [organizational-licensing.0b2aac88ef16d5c4b405f0c32e0a3e5bf2daed58.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/organizational-licensing.0b2aac88ef16d5c4b405f0c32e0a3e5bf2daed58.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9602,7 +9602,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [package-version-numbering.ec0c9240747af7b47f101588a253d9bf5cc02706.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/package-version-numbering.ec0c9240747af7b47f101588a253d9bf5cc02706.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9614,7 +9614,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [payout-summary.41fccb4c5178e6b55ec0bdd693d79e01c67035fc.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/payout-summary.41fccb4c5178e6b55ec0bdd693d79e01c67035fc.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9626,7 +9626,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [pubcenter-dev-center-integration.507e185bbf3bf00a9e18a0417c36f6981a33841c.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/pubcenter-dev-center-integration.507e185bbf3bf00a9e18a0417c36f6981a33841c.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9638,7 +9638,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [pubcenter-devcenter-payout-account-and-tax-profile-consolidation.9bc9a27505eda4968d93ff2ddb6f54aae7ea1ed2.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/pubcenter-devcenter-payout-account-and-tax-profile-consolidation.9bc9a27505eda4968d93ff2ddb6f54aae7ea1ed2.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9650,7 +9650,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [put-apps-and-iaps-on-sale.62f356ecedf6ecdafb7802afc442d9408fbd96fe.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/put-apps-and-iaps-on-sale.62f356ecedf6ecdafb7802afc442d9408fbd96fe.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9662,7 +9662,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [ratings-report.7ecbaa2537ac2dde7946f9606d8384e8e62b9968.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/ratings-report.7ecbaa2537ac2dde7946f9606d8384e8e62b9968.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9674,7 +9674,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [resolve-package-upload-errors.ebef2f501af2c8aa662dcc919b117d65601fb2a7.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/resolve-package-upload-errors.ebef2f501af2c8aa662dcc919b117d65601fb2a7.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9686,7 +9686,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [resolve-submission-errors.9c0d400d7f814327ef10df38bce332e8a0595732.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/resolve-submission-errors.9c0d400d7f814327ef10df38bce332e8a0595732.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9698,7 +9698,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [respond-to-customer-reviews.1d72bceba87f265a0bcc587e6bfc62e5ea2eaee0.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/respond-to-customer-reviews.1d72bceba87f265a0bcc587e6bfc62e5ea2eaee0.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9710,7 +9710,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [reviews-report.beaee5fc0e83c7c34acd6d1d5dfacab2c22f97dc.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/reviews-report.beaee5fc0e83c7c34acd6d1d5dfacab2c22f97dc.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9722,7 +9722,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [set-app-pricing-and-availability.068f2bdf0b0767c0b298aa065874c21058f95b0a.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/set-app-pricing-and-availability.068f2bdf0b0767c0b298aa065874c21058f95b0a.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9734,7 +9734,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [set-iap-pricing-and-availability.5a4df777e6835eea971f97770207b184b3739f34.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/set-iap-pricing-and-availability.5a4df777e6835eea971f97770207b184b3739f34.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9746,7 +9746,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [setting-up-your-payout-account-and-tax-forms.303228f67f4e74cd62b4a03c089fb8b3fb09d8ee.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/setting-up-your-payout-account-and-tax-forms.303228f67f4e74cd62b4a03c089fb8b3fb09d8ee.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9758,7 +9758,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [set-your-iap-product-id.b3f9606ba1cd4f892537c787d40206026b64544f.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/set-your-iap-product-id.b3f9606ba1cd4f892537c787d40206026b64544f.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9770,7 +9770,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [supported-languages.68d6a708120ab6d079704311e8ef0c0de756b08f.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/supported-languages.68d6a708120ab6d079704311e8ef0c0de756b08f.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9782,7 +9782,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [tax-details-for-paid-apps.fe9c018831e9993233edb95c568b6139cf7c212b.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/tax-details-for-paid-apps.fe9c018831e9993233edb95c568b6139cf7c212b.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9794,7 +9794,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [the-app-certification-process.e5e64b922e18b625ea51cac58187b45867443af5.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/the-app-certification-process.e5e64b922e18b625ea51cac58187b45867443af5.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9806,7 +9806,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [trademark-and-copyright-protection.d881b16d922ba00655d71fefa57e5c93b8f3ad9f.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/trademark-and-copyright-protection.d881b16d922ba00655d71fefa57e5c93b8f3ad9f.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9818,7 +9818,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [upload-app-packages.edb6fc8b1be2ce6c9be4e56c11969934bb48838c.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/upload-app-packages.edb6fc8b1be2ce6c9be4e56c11969934bb48838c.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9830,7 +9830,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [usage-report.bc29ea8b6f1bd00cb6d21213966b46e30751e298.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/usage-report.bc29ea8b6f1bd00cb6d21213966b46e30751e298.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9842,7 +9842,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [use-map-services.0a733665c32cecd2565a6da179e414f8ec7fa466.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/use-map-services.0a733665c32cecd2565a6da179e414f8ec7fa466.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9854,7 +9854,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [using-the-windows-dev-center-dashboard.cba43f0dc93c1578406aa24b6e130c82e6b2cf71.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/using-the-windows-dev-center-dashboard.cba43f0dc93c1578406aa24b6e130c82e6b2cf71.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9866,7 +9866,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [vat-info.4cc8d57272bc68cced462be2303b32b1fdfa906d.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/vat-info.4cc8d57272bc68cced462be2303b32b1fdfa906d.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9878,7 +9878,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [view-app-identity-details.e75b7cac7fb9259d8ed562b9cf8c2ff4f36ed380.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/view-app-identity-details.e75b7cac7fb9259d8ed562b9cf8c2ff4f36ed380.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9890,7 +9890,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [write-a-great-app-description.63f48a9acadf61435bc2ffe4294e3ff4bb87b6a1.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/write-a-great-app-description.63f48a9acadf61435bc2ffe4294e3ff4bb87b6a1.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9902,7 +9902,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [asynchronous-programming-in-cpp-universal-windows-platform-apps.179fc848189af173bc08c5ae2751a2b9d07759e8.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/asynchronous-programming-in-cpp-universal-windows-platform-apps.179fc848189af173bc08c5ae2751a2b9d07759e8.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9914,7 +9914,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [asynchronous-programming-universal-windows-platform-apps.5cfa603e419f0c9fa689c8c235e80b2908cb8e07.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/asynchronous-programming-universal-windows-platform-apps.5cfa603e419f0c9fa689c8c235e80b2908cb8e07.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10118,7 +10118,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [best-practices-for-using-the-thread-pool.a1a479dcdee0ccec5a943429bcde20e78e7d411e.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/best-practices-for-using-the-thread-pool.a1a479dcdee0ccec5a943429bcde20e78e7d411e.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10130,7 +10130,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [call-asynchronous-apis-in-csharp-or-visual-basic.9010e3d643cf0b5447808861c0717575e44e2140.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/call-asynchronous-apis-in-csharp-or-visual-basic.9010e3d643cf0b5447808861c0717575e44e2140.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10142,7 +10142,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [create-a-periodic-work-item.62855054fcf3214483879fbba407653efdd2edc5.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/create-a-periodic-work-item.62855054fcf3214483879fbba407653efdd2edc5.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10154,7 +10154,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [index.1eed2a44c5d12cccf393c5107f24d92c95215e52.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/index.1eed2a44c5d12cccf393c5107f24d92c95215e52.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10166,7 +10166,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [submit-a-work-item-to-the-thread-pool.af524974f8dfbfe08549b17a62146715b9708f7a.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/submit-a-work-item-to-the-thread-pool.af524974f8dfbfe08549b17a62146715b9708f7a.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10178,7 +10178,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [use-a-timer-to-submit-a-work-item.694d8f5d3e0302d83f9295425169dbbb03fdd470.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/use-a-timer-to-submit-a-work-item.694d8f5d3e0302d83f9295425169dbbb03fdd470.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10190,7 +10190,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [TOC.591ab1c9076a8a4e18998d3129637b5cc103b5f2.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/TOC.591ab1c9076a8a4e18998d3129637b5cc103b5f2.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10202,7 +10202,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [accessibility.fb0fd014abf207a72c978f5fc5397dd09f3144ad.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/accessibility.fb0fd014abf207a72c978f5fc5397dd09f3144ad.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10214,7 +10214,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [accessibility-checklist.60a63c7f72959b264db7200b3d1e6ef5bbbb0782.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/accessibility-checklist.60a63c7f72959b264db7200b3d1e6ef5bbbb0782.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10226,7 +10226,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [accessibility-in-the-store.5a6a74fde5ca5b46b9e8e9d49351abf09f0bd6f2.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/accessibility-in-the-store.5a6a74fde5ca5b46b9e8e9d49351abf09f0bd6f2.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10238,7 +10238,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [accessibility-overview.2955d189b04dbf0cbfc0f6cb576950bde10db3dc.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/accessibility-overview.2955d189b04dbf0cbfc0f6cb576950bde10db3dc.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10250,7 +10250,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [accessibility-testing.ca7a36c28ccc34b72a1dc9010c27c75d84760094.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/accessibility-testing.ca7a36c28ccc34b72a1dc9010c27c75d84760094.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10262,7 +10262,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [accessible-text-requirements.7bda277a4b874a69a5616d0ea5302ea8022e2775.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/accessible-text-requirements.7bda277a4b874a69a5616d0ea5302ea8022e2775.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10274,7 +10274,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [basic-accessibility-information.c77b148c933fc31603229ad72aa8c96bb6a976ff.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/basic-accessibility-information.c77b148c933fc31603229ad72aa8c96bb6a976ff.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10286,7 +10286,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [control-patterns-and-interfaces.325afa787af3941170289a63f22d2e3796060f8e.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/control-patterns-and-interfaces.325afa787af3941170289a63f22d2e3796060f8e.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10298,7 +10298,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [custom-automation-peers.84bcb048c537e06d14b6ea9af007e529213a8868.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/custom-automation-peers.84bcb048c537e06d14b6ea9af007e529213a8868.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10310,7 +10310,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [high-contrast-themes.04e1ca28037ca1e47535bf9f53e6c73802edb9ec.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/high-contrast-themes.04e1ca28037ca1e47535bf9f53e6c73802edb9ec.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10322,7 +10322,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [keyboard-accessibility.42255996abb60f4b9643122e1b63fe40e73ff701.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/keyboard-accessibility.42255996abb60f4b9643122e1b63fe40e73ff701.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10334,7 +10334,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [practices-to-avoid.f9b62b9139e615dc01de20be1477d23cebad699b.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/practices-to-avoid.f9b62b9139e615dc01de20be1477d23cebad699b.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10346,7 +10346,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [store-and-retrieve-app-data.d0c9d02a6f0d4327b38fb807e23a4b53915feb76.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/store-and-retrieve-app-data.d0c9d02a6f0d4327b38fb807e23a4b53915feb76.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10358,7 +10358,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [adjust-layout-and-fonts-and-support-rtl.b987b6ce99e5cf97225a119f2cc814633b83e4e5.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/adjust-layout-and-fonts-and-support-rtl.b987b6ce99e5cf97225a119f2cc814633b83e4e5.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10370,7 +10370,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [globalizing-portal.7a3452811abf2e3c8a8c9b8d1b7f8a3b57fb2bf9.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/globalizing-portal.7a3452811abf2e3c8a8c9b8d1b7f8a3b57fb2bf9.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10382,7 +10382,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [guidelines-and-checklist-for-globalizing-your-app.1d122b6f2e7432e34e2492eca1d6349b40cadf52.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/guidelines-and-checklist-for-globalizing-your-app.1d122b6f2e7432e34e2492eca1d6349b40cadf52.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10394,7 +10394,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [manage-language-and-region.0cef7c80cb80565fdb3b457533ed04b248b5ca33.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/manage-language-and-region.0cef7c80cb80565fdb3b457533ed04b248b5ca33.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10406,7 +10406,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [prepare-your-app-for-localization.2e4e1e9e8358f6ab792b819a359cab3eb5f72c52.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/prepare-your-app-for-localization.2e4e1e9e8358f6ab792b819a359cab3eb5f72c52.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10418,7 +10418,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [put-ui-strings-into-resources.18b2502ac4690df85779e12f399d0c56547b4ade.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/put-ui-strings-into-resources.18b2502ac4690df85779e12f399d0c56547b4ade.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10430,7 +10430,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [use-global-ready-formats.2ba6cab869617d9e5706282d4bec247107efe2c2.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/use-global-ready-formats.2ba6cab869617d9e5706282d4bec247107efe2c2.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10442,7 +10442,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [use-patterns-to-format-dates-and-times.62050569980a033be4f7cabeedc02569a3963f3b.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/use-patterns-to-format-dates-and-times.62050569980a033be4f7cabeedc02569a3963f3b.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10454,7 +10454,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [attached-properties-overview.832585939c4991a517d5beed7613220b863b2665.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/attached-properties-overview.832585939c4991a517d5beed7613220b863b2665.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10466,7 +10466,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [binding-markup-extension.204a528ca5e89f67ea69308094464d89bf615854.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/binding-markup-extension.204a528ca5e89f67ea69308094464d89bf615854.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10478,7 +10478,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [custom-attached-properties.f52f2ed20ad81a06ff9e146e722ab86a2e80020a.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/custom-attached-properties.f52f2ed20ad81a06ff9e146e722ab86a2e80020a.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10490,7 +10490,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [custom-dependency-properties.6471a73d820363b0d164a7c7c6662cc25d7fd20e.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/custom-dependency-properties.6471a73d820363b0d164a7c7c6662cc25d7fd20e.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10502,7 +10502,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [customresource-markup-extension.31bd1e33c68c543602e7160aaa0468122cba1b3b.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/customresource-markup-extension.31bd1e33c68c543602e7160aaa0468122cba1b3b.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10514,7 +10514,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [dependency-properties-overview.f9622e1b92d651e80b614e7485de9a79be34e6ab.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/dependency-properties-overview.f9622e1b92d651e80b614e7485de9a79be34e6ab.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10526,7 +10526,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [events-and-routed-events-overview.1430d9bc15a85143d4ba3fcd0f57801491da68cd.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/events-and-routed-events-overview.1430d9bc15a85143d4ba3fcd0f57801491da68cd.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10538,7 +10538,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [index.bf6b0b67debaa6f8765e0ca10815db90d59f8d08.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/index.bf6b0b67debaa6f8765e0ca10815db90d59f8d08.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10550,7 +10550,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [move-draw-commands-syntax.2f762c3edff6b2da4837622aab585618312e27b0.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/move-draw-commands-syntax.2f762c3edff6b2da4837622aab585618312e27b0.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10562,7 +10562,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [property-path-syntax.1def0437e008e2524bacf22ab1cbd37adf5f66d1.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/property-path-syntax.1def0437e008e2524bacf22ab1cbd37adf5f66d1.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10574,7 +10574,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [relativesource-markup-extension.a59259aa458a12329e412ba5307168dd72cb3f17.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/relativesource-markup-extension.a59259aa458a12329e412ba5307168dd72cb3f17.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10586,7 +10586,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [staticresource-markup-extension.5618c1b2032ea390550ba198b6fa2281ea138955.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/staticresource-markup-extension.5618c1b2032ea390550ba198b6fa2281ea138955.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10598,7 +10598,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [templatebinding-markup-extension.124e4ef2e94fe86d99702058e77a0e6239161ba2.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/templatebinding-markup-extension.124e4ef2e94fe86d99702058e77a0e6239161ba2.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10610,7 +10610,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [template-settings-classes.b31e88cb6923fb71f9727d857e59d48de60d4c71.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/template-settings-classes.b31e88cb6923fb71f9727d857e59d48de60d4c71.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10622,7 +10622,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [themeresource-markup-extension.4dbf66285f24078f2825ca3b39cdf5d2902aa7ba.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/themeresource-markup-extension.4dbf66285f24078f2825ca3b39cdf5d2902aa7ba.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10634,7 +10634,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [xaml-and-whitespace.f15f3ee7341faefedcf8dcc2beee90b67688f3f8.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/xaml-and-whitespace.f15f3ee7341faefedcf8dcc2beee90b67688f3f8.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10646,7 +10646,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [xaml-intrinsic-data-types.df3aca56c1bdd4e6295fd0c8860b607328bdda37.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/xaml-intrinsic-data-types.df3aca56c1bdd4e6295fd0c8860b607328bdda37.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10658,7 +10658,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [xaml-namescopes.3c77a3c0e6720bbb9b53148e93b53a5a268008de.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/xaml-namescopes.3c77a3c0e6720bbb9b53148e93b53a5a268008de.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10670,7 +10670,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [xaml-namespaces-and-namespace-mapping.dac51a841cec2e6517e573ea79427b917b833b9c.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/xaml-namespaces-and-namespace-mapping.dac51a841cec2e6517e573ea79427b917b833b9c.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10682,7 +10682,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [xaml-overview.3dd6c7fdeb3fc340d4effc4239de927c7306972a.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/xaml-overview.3dd6c7fdeb3fc340d4effc4239de927c7306972a.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10694,7 +10694,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [xaml-syntax-guide.5cf9f62655dacd41ff650c44a04ce57c5d771cc6.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/xaml-syntax-guide.5cf9f62655dacd41ff650c44a04ce57c5d771cc6.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10706,7 +10706,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [x-bind-markup-extension.72b2d09beccbc1fc344c685120aef62f4ba31369.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/x-bind-markup-extension.72b2d09beccbc1fc344c685120aef62f4ba31369.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10718,7 +10718,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [x-class-attribute.c592bdd1e61624be9845b352c1d68a5b9b576ca3.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/x-class-attribute.c592bdd1e61624be9845b352c1d68a5b9b576ca3.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10730,7 +10730,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [x-deferloadstrategy-attribute.ce144460c083683c420a47e33a41ff56000d24f1.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/x-deferloadstrategy-attribute.ce144460c083683c420a47e33a41ff56000d24f1.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10742,7 +10742,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [x-fieldmodifier-attribute.00fa79b521bc83f6a88971c0f8bb084f29e90e96.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/x-fieldmodifier-attribute.00fa79b521bc83f6a88971c0f8bb084f29e90e96.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10754,7 +10754,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [x-key-attribute.123b24c416b3ef7e0bb9edff806371bf5724b10e.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/x-key-attribute.123b24c416b3ef7e0bb9edff806371bf5724b10e.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10766,7 +10766,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [x-name-attribute.5177320edc9591784f5059408cf4bc75786ec6ae.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/x-name-attribute.5177320edc9591784f5059408cf4bc75786ec6ae.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10778,7 +10778,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [x-null-markup-extension.58cf7edddeb6659609db5ebc6de8923f9fbecb08.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/x-null-markup-extension.58cf7edddeb6659609db5ebc6de8923f9fbecb08.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10790,7 +10790,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [x-phase-attribute.c38dcaf402a1e7dd00c3c949fe1b01f3f6270afe.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/x-phase-attribute.c38dcaf402a1e7dd00c3c949fe1b01f3f6270afe.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10802,7 +10802,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [x-uid-directive.5729cd15cd242b341b52ea6cffa8e61e2b2b5537.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/x-uid-directive.5729cd15cd242b341b52ea6cffa8e61e2b2b5537.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10814,7 +10814,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [accessibility.7e4ec979c545536e489363bdd8d456d161d138b1.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/accessibility.7e4ec979c545536e489363bdd8d456d161d138b1.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10826,7 +10826,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [accessibility-checklist.6a487713f6b3a5c62c0837b828e7053ef7bc340d.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/accessibility-checklist.6a487713f6b3a5c62c0837b828e7053ef7bc340d.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10838,7 +10838,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [accessibility-Copy.c63d4756550b0c7191b0e939735c15130dcdda39.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/accessibility-Copy.c63d4756550b0c7191b0e939735c15130dcdda39.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10850,7 +10850,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [accessibility-in-the-store.ce85a1cd9789c011b6e89cdf4a915c66e97eb620.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/accessibility-in-the-store.ce85a1cd9789c011b6e89cdf4a915c66e97eb620.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10862,7 +10862,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [accessibility-overview.4d097472c575a23e4fa8b349cc53590f8b1a44fd.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/accessibility-overview.4d097472c575a23e4fa8b349cc53590f8b1a44fd.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10874,7 +10874,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [accessibility-testing.cda58c0da3fdc9616274328a2b51521617fd499c.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/accessibility-testing.cda58c0da3fdc9616274328a2b51521617fd499c.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10886,7 +10886,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [accessible-text-requirements.dced41e502a953a1ddc49463b9d010ccc7904d71.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/accessible-text-requirements.dced41e502a953a1ddc49463b9d010ccc7904d71.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10898,7 +10898,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [basic-accessibility-information.0d3905f7d8c7b364a4061f09f1d0c0eb9a48b524.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/basic-accessibility-information.0d3905f7d8c7b364a4061f09f1d0c0eb9a48b524.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10910,7 +10910,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [control-patterns-and-interfaces.a2da6825d04855854ae59257436a39823d0a6439.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/control-patterns-and-interfaces.a2da6825d04855854ae59257436a39823d0a6439.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10922,7 +10922,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [custom-automation-peers.37b28fe9a18ef60c13b3caa5d9c5b260bb2b3aaa.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/custom-automation-peers.37b28fe9a18ef60c13b3caa5d9c5b260bb2b3aaa.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10934,7 +10934,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [high-contrast-themes.9e1283116aee171c26412f79c0e0ff427d296e98.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/high-contrast-themes.9e1283116aee171c26412f79c0e0ff427d296e98.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10946,7 +10946,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [keyboard-accessibility.c07a416c7ae98a9729e05b6ee3f0bec617988f7b.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/keyboard-accessibility.c07a416c7ae98a9729e05b6ee3f0bec617988f7b.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10958,7 +10958,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [practices-to-avoid.5f7f01a695525ad07e3952c75a81ce134ee63eeb.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/practices-to-avoid.5f7f01a695525ad07e3952c75a81ce134ee63eeb.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10970,7 +10970,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [practices-to-avoid.5f7f01a695525ad07e3952c75a81ce134ee63eeb.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/practices-to-avoid.5f7f01a695525ad07e3952c75a81ce134ee63eeb.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10982,7 +10982,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [app-settings-and-data.6ac4a16fbc5f38652a1cb36ee13824ae032dfd7c.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/app-settings-and-data.6ac4a16fbc5f38652a1cb36ee13824ae032dfd7c.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10994,7 +10994,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [guidelines-for-app-settings.beb094156919e0fae0aaae5ace9119071f69d178.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/guidelines-for-app-settings.beb094156919e0fae0aaae5ace9119071f69d178.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -11030,7 +11030,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [store-and-retrieve-app-data.bb47a9f373ca0e93450cb87e2160cfede081ccf8.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/store-and-retrieve-app-data.bb47a9f373ca0e93450cb87e2160cfede081ccf8.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -11486,7 +11486,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [copy-and-paste.ea064ca33e41f8e9b3188840e42fd748548e9441.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/copy-and-paste.ea064ca33e41f8e9b3188840e42fd748548e9441.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -11498,7 +11498,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [drag-and-drop.c95532f436d95a6d1f93dd4eb3e10606a8ba5f24.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/drag-and-drop.c95532f436d95a6d1f93dd4eb3e10606a8ba5f24.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -11510,7 +11510,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [index.8516bc6d882b081c2236684930ae6e6096ac48e2.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/index.8516bc6d882b081c2236684930ae6e6096ac48e2.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -11522,7 +11522,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [receive-data.5efe521840c62d871465cb952382469e25987eca.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/receive-data.5efe521840c62d871465cb952382469e25987eca.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -11534,7 +11534,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [share-data.e76af90c15066d7c46a4b6b54a095dbd5720a1ee.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/share-data.e76af90c15066d7c46a4b6b54a095dbd5720a1ee.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -11546,7 +11546,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [adaptive-streaming.ad27508ebbf8345711f3272f09f44d36b9062305.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/adaptive-streaming.ad27508ebbf8345711f3272f09f44d36b9062305.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -11558,7 +11558,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [adaptive-streaming-with-playready.f931cb35e7c2f336ca247a0143c1d6e70547707a.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/adaptive-streaming-with-playready.f931cb35e7c2f336ca247a0143c1d6e70547707a.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -11570,7 +11570,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [audio-graphs.dad20592f64514be27f44c47c3209c8a525bbe2f.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/audio-graphs.dad20592f64514be27f44c47c3209c8a525bbe2f.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -11582,7 +11582,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [background-audio.f66026485363a7e0569fcc6016caacc0793cab69.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/background-audio.f66026485363a7e0569fcc6016caacc0793cab69.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -11594,7 +11594,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [bitmapencoder-options-reference.0fa9864d7941df960c66583a5ce09cd6170f568a.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/bitmapencoder-options-reference.0fa9864d7941df960c66583a5ce09cd6170f568a.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -11606,7 +11606,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [camera-independent-flashlight.273354eb33565b764165872c73021598b853a058.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/camera-independent-flashlight.273354eb33565b764165872c73021598b853a058.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -11618,7 +11618,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [camera-profiles.0ec096db9ca2c1d5f4a15ebf4fa053f769908667.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/camera-profiles.0ec096db9ca2c1d5f4a15ebf4fa053f769908667.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -11630,7 +11630,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [capture-device-controls-for-photo-and-video-capture.760b55fd639a341634ec7136a92ea6577e62761e.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/capture-device-controls-for-photo-and-video-capture.760b55fd639a341634ec7136a92ea6577e62761e.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -11642,7 +11642,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [capture-device-controls-for-video-capture.6a0bc1c9de6c7bb37fe58d7bc4a0044e307bb5db.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/capture-device-controls-for-video-capture.6a0bc1c9de6c7bb37fe58d7bc4a0044e307bb5db.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -11654,7 +11654,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [capture-photos-and-video-with-cameracaptureui.aba17b3db98a084c6dd26fbe726ff10d7c9c275a.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/capture-photos-and-video-with-cameracaptureui.aba17b3db98a084c6dd26fbe726ff10d7c9c275a.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -11666,7 +11666,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [capture-photos-and-video-with-mediacapture.0b841baab063eefd4e59ca1dc226098053a502b4.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/capture-photos-and-video-with-mediacapture.0b841baab063eefd4e59ca1dc226098053a502b4.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -13970,7 +13970,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [detect-and-track-faces-in-an-image.67e5866ac8e294cecf48e84f782b54fcdc402e1d.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/detect-and-track-faces-in-an-image.67e5866ac8e294cecf48e84f782b54fcdc402e1d.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -13982,7 +13982,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [effects-for-video-capture.0909f8caf28c915597d8465efb8f4f21343a29c7.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/effects-for-video-capture.0909f8caf28c915597d8465efb8f4f21343a29c7.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -13994,7 +13994,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [get-a-preview-frame.6e8790178b6a7006b6f412beafda806bfd85372e.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/get-a-preview-frame.6e8790178b6a7006b6f412beafda806bfd85372e.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14006,7 +14006,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [hardware-drm.6e3b289924f382fd61a4c7849814e9166a007b10.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/hardware-drm.6e3b289924f382fd61a4c7849814e9166a007b10.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14018,7 +14018,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [high-dynamic-range-hdr-photo-capture.a85be19e45ed348ae57de1321970352ebee18528.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/high-dynamic-range-hdr-photo-capture.a85be19e45ed348ae57de1321970352ebee18528.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14030,7 +14030,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [image-metadata.c9c60a337a8c37bb39cf0a68f98b9858d1a2da9a.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/image-metadata.c9c60a337a8c37bb39cf0a68f98b9858d1a2da9a.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14042,7 +14042,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [imaging.175d9df7e94a1fc57030da38199e5cbfe13137aa.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/imaging.175d9df7e94a1fc57030da38199e5cbfe13137aa.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14054,7 +14054,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [index.a9430364886a3b06e3921637072a0aaee016e553.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/index.a9430364886a3b06e3921637072a0aaee016e553.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14066,7 +14066,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [media-casting.ac986e0aa63b2f0eae3698473b40669c5d4af3c1.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/media-casting.ac986e0aa63b2f0eae3698473b40669c5d4af3c1.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14078,7 +14078,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [media-compositions-and-editing.a4f0c7e1818d5678b745f9ea4cbeefb07e765c7b.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/media-compositions-and-editing.a4f0c7e1818d5678b745f9ea4cbeefb07e765c7b.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14090,7 +14090,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [media-playback-with-mediasource.7b4e3d6bbf9945dab97325c385db5e68ca7ef92a.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/media-playback-with-mediasource.7b4e3d6bbf9945dab97325c385db5e68ca7ef92a.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14102,7 +14102,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [midi.2ef0afab3f19b7f17af6a04f33db943faf36b627.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/midi.2ef0afab3f19b7f17af6a04f33db943faf36b627.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14114,7 +14114,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [playready-client-sdk.925b058b149f2c80c3295db3ca8bad4950fbfe63.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/playready-client-sdk.925b058b149f2c80c3295db3ca8bad4950fbfe63.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14126,7 +14126,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [playready-encrypted-media-extension.3eb4f2554423e0c8cac177f9d4d37cd87f1fa146.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/playready-encrypted-media-extension.3eb4f2554423e0c8cac177f9d4d37cd87f1fa146.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14138,7 +14138,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [process-media-files-in-the-background.56a5cb3b562a1b70f51d9679d72078ebb09b9ecb.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/process-media-files-in-the-background.56a5cb3b562a1b70f51d9679d72078ebb09b9ecb.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14150,7 +14150,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [scene-analysis-for-media-capture.d8155ec5104aeec9f5ea5fa51c259f580be47402.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/scene-analysis-for-media-capture.d8155ec5104aeec9f5ea5fa51c259f580be47402.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14162,7 +14162,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [set-media-encoding-properties.448cf88fc28ffd4a46bbe59a452d2398de5f3aba.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/set-media-encoding-properties.448cf88fc28ffd4a46bbe59a452d2398de5f3aba.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14174,7 +14174,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [simple-camera-preview-access.8986c11c2d98b17dc76e7e42324d8dc762a4f93d.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/simple-camera-preview-access.8986c11c2d98b17dc76e7e42324d8dc762a4f93d.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14186,7 +14186,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [supported-codecs.62cd34b114887b447ea8f3740a65ca629bc73812.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/supported-codecs.62cd34b114887b447ea8f3740a65ca629bc73812.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14198,7 +14198,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [system-media-transport-controls.563a94bceca940ec0a52134cb28f6517665ae14a.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/system-media-transport-controls.563a94bceca940ec0a52134cb28f6517665ae14a.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14210,7 +14210,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [transcode-media-files.5ca3115ca70d979f20301441e8609ad57c695047.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/transcode-media-files.5ca3115ca70d979f20301441e8609ad57c695047.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14222,7 +14222,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [variable-photo-sequence.73f0aab1b682c841a24f2ffaa26033de15e9f320.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/variable-photo-sequence.73f0aab1b682c841a24f2ffaa26033de15e9f320.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14234,7 +14234,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [index.f11a6244947f266c706f656e6ef5b6d66a0a0cfc.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/index.f11a6244947f266c706f656e6ef5b6d66a0a0cfc.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14246,7 +14246,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [managing-appointments.f1c1e6efe7d259db9a81bffba704e33cdefc867f.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/managing-appointments.f1c1e6efe7d259db9a81bffba704e33cdefc867f.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14258,7 +14258,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [selecting-contacts.a6709db2fd10cbc1fc48f280f208ab9c32bd18e4.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/selecting-contacts.a6709db2fd10cbc1fc48f280f208ab9c32bd18e4.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14270,7 +14270,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [sending-an-sms-message.53c3a8946ee471b20fa8c22d9c2472756d8f3562.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/sending-an-sms-message.53c3a8946ee471b20fa8c22d9c2472756d8f3562.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14282,7 +14282,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [sending-email.31e06c68455bed072bc155aebbcdd29f08716aed.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/sending-email.31e06c68455bed072bc155aebbcdd29f08716aed.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14294,7 +14294,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [active-canvas.8d50c16185efed0388a9508f73eb9ef30e751b45.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/active-canvas.8d50c16185efed0388a9508f73eb9ef30e751b45.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14306,7 +14306,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [app-bars.3c9f794aa6dd3da29c5f1e03efd2a952ee2274c1.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/app-bars.3c9f794aa6dd3da29c5f1e03efd2a952ee2274c1.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14318,7 +14318,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [auto-suggest-box.6f9106f347927a14ae335af1ffe75eab748624f5.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/auto-suggest-box.6f9106f347927a14ae335af1ffe75eab748624f5.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14330,7 +14330,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [buttons.936098ddc52733b49291d896c8481e9dc30e9f7b.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/buttons.936098ddc52733b49291d896c8481e9dc30e9f7b.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14342,7 +14342,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [calendar-date-picker.1cfb150f8cea6b81479fb7f3e9d4669915e9316f.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/calendar-date-picker.1cfb150f8cea6b81479fb7f3e9d4669915e9316f.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14354,7 +14354,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [calendar-view.1a90af3a3a95f4246eb3790f712ed38f7cd85570.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/calendar-view.1a90af3a3a95f4246eb3790f712ed38f7cd85570.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14366,7 +14366,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [checkbox.0e4a35be0086edeaf22cfc84ab47d4cf32a65579.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/checkbox.0e4a35be0086edeaf22cfc84ab47d4cf32a65579.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14378,7 +14378,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [controls-and-events-intro.23ffaf58a7039e0ee422c089a512367dc89667d8.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/controls-and-events-intro.23ffaf58a7039e0ee422c089a512367dc89667d8.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14390,7 +14390,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [controls-by-function.21164fc963b861b21b00c822bc0fff3876852a23.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/controls-by-function.21164fc963b861b21b00c822bc0fff3876852a23.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14402,7 +14402,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [control-templates.244c78243de14637a27a7034f29f7211f21e37fd.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/control-templates.244c78243de14637a27a7034f29f7211f21e37fd.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14414,7 +14414,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [custom-transport-controls.8344248a9263650dae7acc954c9e66fbd43a51c0.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/custom-transport-controls.8344248a9263650dae7acc954c9e66fbd43a51c0.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14426,7 +14426,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [date-and-time.948e96ee46bd71cf191781de099a417e18ab2b66.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/date-and-time.948e96ee46bd71cf191781de099a417e18ab2b66.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14438,7 +14438,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [date-picker.9d4592dc7ffec2b8167e531195ba721da24b5c94.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/date-picker.9d4592dc7ffec2b8167e531195ba721da24b5c94.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14450,7 +14450,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [dialogs-popups-menus.8dc458dd60d38026f2f87956ae3336b3d56a6d6d.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/dialogs-popups-menus.8dc458dd60d38026f2f87956ae3336b3d56a6d6d.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14462,7 +14462,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [flipview.77fada879da68f8e3527cd9806041eab922e2666.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/flipview.77fada879da68f8e3527cd9806041eab922e2666.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14474,7 +14474,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [fonts.f84ec59300d20758744753dc20fccbb9bf76ee6a.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/fonts.f84ec59300d20758744753dc20fccbb9bf76ee6a.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14486,7 +14486,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [hub.b96b03d2a4a317017d11b7c0fb31a06c28f86260.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/hub.b96b03d2a4a317017d11b7c0fb31a06c28f86260.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14498,7 +14498,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [hyperlinks.7c8ea283ae0e81627cc57b2d203e0e4a920be9d3.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/hyperlinks.7c8ea283ae0e81627cc57b2d203e0e4a920be9d3.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14810,7 +14810,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [images-imagebrushes.f7209c73e858e609a88b169ae8e3c5ab1793eba8.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/images-imagebrushes.f7209c73e858e609a88b169ae8e3c5ab1793eba8.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14822,7 +14822,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [labels.3201e31bbb47b16bd727554a2c6233bfc463ea55.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/labels.3201e31bbb47b16bd727554a2c6233bfc463ea55.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14834,7 +14834,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [lists.7d3e62e68a277c0c30b1a0c7b7a4de1b80ec4db2.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/lists.7d3e62e68a277c0c30b1a0c7b7a4de1b80ec4db2.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14846,7 +14846,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [master-details.00d1e78257212252377c293c7bda9f90ef401e56.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/master-details.00d1e78257212252377c293c7bda9f90ef401e56.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14858,7 +14858,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [media-playback.cd85782ee14670f57312ec5c85c28bb579bc3f9a.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/media-playback.cd85782ee14670f57312ec5c85c28bb579bc3f9a.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14870,7 +14870,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [nav-pane.64beba2fb65201c3e5fcbc6e1a067ad61fb628d3.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/nav-pane.64beba2fb65201c3e5fcbc6e1a067ad61fb628d3.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14882,7 +14882,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [password-box.6413c076d8c164bdcf6f2bb2868dea84386181d9.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/password-box.6413c076d8c164bdcf6f2bb2868dea84386181d9.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14894,7 +14894,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [progress-controls.2462ac4f9246d09c0d252b3c729edd0261e4bf81.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/progress-controls.2462ac4f9246d09c0d252b3c729edd0261e4bf81.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14906,7 +14906,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [radio-button.4010ad1ec0cbe3074a933d70084ccaf61f3007a9.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/radio-button.4010ad1ec0cbe3074a933d70084ccaf61f3007a9.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14918,7 +14918,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [resourcedictionary-and-xaml-resource-references.3eb83c695408b10a0e125f3cf2ad8f61d23149d3.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/resourcedictionary-and-xaml-resource-references.3eb83c695408b10a0e125f3cf2ad8f61d23149d3.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14930,7 +14930,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [rich-edit-box.5734751b10d63e401092ced1de047a3e609ec789.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/rich-edit-box.5734751b10d63e401092ced1de047a3e609ec789.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14942,7 +14942,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [rich-text-block.390bbd377babaa1f8205d5afb72b32526a8dc466.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/rich-text-block.390bbd377babaa1f8205d5afb72b32526a8dc466.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14954,7 +14954,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [scroll-controls.83842d87535783e58f536437a7b403f13f106ab9.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/scroll-controls.83842d87535783e58f536437a7b403f13f106ab9.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14966,7 +14966,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [search.8d253ffd2d3ca654376aca5409a039bdaf9863fa.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/search.8d253ffd2d3ca654376aca5409a039bdaf9863fa.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14978,7 +14978,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [segoe-ui-symbol-font.dcb8e47d021970f915659bb7ae6adbba0ab8f19a.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/segoe-ui-symbol-font.dcb8e47d021970f915659bb7ae6adbba0ab8f19a.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14990,7 +14990,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [semantic-zoom.39bcaf56ab3592ec85f28bd5f9c62cf89a47a07e.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/semantic-zoom.39bcaf56ab3592ec85f28bd5f9c62cf89a47a07e.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15002,7 +15002,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [slider.213972aaa041206a5814bfd1c491772ac5ff017a.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/slider.213972aaa041206a5814bfd1c491772ac5ff017a.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15014,7 +15014,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [spell-checking-and-prediction.866c05b31c60c9ed9d44a0b07f76ff0e32d14d42.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/spell-checking-and-prediction.866c05b31c60c9ed9d44a0b07f76ff0e32d14d42.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15026,7 +15026,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [split-view.9975bd8d6390181ae9fc2dc9806451117421c203.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/split-view.9975bd8d6390181ae9fc2dc9806451117421c203.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15038,7 +15038,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [styling-controls.9710421ddf93d74cb7363568aea7d0335f9a9f17.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/styling-controls.9710421ddf93d74cb7363568aea7d0335f9a9f17.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15050,7 +15050,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [tabs-pivot.8488d66b81be5a3078cf4fa246ee65a3563880b2.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/tabs-pivot.8488d66b81be5a3078cf4fa246ee65a3563880b2.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15062,7 +15062,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [text-block.0980c7ed16f39b581fffe71042395a13a41cddba.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/text-block.0980c7ed16f39b581fffe71042395a13a41cddba.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15074,7 +15074,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [text-box.6e40ec7b1713c8e74e9365fd876cfc2e958df5b1.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/text-box.6e40ec7b1713c8e74e9365fd876cfc2e958df5b1.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15086,7 +15086,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [text-controls.c69bd3d37566b2ac4255d7894ed5ad5efb27e9ee.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/text-controls.c69bd3d37566b2ac4255d7894ed5ad5efb27e9ee.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15098,7 +15098,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [tiles-and-notifications-adaptive-interactive-toasts.f95df51e9ee6d2d5d706c49e64f649e63bd6e291.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/tiles-and-notifications-adaptive-interactive-toasts.f95df51e9ee6d2d5d706c49e64f649e63bd6e291.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15110,7 +15110,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [tiles-and-notifications-adaptive-tiles-schema.66a0081e3cc36c57332f7bfdb8e34e0ca536fe1e.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/tiles-and-notifications-adaptive-tiles-schema.66a0081e3cc36c57332f7bfdb8e34e0ca536fe1e.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15122,7 +15122,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [tiles-and-notifications-app-assets.c407516cf55e0b4253dab86cb091d7ac6cc91dc5.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/tiles-and-notifications-app-assets.c407516cf55e0b4253dab86cb091d7ac6cc91dc5.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15134,7 +15134,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [tiles-and-notifications-choosing-a-notification-delivery-method.1805d2fc2fcdc5706c75ecc39d1fbb12271f6a43.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/tiles-and-notifications-choosing-a-notification-delivery-method.1805d2fc2fcdc5706c75ecc39d1fbb12271f6a43.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15146,7 +15146,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [tiles-and-notifications-create-adaptive-tiles.fcf051366e99f831d4ac72fcd6d92739fc6847ba.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/tiles-and-notifications-create-adaptive-tiles.fcf051366e99f831d4ac72fcd6d92739fc6847ba.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15158,7 +15158,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [tiles-and-notifications-creating-tiles.b045539b9f0d8bbbde8b253f6387227de6d58a17.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/tiles-and-notifications-creating-tiles.b045539b9f0d8bbbde8b253f6387227de6d58a17.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15170,7 +15170,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [tiles-and-notifications-notifications-visualizer.9b4a274a7fbbb589fbe793f4a3812a1fef667a52.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/tiles-and-notifications-notifications-visualizer.9b4a274a7fbbb589fbe793f4a3812a1fef667a52.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15182,7 +15182,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [tiles-and-notifications-periodic-notification-overview.0f8e63895c222d228e74622abea0bf207fe6c140.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/tiles-and-notifications-periodic-notification-overview.0f8e63895c222d228e74622abea0bf207fe6c140.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15194,7 +15194,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [tiles-and-notifications-raw-notification-overview.8a198a9acaf1f08944cc9b5f0c3daa2cd79c7529.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/tiles-and-notifications-raw-notification-overview.8a198a9acaf1f08944cc9b5f0c3daa2cd79c7529.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15206,7 +15206,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [tiles-and-notifications-sending-a-local-tile-notification.ef6d5c5be1115e4e68fe32b8abbe5f600ad3553d.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/tiles-and-notifications-sending-a-local-tile-notification.ef6d5c5be1115e4e68fe32b8abbe5f600ad3553d.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15218,7 +15218,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [tiles-and-notifications-special-tile-templates-catalog.62728369661ddebd70313a2ce1cce90d855d50c2.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/tiles-and-notifications-special-tile-templates-catalog.62728369661ddebd70313a2ce1cce90d855d50c2.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15230,7 +15230,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [tiles-and-notifications-the-code-generated-by-the-push-notification-wizard.a145065b565e7cc38c437bdc0a3cf8934121c17f.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/tiles-and-notifications-the-code-generated-by-the-push-notification-wizard.a145065b565e7cc38c437bdc0a3cf8934121c17f.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15242,7 +15242,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [tiles-and-notifications-windows-push-notification-services--wns--overview.d4895e86af2aa7a667dcea43f88502ed1a5c6ba9.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/tiles-and-notifications-windows-push-notification-services--wns--overview.d4895e86af2aa7a667dcea43f88502ed1a5c6ba9.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15254,7 +15254,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [tiles-badges-notifications.96c68ee8026c717a4d3ef5bc724233d77e75ddb4.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/tiles-badges-notifications.96c68ee8026c717a4d3ef5bc724233d77e75ddb4.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15266,7 +15266,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [time-picker.bcd84e26db928fca1efc99b106765d0c77e0914e.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/time-picker.bcd84e26db928fca1efc99b106765d0c77e0914e.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15278,7 +15278,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [toggles.8371138b8acc49112979b868ca06f2e861722c36.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/toggles.8371138b8acc49112979b868ca06f2e861722c36.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15290,7 +15290,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [tooltips.8074be7b858d5bdafe1510a988f12e13a146c318.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/tooltips.8074be7b858d5bdafe1510a988f12e13a146c318.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15302,7 +15302,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [web-view.fe8fef0eaa0f2d85cc910bf521d563fbba126cb5.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/web-view.fe8fef0eaa0f2d85cc910bf521d563fbba126cb5.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15314,7 +15314,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [xaml-theme-resources.820e6baac6e23c88c93e0bff5c8786c5c5f18228.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/xaml-theme-resources.820e6baac6e23c88c93e0bff5c8786c5c5f18228.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15326,7 +15326,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [entity-framework-7-with-sqlite-for-csharp-apps.46476ce046b2bc0b26780229fc9df7a42fb9ff0a.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/entity-framework-7-with-sqlite-for-csharp-apps.46476ce046b2bc0b26780229fc9df7a42fb9ff0a.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15338,7 +15338,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [index.8708ca78a50a7446b72aa9ec3247d88a80fceb0c.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/index.8708ca78a50a7446b72aa9ec3247d88a80fceb0c.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15350,7 +15350,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [sqlite-databases.3ac906003cecff1be34a0c9ec2f8dbbc5834acc7.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/sqlite-databases.3ac906003cecff1be34a0c9ec2f8dbbc5834acc7.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15362,7 +15362,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [data-binding-in-depth.f7cf9483e0fdd698c1db44f776d978d18f8bfadd.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/data-binding-in-depth.f7cf9483e0fdd698c1db44f776d978d18f8bfadd.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15374,7 +15374,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [data-binding-quickstart.4e8634e6a37555281c59ddd593d0f2c9ea839428.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/data-binding-quickstart.4e8634e6a37555281c59ddd593d0f2c9ea839428.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15386,7 +15386,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [displaying-data-in-the-designer.3afa7dee8686cb59b7fb626047382c6b548e4704.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/displaying-data-in-the-designer.3afa7dee8686cb59b7fb626047382c6b548e4704.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15398,7 +15398,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [how-to-bind-to-hierarchical-data-and-create-a-master-details-view.88f44fcfcdeb4b229085c0dff5553d869b1e51ee.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/how-to-bind-to-hierarchical-data-and-create-a-master-details-view.88f44fcfcdeb4b229085c0dff5553d869b1e51ee.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15410,7 +15410,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [index.a65bd4baa9b306288c29b6df7ae1b25e2bcd3a1a.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/index.a65bd4baa9b306288c29b6df7ae1b25e2bcd3a1a.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15422,7 +15422,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [best-practices-for-your-app-s-startup-performance.f489400ce8a98d1e61cdfdac420e155f0f51429b.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/best-practices-for-your-app-s-startup-performance.f489400ce8a98d1e61cdfdac420e155f0f51429b.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15434,7 +15434,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [beta-testing.25478422f0c3c3512db3aa5cbe9b1353abc0de7d.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/beta-testing.25478422f0c3c3512db3aa5cbe9b1353abc0de7d.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15446,7 +15446,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [deploying-and-debugging-uwp-apps.88f92f7ab1b6df862c0496743e87fdd3cf4e21cb.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/deploying-and-debugging-uwp-apps.88f92f7ab1b6df862c0496743e87fdd3cf4e21cb.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15458,7 +15458,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [improve-garbage-collection-performance.22bf1f6dbcec7999a2b05fdac52bdc86e8c76bbb.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/improve-garbage-collection-performance.22bf1f6dbcec7999a2b05fdac52bdc86e8c76bbb.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15470,7 +15470,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [index.b733c58fde04b568b84676f20fa41e56e86ca048.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/index.b733c58fde04b568b84676f20fa41e56e86ca048.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15482,7 +15482,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [keep-the-ui-thread-responsive.5c893711db7c6dd07a20d39c639101f0bb53f2d5.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/keep-the-ui-thread-responsive.5c893711db7c6dd07a20d39c639101f0bb53f2d5.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15494,7 +15494,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [listview-and-gridview-data-optimization.b85ba77def1e7d3ebcb092789c6fe29d3a7d9e0e.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/listview-and-gridview-data-optimization.b85ba77def1e7d3ebcb092789c6fe29d3a7d9e0e.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15506,7 +15506,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [mvvm-performance-tips.f1e1b28ea6f84470c832acc325ed208cc204ce90.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/mvvm-performance-tips.f1e1b28ea6f84470c832acc325ed208cc204ce90.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15518,7 +15518,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [optimize-animations-and-media.1626f4e5252de8d32b3dbbd42431761b7bf88eb8.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/optimize-animations-and-media.1626f4e5252de8d32b3dbbd42431761b7bf88eb8.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15530,7 +15530,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [optimize-file-access.590125433620986f8ca3cafa9ae3d991e09c4917.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/optimize-file-access.590125433620986f8ca3cafa9ae3d991e09c4917.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15542,7 +15542,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [optimize-gridview-and-listview.5b7eeb2a2463bc4ed4236148eb958dab683d5113.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/optimize-gridview-and-listview.5b7eeb2a2463bc4ed4236148eb958dab683d5113.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15554,7 +15554,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [optimize-suspend-resume.046ac79107510d2b78d17a4d1533c82dbde74ad9.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/optimize-suspend-resume.046ac79107510d2b78d17a4d1533c82dbde74ad9.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15566,7 +15566,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [optimize-xaml-loading.81887647640ff3d2d720a1d1168ac35115787be2.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/optimize-xaml-loading.81887647640ff3d2d720a1d1168ac35115787be2.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15578,7 +15578,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [optimize-your-xaml-layout.47313c57dda7ba0ca2cb408b198ff566a6fab25a.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/optimize-your-xaml-layout.47313c57dda7ba0ca2cb408b198ff566a6fab25a.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15590,7 +15590,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [performance-and-xaml-ui.c7e31f5c05011612d57cc8315e8562cd6fabc9b5.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/performance-and-xaml-ui.c7e31f5c05011612d57cc8315e8562cd6fabc9b5.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15602,7 +15602,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [planning-and-measuring-performance.aedf39f9c2354830d35dee3eee8c595d48b0261d.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/planning-and-measuring-performance.aedf39f9c2354830d35dee3eee8c595d48b0261d.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15614,7 +15614,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [test-with-the-emulator.ab10dd1aad15e6b681739069537f2519b1b4ceeb.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/test-with-the-emulator.ab10dd1aad15e6b681739069537f2519b1b4ceeb.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15626,7 +15626,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [tools-for-profiling-and-performance.93c0e74cb655bfac68c6137b0fef1615b4256319.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/tools-for-profiling-and-performance.93c0e74cb655bfac68c6137b0fef1615b4256319.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15638,7 +15638,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [windows-app-certification-kit.d00586bccd5967df773ccd124f08e040fe5361fb.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/windows-app-certification-kit.d00586bccd5967df773ccd124f08e040fe5361fb.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15650,7 +15650,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [windows-app-certification-kit-tests.1dfd047e1fee599e2b58826e89289d1ae5ddb96f.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/windows-app-certification-kit-tests.1dfd047e1fee599e2b58826e89289d1ae5ddb96f.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15662,7 +15662,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [windows-runtime-components-and-optimizing-interop.b24273eafdb58882ddb4383263468db4d34e3873.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/windows-runtime-components-and-optimizing-interop.b24273eafdb58882ddb4383263468db4d34e3873.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15674,7 +15674,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [3d-printing.22bba2f06d7ec77beb43c6b69cbe59b9c108365a.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/3d-printing.22bba2f06d7ec77beb43c6b69cbe59b9c108365a.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15686,7 +15686,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [aep-service-class-ids.7616ccbccd19245d7c28581acbd641ba9d2494c4.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/aep-service-class-ids.7616ccbccd19245d7c28581acbd641ba9d2494c4.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15698,7 +15698,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [bluetooth.84366f2f19b935d3902fed5f69cfc9325502a8d9.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/bluetooth.84366f2f19b935d3902fed5f69cfc9325502a8d9.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15710,7 +15710,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [build-a-device-selector.d2a06c51fa9505b58c711970af4b679af1e46b6f.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/build-a-device-selector.d2a06c51fa9505b58c711970af4b679af1e46b6f.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15722,7 +15722,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [calibrate-sensors.b1c0e4250685fa882ff2a0853efefd439bfb1a62.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/calibrate-sensors.b1c0e4250685fa882ff2a0853efefd439bfb1a62.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15926,7 +15926,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [customize-the-print-preview-ui.246cd4b5e913b6392ccf64d5cd9e4102c1d2edb6.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/customize-the-print-preview-ui.246cd4b5e913b6392ccf64d5cd9e4102c1d2edb6.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15938,7 +15938,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [device-information-properties.858a00336df0be024e6583d9e5573071485ef9e1.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/device-information-properties.858a00336df0be024e6583d9e5573071485ef9e1.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15950,7 +15950,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [enable-device-capabilities.39b3122e65d99043b9df657a4b1c5acdd11d16e9.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/enable-device-capabilities.39b3122e65d99043b9df657a4b1c5acdd11d16e9.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15962,7 +15962,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [enumerate-devices.5ab1a90fd283c9c34838df46e97c12b5614c8320.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/enumerate-devices.5ab1a90fd283c9c34838df46e97c12b5614c8320.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15974,7 +15974,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [enumerate-devices-over-a-network.4fd6ba504203266e98966717f01527e1cac7cd6b.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/enumerate-devices-over-a-network.4fd6ba504203266e98966717f01527e1cac7cd6b.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15986,7 +15986,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [epson-esc-pos-with-formatting.07b6a370e497a59231de0b09ae6a75e959750ccf.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/epson-esc-pos-with-formatting.07b6a370e497a59231de0b09ae6a75e959750ccf.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15998,7 +15998,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [gatt-scenarios.38071b0951e1a3acb1e718e630c1fd5f665f846b.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/gatt-scenarios.38071b0951e1a3acb1e718e630c1fd5f665f846b.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16010,7 +16010,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [get-battery-info.5e591b891a55cdbfa7b9c68b2d3a1a6f14a54b45.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/get-battery-info.5e591b891a55cdbfa7b9c68b2d3a1a6f14a54b45.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16022,7 +16022,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [host-card-emulation.c74e9d0ac7f2cd484aea506ee7224f6c9ccade86.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/host-card-emulation.c74e9d0ac7f2cd484aea506ee7224f6c9ccade86.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16034,7 +16034,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [index.f840787cbfeafc3e54131a156ee59d1b0926e68d.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/index.f840787cbfeafc3e54131a156ee59d1b0926e68d.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16046,7 +16046,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [pair-devices.c2ca83860076474a16fd7ea32a03cffd86b129f5.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/pair-devices.c2ca83860076474a16fd7ea32a03cffd86b129f5.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16058,7 +16058,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [print-from-your-app.202d24b1ff38a6487c4a62110d4f935bf7aaead9.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/print-from-your-app.202d24b1ff38a6487c4a62110d4f935bf7aaead9.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16070,7 +16070,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [printing-and-scanning.ab20216236a2d6e9e87d2fe4caed0bd1c36b54d7.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/printing-and-scanning.ab20216236a2d6e9e87d2fe4caed0bd1c36b54d7.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16082,7 +16082,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [scan-from-your-app.dfe7ac1ce1e8019751c7cc45c203897ab0328f28.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/scan-from-your-app.dfe7ac1ce1e8019751c7cc45c203897ab0328f28.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16094,7 +16094,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [send-or-receive-files-with-rfcomm.e38b5d08f364377e929e987d26306f55252d6416.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/send-or-receive-files-with-rfcomm.e38b5d08f364377e929e987d26306f55252d6416.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16106,7 +16106,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [sensor-orientation.6167c66dbd9ac266b2013af64cd00ed36c383be0.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/sensor-orientation.6167c66dbd9ac266b2013af64cd00ed36c383be0.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16118,7 +16118,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [sensors.93322ef23190d5747de6b99381a48bc26d5ca22a.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/sensors.93322ef23190d5747de6b99381a48bc26d5ca22a.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16130,7 +16130,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [use-the-accelerometer.3d329186bf888606211122121016ba3c5c1799a6.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/use-the-accelerometer.3d329186bf888606211122121016ba3c5c1799a6.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16142,7 +16142,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [use-the-compass.e7c3f66251ba89ffe4df3e922c6f13b98ffb4106.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/use-the-compass.e7c3f66251ba89ffe4df3e922c6f13b98ffb4106.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16154,7 +16154,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [use-the-gyrometer.8829b6c09a82aa5d0f92be6b324a1bb28de417e9.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/use-the-gyrometer.8829b6c09a82aa5d0f92be6b324a1bb28de417e9.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16166,7 +16166,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [use-the-inclinometer.d0826c490c910bc0d4fcdae60c57fc5d71af632c.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/use-the-inclinometer.d0826c490c910bc0d4fcdae60c57fc5d71af632c.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16178,7 +16178,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [use-the-light-sensor.615458c8cf49efd35c4ae69e169dce39dc32df1e.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/use-the-light-sensor.615458c8cf49efd35c4ae69e169dce39dc32df1e.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16190,7 +16190,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [use-the-orientation-sensor.af0cf80413f8e53f43b62ad230c6b263f640be5c.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/use-the-orientation-sensor.af0cf80413f8e53f43b62ad230c6b263f640be5c.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16214,7 +16214,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [index.96a8d42f8815f365b08e4dda0ed55ad6780899bd.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/index.96a8d42f8815f365b08e4dda0ed55ad6780899bd.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16226,7 +16226,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [access-the-sd-card.6157ef204c6941e79098a8f1fce292452eb974b7.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/access-the-sd-card.6157ef204c6941e79098a8f1fce292452eb974b7.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16238,7 +16238,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [file-access-permissions.df043c3d335cf16e802c8ee6d7752078ed6eaf66.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/file-access-permissions.df043c3d335cf16e802c8ee6d7752078ed6eaf66.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16250,7 +16250,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [how-to-track-recently-used-files-and-folders.6d958a02164b89daf660ef7d8fceeb042ac381dc.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/how-to-track-recently-used-files-and-folders.6d958a02164b89daf660ef7d8fceeb042ac381dc.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16262,7 +16262,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [index.c5d684a3ff621c874dda476160e53b1865ff1f73.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/index.c5d684a3ff621c874dda476160e53b1865ff1f73.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16274,7 +16274,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [quickstart-accessing-homegroup-content.2d3f5e28d4c786508346fd13bb71dd783efd96d0.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/quickstart-accessing-homegroup-content.2d3f5e28d4c786508346fd13bb71dd783efd96d0.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16286,7 +16286,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [quickstart-determining-availability-of-microsoft-onedrive-files.8a476c2ec353846cddbe79767582eca206a6cbb8.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/quickstart-determining-availability-of-microsoft-onedrive-files.8a476c2ec353846cddbe79767582eca206a6cbb8.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16298,7 +16298,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [quickstart-getting-file-properties.068894fc6b2ee5e632714e0c8cf7b2541dfcb781.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/quickstart-getting-file-properties.068894fc6b2ee5e632714e0c8cf7b2541dfcb781.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16310,7 +16310,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [quickstart-listing-files-and-folders.be42291d767b67f730ffafb7c34e9d7c68c477d8.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/quickstart-listing-files-and-folders.be42291d767b67f730ffafb7c34e9d7c68c477d8.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16322,7 +16322,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [quickstart-managing-folders-in-the-music-pictures-and-videos-libraries.87a41664065f89ac0b147d28cee1591dfd1d47a9.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/quickstart-managing-folders-in-the-music-pictures-and-videos-libraries.87a41664065f89ac0b147d28cee1591dfd1d47a9.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16334,7 +16334,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [quickstart-reading-and-writing-files.20c5108c673d0ebb2f576652091136a41d0ed76a.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/quickstart-reading-and-writing-files.20c5108c673d0ebb2f576652091136a41d0ed76a.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16346,7 +16346,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [quickstart-save-a-file-with-a-picker.60750b9ef89b888b5b75d1e9321914aa15aaf77b.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/quickstart-save-a-file-with-a-picker.60750b9ef89b888b5b75d1e9321914aa15aaf77b.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16358,7 +16358,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [quickstart-using-file-and-folder-pickers.6095391c9f5f4865bb9d21a847e89287b2065297.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/quickstart-using-file-and-folder-pickers.6095391c9f5f4865bb9d21a847e89287b2065297.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16370,7 +16370,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [about-the-metro-style-user-interface-and-directx.47521ca2278824c70abc8438a9d0201354fb192a.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/about-the-metro-style-user-interface-and-directx.47521ca2278824c70abc8438a9d0201354fb192a.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16382,7 +16382,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [adding-audio-to-the-marble-maze-sample.d03590b5494a5b7b385b2ac8b74ce2a32f85021d.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/adding-audio-to-the-marble-maze-sample.d03590b5494a5b7b385b2ac8b74ce2a32f85021d.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16394,7 +16394,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [adding-input-and-interactivity-to-the-marble-maze-sample.f6d049cabce3111d76ad56389a749eabe6aa4a41.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/adding-input-and-interactivity-to-the-marble-maze-sample.f6d049cabce3111d76ad56389a749eabe6aa4a41.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16406,7 +16406,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [adding-visual-content-to-the-marble-maze-sample.a9dbfd906c3e9931a9f16f86249095aee8487a83.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/adding-visual-content-to-the-marble-maze-sample.a9dbfd906c3e9931a9f16f86249095aee8487a83.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16418,7 +16418,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [additional-directx-game-programming-resources.c837749806dce6a8924821a78107fb45c3b0324b.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/additional-directx-game-programming-resources.c837749806dce6a8924821a78107fb45c3b0324b.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16430,7 +16430,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [an-introduction-to-3d-graphics-with-directx.6d95381d9e28645427b203c828354468cda5401c.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/an-introduction-to-3d-graphics-with-directx.6d95381d9e28645427b203c828354468cda5401c.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16442,7 +16442,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [applying-textures-to-primitives.2e3efb93d53fada36eb14c545d8c8cbe850458dc.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/applying-textures-to-primitives.2e3efb93d53fada36eb14c545d8c8cbe850458dc.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16454,7 +16454,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [asynchronous-programming-directx-and-cpp.abf79083c8f545b0c5f72964564c70645af61561.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/asynchronous-programming-directx-and-cpp.abf79083c8f545b0c5f72964564c70645af61561.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16466,7 +16466,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [change-your-shader-loading-code.e0148255d298b42b354314ea354d07a6a7af14ba.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/change-your-shader-loading-code.e0148255d298b42b354314ea354d07a6a7af14ba.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16478,7 +16478,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [compare-opengl-es-2-0-api-design-to-directx.e5f1b15cf28f93e13fb1167608626411e9e86617.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/compare-opengl-es-2-0-api-design-to-directx.e5f1b15cf28f93e13fb1167608626411e9e86617.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16490,7 +16490,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [complete-code-for-basicloader.8feeceed618b19a46406d45fd6f00229947dd4c0.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/complete-code-for-basicloader.8feeceed618b19a46406d45fd6f00229947dd4c0.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16502,7 +16502,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [complete-code-for-basicreaderwriter.8bc0470a2278a4816d6a785d2dc9fd8246b4e37e.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/complete-code-for-basicreaderwriter.8bc0470a2278a4816d6a785d2dc9fd8246b4e37e.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16514,7 +16514,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [complete-code-for-ddstextureloader.a6a8d83ecd94dd7a5c63a8bdf46904642df12a81.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/complete-code-for-ddstextureloader.a6a8d83ecd94dd7a5c63a8bdf46904642df12a81.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16526,7 +16526,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [create-a-basic-mesh.d1b5b1c4ecf3bb023567f9a847a35548b5d55411.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/create-a-basic-mesh.d1b5b1c4ecf3bb023567f9a847a35548b5d55411.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16538,7 +16538,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [create-depth-buffer-resource--view--and-sampler-state.66c58a1f1d93788ad19a53e70a2fa6d60a104fef.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/create-depth-buffer-resource--view--and-sampler-state.66c58a1f1d93788ad19a53e70a2fa6d60a104fef.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16550,7 +16550,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [creating-shaders-and-drawing-primitives.652525efaffa60a33ba069529764e9f435733639.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/creating-shaders-and-drawing-primitives.652525efaffa60a33ba069529764e9f435733639.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16562,7 +16562,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [developing-marble-maze-a-windows-store-game-in-cpp-and-directx.65b61cd225053782f0d4f2077fbe8ce2c2108ff0.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/developing-marble-maze-a-windows-store-game-in-cpp-and-directx.65b61cd225053782f0d4f2077fbe8ce2c2108ff0.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16574,7 +16574,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [directx-and-xaml-interop.dae1e6d863e22cff03a89c9469faf11217d583bf.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/directx-and-xaml-interop.dae1e6d863e22cff03a89c9469faf11217d583bf.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16586,7 +16586,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [directx-porting-faq.9c0a3e12889f3306b90ac4a8b832f4cb003b1b44.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/directx-porting-faq.9c0a3e12889f3306b90ac4a8b832f4cb003b1b44.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16598,7 +16598,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [draw-to-the-screen.e448c8fb08984e7b9949b2dac265a90fb1814b8f.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/draw-to-the-screen.e448c8fb08984e7b9949b2dac265a90fb1814b8f.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16610,7 +16610,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [e2e.1f2be95266ec48b60cb51bd6f1e73df76ae3c333.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/e2e.1f2be95266ec48b60cb51bd6f1e73df76ae3c333.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16622,7 +16622,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [feature-mapping.405514321c0e3b7d179461d871cefba69911c3fd.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/feature-mapping.405514321c0e3b7d179461d871cefba69911c3fd.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16634,7 +16634,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [game-development-platform-guide.a7242aba200ca837d11c808f9ae57cf12ea5b092.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/game-development-platform-guide.a7242aba200ca837d11c808f9ae57cf12ea5b092.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16646,7 +16646,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [glsl-to-hlsl-reference.d6182a2d8406ab5bc22713453f2e14c705125c62.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/glsl-to-hlsl-reference.d6182a2d8406ab5bc22713453f2e14c705125c62.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16658,7 +16658,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [handling-device-lost-scenarios.6143b7058b9651d5381c6bc400583fb23c86fe49.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/handling-device-lost-scenarios.6143b7058b9651d5381c6bc400583fb23c86fe49.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16670,7 +16670,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [how-to-activate-an-app-directx-and-cpp.d649bd4a07394e230eef3ba69d19a33f2af88dd8.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/how-to-activate-an-app-directx-and-cpp.d649bd4a07394e230eef3ba69d19a33f2af88dd8.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16682,7 +16682,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [how-to-resume-an-app-directx-and-cpp.34b2dd4196bc5b521ea59e5283a579d6f1e42280.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/how-to-resume-an-app-directx-and-cpp.34b2dd4196bc5b521ea59e5283a579d6f1e42280.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16694,7 +16694,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [how-to-suspend-an-app-directx-and-cpp.66b8ca32375b11fae2959f6fbbe97b66747fc84f.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/how-to-suspend-an-app-directx-and-cpp.66b8ca32375b11fae2959f6fbbe97b66747fc84f.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16706,7 +16706,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [implementing-depth-buffers-for-shadow-mapping.57b04c046f3b18117631d0a530ae2fc1e7ecaaed.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/implementing-depth-buffers-for-shadow-mapping.57b04c046f3b18117631d0a530ae2fc1e7ecaaed.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16718,7 +16718,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [index.cdb6a54d26ced62fe8e54bd4f07f48093ad8061d.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/index.cdb6a54d26ced62fe8e54bd4f07f48093ad8061d.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16730,7 +16730,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [launching-and-resuming-apps-directx-and-cpp.2b42779790153e66538eb956ed38d86b6a1de2ff.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/launching-and-resuming-apps-directx-and-cpp.2b42779790153e66538eb956ed38d86b6a1de2ff.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16742,7 +16742,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [load-a-game-asset.c7d1a74447c09270010f56cf2b0ac69b363483b8.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/load-a-game-asset.c7d1a74447c09270010f56cf2b0ac69b363483b8.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16754,7 +16754,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [map-concepts-and-infrastructure.83090d6f3b3f3fc0f920271c96b7e027829e1017.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/map-concepts-and-infrastructure.83090d6f3b3f3fc0f920271c96b7e027829e1017.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16766,7 +16766,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [marble-maze-application-structure.b3c694a9396e4f1d5c0aa47f074d17d9a79cf40f.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/marble-maze-application-structure.b3c694a9396e4f1d5c0aa47f074d17d9a79cf40f.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16778,7 +16778,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [marble-maze-sample-fundamentals.e0a6f09ed4836918defebc96d5c1eae5cd253954.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/marble-maze-sample-fundamentals.e0a6f09ed4836918defebc96d5c1eae5cd253954.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16790,7 +16790,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [moving-from-egl-to-dxgi.94e567c2bf33383d2632ba20d9bccd22bb037d6c.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/moving-from-egl-to-dxgi.94e567c2bf33383d2632ba20d9bccd22bb037d6c.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16802,7 +16802,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [multisampling--multi-sample-anti-aliasing--in-windows-store-apps.bbaf94ee292aefe2637a5be8dfd6344faa84a5aa.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/multisampling--multi-sample-anti-aliasing--in-windows-store-apps.bbaf94ee292aefe2637a5be8dfd6344faa84a5aa.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16814,7 +16814,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [multisampling--scaling--and-overlay-swap-chains.e10c8f1eb25723865f90e3c818e170ad810d466e.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/multisampling--scaling--and-overlay-swap-chains.e10c8f1eb25723865f90e3c818e170ad810d466e.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16826,7 +16826,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [opengl-es-2-0-to-directx-11-1-reference.fa38c1e439ea4cab624c6c280e8da5115860f307.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/opengl-es-2-0-to-directx-11-1-reference.fa38c1e439ea4cab624c6c280e8da5115860f307.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16838,7 +16838,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [optimize-performance-for-windows-store-direct3d-11-apps-with-coredispatcher.8c1250ac47583f410cfcd4ac9678137b99b6a612.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/optimize-performance-for-windows-store-direct3d-11-apps-with-coredispatcher.8c1250ac47583f410cfcd4ac9678137b99b6a612.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16850,7 +16850,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [package-your-windows-store-directx-game.20089f0b2cfc39a67f6dc867f4e1172f77542d18.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/package-your-windows-store-directx-game.20089f0b2cfc39a67f6dc867f4e1172f77542d18.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16862,7 +16862,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [plan-your-directx-port.0197276cf57b761975a0dc3a1fe94df715e457b1.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/plan-your-directx-port.0197276cf57b761975a0dc3a1fe94df715e457b1.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16874,7 +16874,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [port-a-simple-opengl-es-2-0-renderer-to-directx-11-1.0898ca7b10688e60afc069509834c0d1ad5fa02e.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/port-a-simple-opengl-es-2-0-renderer-to-directx-11-1.0898ca7b10688e60afc069509834c0d1ad5fa02e.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16886,7 +16886,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [port-from-opengl-es-2-0-to-directx-11-1.be62800a95fab70815d364f58a7426ff8f5056b9.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/port-from-opengl-es-2-0-to-directx-11-1.be62800a95fab70815d364f58a7426ff8f5056b9.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16898,7 +16898,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [porting-considerations.3885dceae6f7efab972810119b3d982e3eff4a09.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/porting-considerations.3885dceae6f7efab972810119b3d982e3eff4a09.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16910,7 +16910,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [porting-guides.f2fe15f5089579b46692ec58e02d8fab88749a99.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/porting-guides.f2fe15f5089579b46692ec58e02d8fab88749a99.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16922,7 +16922,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [porting-uniforms-and-attributes.ee7e84e1c7c9365deeff0cb66a5adcf559637cc5.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/porting-uniforms-and-attributes.ee7e84e1c7c9365deeff0cb66a5adcf559637cc5.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16934,7 +16934,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [porting-your-directx-9-game-to-windows-store.16d50f95c01afe86cf2a2ed475ba437dd67dd98d.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/porting-your-directx-9-game-to-windows-store.16d50f95c01afe86cf2a2ed475ba437dd67dd98d.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16946,7 +16946,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [port-the-glsl.2dca951421deba6af60b292776fbf58038ec6aa1.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/port-the-glsl.2dca951421deba6af60b292776fbf58038ec6aa1.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16958,7 +16958,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [port-the-shader-config.5e3de2129a52e44e70ab3dd6a47fe68fbede658f.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/port-the-shader-config.5e3de2129a52e44e70ab3dd6a47fe68fbede658f.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16970,7 +16970,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [port-the-vertex-buffers-and-data-config.15f1088cbbc948bec1265f29e980439f52459ad1.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/port-the-vertex-buffers-and-data-config.15f1088cbbc948bec1265f29e980439f52459ad1.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16982,7 +16982,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [prepare-your-dev-environment-for-windows-store-directx-game-development.633c93c8e177f73b050ea05f39ce90d6f1b61f61.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/prepare-your-dev-environment-for-windows-store-directx-game-development.633c93c8e177f73b050ea05f39ce90d6f1b61f61.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16994,7 +16994,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [reduce-latency-with-dxgi-1-3-swap-chains.d656a1cab3bc1b856ba04445320a3ad06637ae3f.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/reduce-latency-with-dxgi-1-3-swap-chains.d656a1cab3bc1b856ba04445320a3ad06637ae3f.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17006,7 +17006,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [render-the-scene-with-depth-testing.08ddc483bfba9c0dddd72a4af099a4a2562b2eb3.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/render-the-scene-with-depth-testing.08ddc483bfba9c0dddd72a4af099a4a2562b2eb3.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17018,7 +17018,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [render-the-shadow-map-to-the-depth-buffer.c8c0be651750748f44370997331867c5c5d4ae5c.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/render-the-shadow-map-to-the-depth-buffer.c8c0be651750748f44370997331867c5c5d4ae5c.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17030,7 +17030,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [setting-up-directx-resources.fe8723112512835b86252fda6dec36c5548deda1.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/setting-up-directx-resources.fe8723112512835b86252fda6dec36c5548deda1.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17042,7 +17042,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [set-up-visual-studio-for-game-development.fac6b6e2478dc53f2cdecff6e548c85260001ecc.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/set-up-visual-studio-for-game-development.fac6b6e2478dc53f2cdecff6e548c85260001ecc.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17054,7 +17054,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [simple-port-from-direct3d-9-to-11-1-part-1--initializing-direct3d.b6b06d9fe7da211032bd788b6d690a00c4cb3933.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/simple-port-from-direct3d-9-to-11-1-part-1--initializing-direct3d.b6b06d9fe7da211032bd788b6d690a00c4cb3933.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17066,7 +17066,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [simple-port-from-direct3d-9-to-11-1-part-2--rendering.c31fbaa3f33f6e93d547548630f9530bad2ce912.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/simple-port-from-direct3d-9-to-11-1-part-2--rendering.c31fbaa3f33f6e93d547548630f9530bad2ce912.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17078,7 +17078,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [simple-port-from-direct3d-9-to-11-1-part-3--viewport-and-game-loop.50e7c11e0d3fc5e5c425215f113edb1b391f7779.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/simple-port-from-direct3d-9-to-11-1-part-3--viewport-and-game-loop.50e7c11e0d3fc5e5c425215f113edb1b391f7779.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17090,7 +17090,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [supporting-screen-rotation-directx-and-cpp.1517b2798559b864c5b99be70df007a7bd5c8c36.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/supporting-screen-rotation-directx-and-cpp.1517b2798559b864c5b99be70df007a7bd5c8c36.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17102,7 +17102,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [target-a-range-of-hardware.d039b193bd4999618e1b91ddd85c465f623cf7df.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/target-a-range-of-hardware.d039b193bd4999618e1b91ddd85c465f623cf7df.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17114,7 +17114,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [tutorial--adding-a-user-interface.ff32aba37b423b12fc273b29d9b5be25a2ad926d.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/tutorial--adding-a-user-interface.ff32aba37b423b12fc273b29d9b5be25a2ad926d.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17126,7 +17126,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [tutorial--adding-controls.c9c2bc4b6e0f79add84a5335303d2a759793bc5a.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/tutorial--adding-controls.c9c2bc4b6e0f79add84a5335303d2a759793bc5a.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17138,7 +17138,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [tutorial--adding-move-look-controls-to-your-directx-game.b14a2ef35eb108158038c4ba8797a4af059018ff.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/tutorial--adding-move-look-controls-to-your-directx-game.b14a2ef35eb108158038c4ba8797a4af059018ff.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17150,7 +17150,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [tutorial--adding-sound.5b8aa5d4044d9514df28c9697fa033a80921a4c5.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/tutorial--adding-sound.5b8aa5d4044d9514df28c9697fa033a80921a4c5.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17162,7 +17162,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [tutorial--adding-touch-controls-to-your-directx-game.10c7e4440dde5ccb06431dac67dc954214e00629.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/tutorial--adding-touch-controls-to-your-directx-game.10c7e4440dde5ccb06431dac67dc954214e00629.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17174,7 +17174,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [tutorial--assembling-the-rendering-pipeline.27dea7454635dc39c5639d433d2237d7d924d0d5.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/tutorial--assembling-the-rendering-pipeline.27dea7454635dc39c5639d433d2237d7d924d0d5.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17186,7 +17186,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [tutorial--building-the-games-metro-style-app-framework.835bb62d4091c8c04b73a82ce1e6dcd05b3fd817.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/tutorial--building-the-games-metro-style-app-framework.835bb62d4091c8c04b73a82ce1e6dcd05b3fd817.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17198,7 +17198,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [tutorial--create-your-first-metro-style-directx-game.09988e889ed0e40f4a2631f9f2526eb26d3c8d78.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/tutorial--create-your-first-metro-style-directx-game.09988e889ed0e40f4a2631f9f2526eb26d3c8d78.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17210,7 +17210,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [tutorial--defining-the-main-game-loop.612f05ebdd7fad6645210de4014f375f13d01495.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/tutorial--defining-the-main-game-loop.612f05ebdd7fad6645210de4014f375f13d01495.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17222,7 +17222,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [tutorial-resources.158a8bf4bd93b1922304088ae5e5587c20a91b68.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/tutorial-resources.158a8bf4bd93b1922304088ae5e5587c20a91b68.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17234,7 +17234,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [tutorial--setting-up-the-games-infrastructure.3d88b1884a792c6c71eaf7cc749ee9b6a7206cb6.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/tutorial--setting-up-the-games-infrastructure.3d88b1884a792c6c71eaf7cc749ee9b6a7206cb6.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17246,7 +17246,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [understand-direct3d-11-1-concepts.01f1e8a41c4057589659dd8290bcddcaf3d07b4a.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/understand-direct3d-11-1-concepts.01f1e8a41c4057589659dd8290bcddcaf3d07b4a.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17258,7 +17258,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [user-interface.e004ef4c187daa7cb2c409b616fc00475cfca450.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/user-interface.e004ef4c187daa7cb2c409b616fc00475cfca450.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17270,7 +17270,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [use-the-directx-runtime-and-visual-studio-graphics-diagnostic-features.84a75fdd92a50e3ebb24ca274bcff287a193456e.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/use-the-directx-runtime-and-visual-studio-graphics-diagnostic-features.84a75fdd92a50e3ebb24ca274bcff287a193456e.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17282,7 +17282,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [using-depth-and-effects-on-primitives.4e8e993e7c77edec96aa6c6bab35e7d17ec5a5e7.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/using-depth-and-effects-on-primitives.4e8e993e7c77edec96aa6c6bab35e7d17ec5a5e7.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17294,7 +17294,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [walkthrough-sample-ports-from-opengl-es-2-0.668341bb0c2ab18ac68e991e4ca7c2abec06778c.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/walkthrough-sample-ports-from-opengl-es-2-0.668341bb0c2ab18ac68e991e4ca7c2abec06778c.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17306,7 +17306,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [walkthrough--simple-port-from-direct3d-9-to-11-1.ecf7d5e2bd83f2af0c961f69b46c129076fe9f1e.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/walkthrough--simple-port-from-direct3d-9-to-11-1.ecf7d5e2bd83f2af0c961f69b46c129076fe9f1e.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17318,7 +17318,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [working-with-2d-graphics-in-your-directx-game.e9764b26608ae9f2184bf70f0448b778e1cd12aa.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/working-with-2d-graphics-in-your-directx-game.e9764b26608ae9f2184bf70f0448b778e1cd12aa.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17330,7 +17330,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [working-with-audio-in-your-directx-game.728137e47048aa4f29fe37f105a58914551704cd.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/working-with-audio-in-your-directx-game.728137e47048aa4f29fe37f105a58914551704cd.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17342,7 +17342,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [work-with-networking-in-your-directx-game.47e5c7f53eb5427b5aa251784c69e36fea45a5ba.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/work-with-networking-in-your-directx-game.47e5c7f53eb5427b5aa251784c69e36fea45a5ba.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17354,7 +17354,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [create-a-basic-windows-10-app-in-cpp.961b676f2c934cd2a618de690461895a9504e7c2.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/create-a-basic-windows-10-app-in-cpp.961b676f2c934cd2a618de690461895a9504e7c2.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17366,7 +17366,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [create-a-hello-world-app-js-universal.bd637662f26e3c97eeff15abf8169108b4bbaf5f.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/create-a-hello-world-app-js-universal.bd637662f26e3c97eeff15abf8169108b4bbaf5f.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17378,7 +17378,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [create-a-hello-world-app-xaml-universal.84598707912b9cb1397fb1e49a041be8b2e3b842.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/create-a-hello-world-app-xaml-universal.84598707912b9cb1397fb1e49a041be8b2e3b842.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17390,7 +17390,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [enable-your-device-for-development.33eafb3b7d062997799f72d699a35c22dd4de8de.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/enable-your-device-for-development.33eafb3b7d062997799f72d699a35c22dd4de8de.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17402,7 +17402,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [get-set-up.155e493f23a86db2d181ac72f015a387ba8387ce.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/get-set-up.155e493f23a86db2d181ac72f015a387ba8387ce.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17426,7 +17426,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [learn-more.bf7926f086400a7fe167f1dc5baa9bdc8a75f45c.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/learn-more.bf7926f086400a7fe167f1dc5baa9bdc8a75f45c.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17438,7 +17438,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [plan-your-app.8b408d67ee6ed3bd5a56dc70d154ba627bee7712.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/plan-your-app.8b408d67ee6ed3bd5a56dc70d154ba627bee7712.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17450,7 +17450,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [sign-up.5b29dfce610cead56be91ec5cb1e72caa3008a3b.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/sign-up.5b29dfce610cead56be91ec5cb1e72caa3008a3b.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17462,7 +17462,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [universal-application-platform-guide.a6801a66c06d9b82e89f5d85a69f8c8ef4574a93.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/universal-application-platform-guide.a6801a66c06d9b82e89f5d85a69f8c8ef4574a93.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17474,7 +17474,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [whats-a-uwp.f3d941c86b3bf9279f08c4fdde1859afe719c6b1.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/whats-a-uwp.f3d941c86b3bf9279f08c4fdde1859afe719c6b1.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17486,7 +17486,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [your-first-app.1e63e7ec8501e4f3b1f8297ea1581282aefa13af.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/your-first-app.1e63e7ec8501e4f3b1f8297ea1581282aefa13af.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17498,7 +17498,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [adjust-layout-and-fonts--and-support-rtl.51a56d9e3eb60a20f4f0ba6d3de707afdc8fb590.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/adjust-layout-and-fonts--and-support-rtl.51a56d9e3eb60a20f4f0ba6d3de707afdc8fb590.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17510,7 +17510,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [globalizing-portal.fcac23427b8d253e1f0ed9c99037637789f6a5ff.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/globalizing-portal.fcac23427b8d253e1f0ed9c99037637789f6a5ff.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17522,7 +17522,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [guidelines-and-checklist-for-globalizing-your-app.7dc47e66434d3cbaa18bbb6b6b08709670adbdcb.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/guidelines-and-checklist-for-globalizing-your-app.7dc47e66434d3cbaa18bbb6b6b08709670adbdcb.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17534,7 +17534,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [manage-language-and-region.0cef7c80cb80565fdb3b457533ed04b248b5ca33.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/manage-language-and-region.0cef7c80cb80565fdb3b457533ed04b248b5ca33.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17546,7 +17546,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [prepare-your-app-for-localization.e346b520154f973e4d1b6537a0b08b0672ddb15e.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/prepare-your-app-for-localization.e346b520154f973e4d1b6537a0b08b0672ddb15e.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17558,7 +17558,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [put-ui-strings-into-resources.051e1c882ffa6e95f3944e47f4a56d3c4e0af9d0.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/put-ui-strings-into-resources.051e1c882ffa6e95f3944e47f4a56d3c4e0af9d0.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17570,7 +17570,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [use-global-ready-formats.97ca55d530b4c16c1af18210f00156eecc98dd41.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/use-global-ready-formats.97ca55d530b4c16c1af18210f00156eecc98dd41.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17582,7 +17582,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [use-patterns-to-format-dates-and-times.577e93f3544ff01fd53af9561cd459a3b1a5fe0c.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/use-patterns-to-format-dates-and-times.577e93f3544ff01fd53af9561cd459a3b1a5fe0c.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17594,7 +17594,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [3-d-perspective-effects.6d34006f43a5b6ac4548ca4b38894cf986bbc6af.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/3-d-perspective-effects.6d34006f43a5b6ac4548ca4b38894cf986bbc6af.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17606,7 +17606,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [animations-overview.06e6af4e60834c44e8d2e2c6f9c70f04722878df.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/animations-overview.06e6af4e60834c44e8d2e2c6f9c70f04722878df.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17618,7 +17618,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [composition-animation.3117dec48670c0d08e8777f2e40018b19bd9ae5c.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/composition-animation.3117dec48670c0d08e8777f2e40018b19bd9ae5c.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17630,7 +17630,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [composition-brushes.2ce506b84e84f9ea4382cb9bd5f7b85108ffd427.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/composition-brushes.2ce506b84e84f9ea4382cb9bd5f7b85108ffd427.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17642,7 +17642,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [composition-effects.5efb444c3e341f994783c9e9a71ad6d6a3e2db9c.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/composition-effects.5efb444c3e341f994783c9e9a71ad6d6a3e2db9c.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17654,7 +17654,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [composition-native-interop.f67e1eda4d61ecac845c2f75c25f8223796a5a44.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/composition-native-interop.f67e1eda4d61ecac845c2f75c25f8223796a5a44.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17666,7 +17666,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [composition-visual-tree.bf1237f5418821ae9ac8b31891f4d52b410c6ad0.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/composition-visual-tree.bf1237f5418821ae9ac8b31891f4d52b410c6ad0.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17678,7 +17678,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [drawing-shapes.22d0dec46e5303ff48547df5ba2906b0a2f1468b.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/drawing-shapes.22d0dec46e5303ff48547df5ba2906b0a2f1468b.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17690,7 +17690,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [2c93f2a215aa9b5e0a5b880a0cafaa790fb9b141.gif](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/2c93f2a215aa9b5e0a5b880a0cafaa790fb9b141.gif)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17703,7 +17703,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [index.3ff837a17e261aa0ae69a79fce38bb93b246f044.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/index.3ff837a17e261aa0ae69a79fce38bb93b246f044.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17715,7 +17715,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [key-frame-and-easing-function-animations.5107862218ecb4947f22897f46b28cbb4aeabd25.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/key-frame-and-easing-function-animations.5107862218ecb4947f22897f46b28cbb4aeabd25.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17727,7 +17727,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [storyboarded-animations.281128eeb4d5c15d77be48b2aed4925f8115bcb4.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/storyboarded-animations.281128eeb4d5c15d77be48b2aed4925f8115bcb4.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17739,7 +17739,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [transforms-overview.97ffdbc6cc409d1eee11bd0a9a1e4445feebf064.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/transforms-overview.97ffdbc6cc409d1eee11bd0a9a1e4445feebf064.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17751,7 +17751,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [using-brushes.29c5580e75ff4cf77a88a9741290313b880e3e8e.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/using-brushes.29c5580e75ff4cf77a88a9741290313b880e3e8e.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17763,7 +17763,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [visual-layer.922af3c848c3c3ca7fb4ee7ed9e239205881eed9.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/visual-layer.922af3c848c3c3ca7fb4ee7ed9e239205881eed9.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17775,7 +17775,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [home.57db1462956f629f892a81e203516c290df03cad.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/home.57db1462956f629f892a81e203516c290df03cad.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17787,7 +17787,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [guidelines-for-app-help.bf12cd322a278f12dc22e414d657daa695a0a62b.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/guidelines-for-app-help.bf12cd322a278f12dc22e414d657daa695a0a62b.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17799,7 +17799,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [in-app-help-and-instructions.28f03ebe5aa3803b0330cf8b2652c71559dc768b.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/in-app-help-and-instructions.28f03ebe5aa3803b0330cf8b2652c71559dc768b.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17811,7 +17811,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [instructional-ui.0599a600b8968af40f1ba735f853d494c8fdb6eb.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/instructional-ui.0599a600b8968af40f1ba735f853d494c8fdb6eb.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17823,7 +17823,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [index.21807257c6007c819e6c89064e41fa2f2e35e533.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/index.21807257c6007c819e6c89064e41fa2f2e35e533.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17835,7 +17835,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [convert-ink-to-text.aa886e6d6aadd5e5e97c5f05f56e6189ebd8a566.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/convert-ink-to-text.aa886e6d6aadd5e5e97c5f05f56e6189ebd8a566.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17847,7 +17847,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [cortana-design-guidelines.6a117eaf25d99e35b6a6d94a59de297396a686f9.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/cortana-design-guidelines.6a117eaf25d99e35b6a6d94a59de297396a686f9.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17859,7 +17859,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [cortana-interactions.ab097bfd9d5663587b9c1c8a491df6d01899e0f4.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/cortana-interactions.ab097bfd9d5663587b9c1c8a491df6d01899e0f4.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17871,7 +17871,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [custom-text-input.aeb8d27d5639eee7866b02d046cf6791a61f67fa.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/custom-text-input.aeb8d27d5639eee7866b02d046cf6791a61f67fa.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17883,7 +17883,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [deep-link-into-your-app-from-cortana.fe1e83ba70b23f2f95d9b5d25422f3f0591564ca.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/deep-link-into-your-app-from-cortana.fe1e83ba70b23f2f95d9b5d25422f3f0591564ca.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17895,7 +17895,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [define-custom-recognition-constraints.4b68553edeb9d8cd01aeb8fcebb443155d5dee30.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/define-custom-recognition-constraints.4b68553edeb9d8cd01aeb8fcebb443155d5dee30.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17907,7 +17907,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [device-primer.f0f228f5110fb5594f47532e834b3cbe74eabacc.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/device-primer.f0f228f5110fb5594f47532e834b3cbe74eabacc.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17919,7 +17919,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [dynamically-modify-voice-command-definition--vcd--phrase-lists.c79db7d7e99e6a3002903d53d4b079c5e63122c1.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/dynamically-modify-voice-command-definition--vcd--phrase-lists.c79db7d7e99e6a3002903d53d4b079c5e63122c1.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17931,7 +17931,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [enable-continuous-dictation.1949d38960210ceb8796a775b5a7023395695f62.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/enable-continuous-dictation.1949d38960210ceb8796a775b5a7023395695f62.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17943,7 +17943,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [guidelines-for-cross-slide.b947fcd67344710e9f2c3ae4d8172f90a89318ab.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/guidelines-for-cross-slide.b947fcd67344710e9f2c3ae4d8172f90a89318ab.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17955,7 +17955,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [guidelines-for-optical-zoom.bb49588c789100e7efac8485be8b768603c0e8ea.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/guidelines-for-optical-zoom.bb49588c789100e7efac8485be8b768603c0e8ea.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17967,7 +17967,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [guidelines-for-panning.c3144ac1dd36dea2caadea5332198b60e5bd89ba.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/guidelines-for-panning.c3144ac1dd36dea2caadea5332198b60e5bd89ba.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17979,7 +17979,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [guidelines-for-rotation.c33f77ff1a4ed337d83b8df28bde5b8add05628b.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/guidelines-for-rotation.c33f77ff1a4ed337d83b8df28bde5b8add05628b.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17991,7 +17991,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [guidelines-for-targeting.7f095db0336a262024ff3965356563af94a54604.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/guidelines-for-targeting.7f095db0336a262024ff3965356563af94a54604.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18003,7 +18003,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [guidelines-for-textselection.ddbd1b1443b1f6d6223e41c3210a27d025427649.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/guidelines-for-textselection.ddbd1b1443b1f6d6223e41c3210a27d025427649.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18015,7 +18015,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [guidelines-for-user-interaction.700c4b52952d4c1cb7892c32002f82ad4e1ae419.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/guidelines-for-user-interaction.700c4b52952d4c1cb7892c32002f82ad4e1ae419.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18027,7 +18027,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [guidelines-for-visualfeedback.de6a70866f7467e2010ffc88d40e85f87aab7dfc.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/guidelines-for-visualfeedback.de6a70866f7467e2010ffc88d40e85f87aab7dfc.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18039,7 +18039,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [handle-pointer-input.49b75df178ae6f94309dcf087fcf70e670236ffe.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/handle-pointer-input.49b75df178ae6f94309dcf087fcf70e670236ffe.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18051,7 +18051,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [identify-input-devices.9920327437107c42736930e93374eba08e8b2c4a.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/identify-input-devices.9920327437107c42736930e93374eba08e8b2c4a.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18123,7 +18123,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [input-primer.a618d77095df3466cd57dace55f5657e01376b67.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/input-primer.a618d77095df3466cd57dace55f5657e01376b67.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18135,7 +18135,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [interact-with-a-background-app-in-cortana.ca8cbab21ebc6ef37ddebf25fc8659d3f81d3f2d.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/interact-with-a-background-app-in-cortana.ca8cbab21ebc6ef37ddebf25fc8659d3f81d3f2d.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18147,7 +18147,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [keyboard-interactions.2bbe44b105148ac26744da56122027523b13c525.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/keyboard-interactions.2bbe44b105148ac26744da56122027523b13c525.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18159,7 +18159,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [launch-a-background-app-with-voice-commands-in-cortana.37f53325cd89e856e758cd1b8c730dd0024fec62.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/launch-a-background-app-with-voice-commands-in-cortana.37f53325cd89e856e758cd1b8c730dd0024fec62.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18171,7 +18171,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [launch-a-foreground-app-with-voice-commands-in-cortana.558842182de822f0a75f7cc12097e06a77878afc.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/launch-a-foreground-app-with-voice-commands-in-cortana.558842182de822f0a75f7cc12097e06a77878afc.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18183,7 +18183,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [manage-issues-with-audio-input.c8c52dd3f8c2d1710239e76e304c6c25731082e8.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/manage-issues-with-audio-input.c8c52dd3f8c2d1710239e76e304c6c25731082e8.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18195,7 +18195,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [mouse-interactions.9af013a0977300af2cafe11cfc9645886152fdd1.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/mouse-interactions.9af013a0977300af2cafe11cfc9645886152fdd1.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18207,7 +18207,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [multiple-input-design-guidelines.7bad35bf1a5f722309ef5f87b2deed8ee586113f.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/multiple-input-design-guidelines.7bad35bf1a5f722309ef5f87b2deed8ee586113f.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18219,7 +18219,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [pen-and-stylus-interactions.d565633900ba96b28c491322ce3e1233abad6a6e.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/pen-and-stylus-interactions.d565633900ba96b28c491322ce3e1233abad6a6e.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18231,7 +18231,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [respond-to-the-presence-of-the-touch-keyboard.0e6d144c6420bd496afccb0fe5f01c685e7ede57.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/respond-to-the-presence-of-the-touch-keyboard.0e6d144c6420bd496afccb0fe5f01c685e7ede57.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18243,7 +18243,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [save-and-load-ink.087052b005d397938b2553999acf6cd802a926dc.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/save-and-load-ink.087052b005d397938b2553999acf6cd802a926dc.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18255,7 +18255,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [set-speech-recognition-timeouts.3c14d7f60fba13b830e0de4f7eaffb676ee6a658.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/set-speech-recognition-timeouts.3c14d7f60fba13b830e0de4f7eaffb676ee6a658.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18267,7 +18267,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [specify-the-speech-recognizer-language.f8c7115480e1ad7cc84eef754add9fdb1c8f511c.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/specify-the-speech-recognizer-language.f8c7115480e1ad7cc84eef754add9fdb1c8f511c.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18279,7 +18279,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [speech-interactions.28dc6157e3b7e732776b8711832c80637c562b48.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/speech-interactions.28dc6157e3b7e732776b8711832c80637c562b48.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18291,7 +18291,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [speech-recognition.4d6cc8841880992c6fd1a8ebf62edc9ab02c8738.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/speech-recognition.4d6cc8841880992c6fd1a8ebf62edc9ab02c8738.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18303,7 +18303,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [support-natural-language-voice-commands-in-cortana.0e0f36382dd3e02fe48379eefa6b758428effb5e.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/support-natural-language-voice-commands-in-cortana.0e0f36382dd3e02fe48379eefa6b758428effb5e.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18315,7 +18315,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [surface-hub.1ccae8eddddecc613dccb327826179222dfa61ad.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/surface-hub.1ccae8eddddecc613dccb327826179222dfa61ad.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18327,7 +18327,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [touch-interactions.3222786614acb8b9ab11005b1e7ccca32fe16d0a.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/touch-interactions.3222786614acb8b9ab11005b1e7ccca32fe16d0a.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18339,7 +18339,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [touchpad-interactions.02287e43daa3860edeb7346f6de5d42066fa507c.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/touchpad-interactions.02287e43daa3860edeb7346f6de5d42066fa507c.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18351,7 +18351,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [access-sensors-and-devices-from-a-background-task.0773e1a276c2cc3de3fd5dbab6136cbc75f660ac.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/access-sensors-and-devices-from-a-background-task.0773e1a276c2cc3de3fd5dbab6136cbc75f660ac.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18363,7 +18363,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [activate-an-app.a0468a26dc8132ba6f20a0a320b77dcb5a7b52d1.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/activate-an-app.a0468a26dc8132ba6f20a0a320b77dcb5a7b52d1.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18375,7 +18375,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [add-a-splash-screen.2c9523fb7cb78a58f34f175e3bd3f8f8591cef10.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/add-a-splash-screen.2c9523fb7cb78a58f34f175e3bd3f8f8591cef10.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18387,7 +18387,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [app-lifecycle.99bd38fd09c2930422780a6edbc0f920f748a141.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/app-lifecycle.99bd38fd09c2930422780a6edbc0f920f748a141.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18399,7 +18399,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [auto-launching-with-autoplay.d2b2034da6c64ff1762def37948a1391cc8c6719.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/auto-launching-with-autoplay.d2b2034da6c64ff1762def37948a1391cc8c6719.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18411,7 +18411,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [create-a-customized-splash-screen.8bc3f53ace797674df614bad340e2665e0f07733.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/create-a-customized-splash-screen.8bc3f53ace797674df614bad340e2665e0f07733.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18423,7 +18423,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [create-and-register-a-background-task.d47704a8337bcff4bc36eeda79cff0209d4d2252.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/create-and-register-a-background-task.d47704a8337bcff4bc36eeda79cff0209d4d2252.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18435,7 +18435,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [debug-a-background-task.bb5f6781a243ba6c8aa9c128375677d718eadde8.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/debug-a-background-task.bb5f6781a243ba6c8aa9c128375677d718eadde8.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18447,7 +18447,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [declare-background-tasks-in-the-application-manifest.f2b51725f5472b78d47982447bf3593f79484b41.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/declare-background-tasks-in-the-application-manifest.f2b51725f5472b78d47982447bf3593f79484b41.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18459,7 +18459,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [guidelines-for-background-tasks.1d9606b76cb736cbda2aafa1c04b53813430aea3.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/guidelines-for-background-tasks.1d9606b76cb736cbda2aafa1c04b53813430aea3.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18471,7 +18471,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [handle-a-cancelled-background-task.38291793fb88e118ae9db5463e70c6639b87c273.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/handle-a-cancelled-background-task.38291793fb88e118ae9db5463e70c6639b87c273.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18483,7 +18483,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [handle-app-prelaunch.80a33f2e97213b9f19c5187807ff1ac54fbfa430.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/handle-app-prelaunch.80a33f2e97213b9f19c5187807ff1ac54fbfa430.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18495,7 +18495,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [handle-file-activation.ee5bddd0a7f20c2fc97874822666228f2993ecfb.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/handle-file-activation.ee5bddd0a7f20c2fc97874822666228f2993ecfb.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18507,7 +18507,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [handle-uri-activation.21484d038e95afdb09212fbc2466f54732a14f8b.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/handle-uri-activation.21484d038e95afdb09212fbc2466f54732a14f8b.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18519,7 +18519,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [how-to-create-and-consume-an-app-service.61251c84febd8991e0f8b1d842f82c7139ba5be9.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/how-to-create-and-consume-an-app-service.61251c84febd8991e0f8b1d842f82c7139ba5be9.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18531,7 +18531,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [how-to-launch-an-app-for-results.7c7bc8c8ce79addd0d85c45268686a23f88eb76c.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/how-to-launch-an-app-for-results.7c7bc8c8ce79addd0d85c45268686a23f88eb76c.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18543,7 +18543,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [index.ed061a70185c42e331c50669212651a4b4bcc21c.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/index.ed061a70185c42e331c50669212651a4b4bcc21c.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18555,7 +18555,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [launch-default-app.8ee630a4bb54c257154483bc15a857aae1cb8380.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/launch-default-app.8ee630a4bb54c257154483bc15a857aae1cb8380.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18567,7 +18567,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [launch-maps-app.03f542ca8d1902ecc08a848c09378647cca4af03.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/launch-maps-app.03f542ca8d1902ecc08a848c09378647cca4af03.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18579,7 +18579,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [launch-people-apps.92574c7aebc803a84f3d9f2ba13e1f26fdb6c61d.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/launch-people-apps.92574c7aebc803a84f3d9f2ba13e1f26fdb6c61d.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18591,7 +18591,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [launch-settings-app.53b53c64eada70dd470685bda5da548fb04d0416.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/launch-settings-app.53b53c64eada70dd470685bda5da548fb04d0416.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18603,7 +18603,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [launch-store-app.731ae76de35f4f5cfee10cfbb6d60001fe05e61d.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/launch-store-app.731ae76de35f4f5cfee10cfbb6d60001fe05e61d.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18615,7 +18615,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [launch-the-default-app-for-a-file.eadb2ee2a52fbcdfe0734033da7397e99085c778.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/launch-the-default-app-for-a-file.eadb2ee2a52fbcdfe0734033da7397e99085c778.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18627,7 +18627,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [monitor-background-task-progress-and-completion.401365295df5bb551a0771bfee4c54979704d4ef.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/monitor-background-task-progress-and-completion.401365295df5bb551a0771bfee4c54979704d4ef.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18639,7 +18639,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [register-a-background-task.0d9486ad264a67421b8881a56b80cc65215ec914.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/register-a-background-task.0d9486ad264a67421b8881a56b80cc65215ec914.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18651,7 +18651,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [reserved-uri-scheme-names.1f4d9eb423afe263765ae89e3300e1eded7eb4fb.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/reserved-uri-scheme-names.1f4d9eb423afe263765ae89e3300e1eded7eb4fb.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18663,7 +18663,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [respond-to-system-events-with-background-tasks.199cc707b70429a28eaedc5c71d5dac75308b7b2.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/respond-to-system-events-with-background-tasks.199cc707b70429a28eaedc5c71d5dac75308b7b2.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18675,7 +18675,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [resume-an-app.c7b4d20275c17a2c67560060831c807fa9f0f1c3.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/resume-an-app.c7b4d20275c17a2c67560060831c807fa9f0f1c3.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18687,7 +18687,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [run-a-background-task-on-a-timer-.2dbc667a7f3a2127c1c17c74b638960efe7cd2fc.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/run-a-background-task-on-a-timer-.2dbc667a7f3a2127c1c17c74b638960efe7cd2fc.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18699,7 +18699,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [set-conditions-for-running-a-background-task.ef3a11c90cf51b139e58dbde605ce3e0d8ec0c7d.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/set-conditions-for-running-a-background-task.ef3a11c90cf51b139e58dbde605ce3e0d8ec0c7d.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18711,7 +18711,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [support-your-app-with-background-tasks.5f283d9af19e408b9d3e38122ab7730bfec5cd43.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/support-your-app-with-background-tasks.5f283d9af19e408b9d3e38122ab7730bfec5cd43.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18723,7 +18723,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [suspend-an-app.1f40d7a26326bd7203524cff27f8ed2efdcf9f34.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/suspend-an-app.1f40d7a26326bd7203524cff27f8ed2efdcf9f34.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18735,7 +18735,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [update-a-live-tile-from-a-background-task.fbcd0cb89ee6e8448a13834e09d5a0cb172aae6b.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/update-a-live-tile-from-a-background-task.fbcd0cb89ee6e8448a13834e09d5a0cb172aae6b.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18747,7 +18747,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [use-a-maintenance-trigger.99c58238e002c64f3f19af0c24fe0abd9872254c.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/use-a-maintenance-trigger.99c58238e002c64f3f19af0c24fe0abd9872254c.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18759,7 +18759,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [alignment-margin-padding.84530b1541e1c10540fcb81dd1a9e13566d1e8c6.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/alignment-margin-padding.84530b1541e1c10540fcb81dd1a9e13566d1e8c6.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18771,7 +18771,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [boxpanel-example-custom-panel.5b79e87e44336934d44236e42f8b29873647257a.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/boxpanel-example-custom-panel.5b79e87e44336934d44236e42f8b29873647257a.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18783,7 +18783,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [commanding-basics.3d95893d34b2662d067f8c8dd8bf120af5dd5641.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/commanding-basics.3d95893d34b2662d067f8c8dd8bf120af5dd5641.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18795,7 +18795,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [content-basics.392a8827dd7e0121f49d2feb635dde1e7721045e.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/content-basics.392a8827dd7e0121f49d2feb635dde1e7721045e.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18807,7 +18807,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [custom-panels-overview.7e2b8f107c25df91babc257dccde33b97d25ebb8.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/custom-panels-overview.7e2b8f107c25df91babc257dccde33b97d25ebb8.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18819,7 +18819,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [design-and-ui-intro.cb6d39569b1515fc822a5b5ca8c61c1a2e009618.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/design-and-ui-intro.cb6d39569b1515fc822a5b5ca8c61c1a2e009618.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18891,7 +18891,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [layout-panels.6df10f5fb8009096def1938ddb199442f5fb4e77.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/layout-panels.6df10f5fb8009096def1938ddb199442f5fb4e77.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18903,7 +18903,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [layouts-with-xaml.1a447bdd54bf079b087a108b9d9a678a7d7c73e5.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/layouts-with-xaml.1a447bdd54bf079b087a108b9d9a678a7d7c73e5.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18915,7 +18915,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [navigation-basics.1ef5495df1eca061160a8be1689a46fdf3729ca7.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/navigation-basics.1ef5495df1eca061160a8be1689a46fdf3729ca7.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18927,7 +18927,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [navigation-history-and-backwards-navigation.89e8de2b8e0013857fc9fe4f61870d44b6aa83a7.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/navigation-history-and-backwards-navigation.89e8de2b8e0013857fc9fe4f61870d44b6aa83a7.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18939,7 +18939,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [peer-to-peer-navigation-between-two-pages.1c7d8c5a6aa5d78c8211b18016e4ebd0ab20f66a.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/peer-to-peer-navigation-between-two-pages.1c7d8c5a6aa5d78c8211b18016e4ebd0ab20f66a.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18951,7 +18951,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [screen-sizes-and-breakpoints-for-responsive-design.a31ae54d73f982a7287a89648601f9234d4688fe.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/screen-sizes-and-breakpoints-for-responsive-design.a31ae54d73f982a7287a89648601f9234d4688fe.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18963,7 +18963,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [show-multiple-views.87bc0a44eb30988c58e536a0c49f76bddfb53e0d.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/show-multiple-views.87bc0a44eb30988c58e536a0c49f76bddfb53e0d.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18975,7 +18975,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [authentication-key.3905a66d98d34204bebe389296779577bd11a1e5.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/authentication-key.3905a66d98d34204bebe389296779577bd11a1e5.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18987,7 +18987,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [controls-map.971acb633f5e91a089483d076be7e992abb81e5b.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/controls-map.971acb633f5e91a089483d076be7e992abb81e5b.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18999,7 +18999,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [display-maps.e3d87d08f19f271e41b0317cc89db6800ead4e8d.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/display-maps.e3d87d08f19f271e41b0317cc89db6800ead4e8d.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19011,7 +19011,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [display-poi.b49ea694b6e62d8d79d9ed9b4812837fafbcb586.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/display-poi.b49ea694b6e62d8d79d9ed9b4812837fafbcb586.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19023,7 +19023,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [geocoding.78c28016975720f7d3a2bf54f03a68463dd846c2.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/geocoding.78c28016975720f7d3a2bf54f03a68463dd846c2.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19035,7 +19035,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [get-location.d38697f383d9385b9884f3044da42852def95ff3.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/get-location.d38697f383d9385b9884f3044da42852def95ff3.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19047,7 +19047,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [guidelines-and-checklist-for-detecting-location.8af5f93ab6b9cf45ba0534dcc5ea59accb9c817d.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/guidelines-and-checklist-for-detecting-location.8af5f93ab6b9cf45ba0534dcc5ea59accb9c817d.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19059,7 +19059,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [guidelines-for-geofencing.5e6773acfb8759013819b4a13e5e1ad82c28a290.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/guidelines-for-geofencing.5e6773acfb8759013819b4a13e5e1ad82c28a290.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19071,7 +19071,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [index.d4c93a11dfc280864c8f1ed28de36dea41c14c88.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/index.d4c93a11dfc280864c8f1ed28de36dea41c14c88.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19083,7 +19083,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [overlay-tiled-images.e04d9ad13abc362b5d187a9d588e3edd6416bb78.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/overlay-tiled-images.e04d9ad13abc362b5d187a9d588e3edd6416bb78.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19095,7 +19095,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [routes-and-directions.1b218436d574a77691052e901bc34ec1455cbfcb.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/routes-and-directions.1b218436d574a77691052e901bc34ec1455cbfcb.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19107,7 +19107,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [set-up-a-geofence.f6410e03b35736376f67928d3a8bfc88ed78a4ff.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/set-up-a-geofence.f6410e03b35736376f67928d3a8bfc88ed78a4ff.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19119,7 +19119,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [access-analytics-data-using-windows-store-services.40ee39dcf89d4ff9bedfa86853bf7464d98defaf.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/access-analytics-data-using-windows-store-services.40ee39dcf89d4ff9bedfa86853bf7464d98defaf.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19131,7 +19131,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [add-ads-to-apps-with-microsoft-advertising.6f906fb49f7a90d9637c9b82583a74322030aaa0.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/add-ads-to-apps-with-microsoft-advertising.6f906fb49f7a90d9637c9b82583a74322030aaa0.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19143,7 +19143,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [add-and-use-the-ad-mediator-control.ddfc95675cb0f59b1378454b91c5886dd0543ddd.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/add-and-use-the-ad-mediator-control.ddfc95675cb0f59b1378454b91c5886dd0543ddd.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19155,7 +19155,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [enable-consumable-in-app-product-purchases.226c7e60c1e8a5f63c7dcc6b4befd33e991b87bc.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/enable-consumable-in-app-product-purchases.226c7e60c1e8a5f63c7dcc6b4befd33e991b87bc.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19167,7 +19167,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [enable-in-app-product-purchases.eb9c4b61326f84aae9140582a71a0bc8b23883c3.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/enable-in-app-product-purchases.eb9c4b61326f84aae9140582a71a0bc8b23883c3.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19179,7 +19179,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [exclude-or-limit-features-in-a-trial-version-of-your-app.2d0d892fc260965ec292f63013bd911029b01162.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/exclude-or-limit-features-in-a-trial-version-of-your-app.2d0d892fc260965ec292f63013bd911029b01162.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19191,7 +19191,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [get-app-acquisitions.411f2a1e2d6e8d91c565fda226b528dc4b8150c7.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/get-app-acquisitions.411f2a1e2d6e8d91c565fda226b528dc4b8150c7.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19203,7 +19203,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [get-app-failures.30a70ff11340c4f852cdd3d8a4882fdf188277a5.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/get-app-failures.30a70ff11340c4f852cdd3d8a4882fdf188277a5.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19215,7 +19215,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [get-app-ratings.0647085f6fd8c1aea37d30c9019bfa341257f8af.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/get-app-ratings.0647085f6fd8c1aea37d30c9019bfa341257f8af.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19227,7 +19227,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [get-app-reviews.c8c97d2c36804512f97eb7c4b24631c543496ea3.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/get-app-reviews.c8c97d2c36804512f97eb7c4b24631c543496ea3.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19239,7 +19239,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [get-error-reporting-data.68e96eadf8682fc5cee2670351fa5d0a38a8d572.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/get-error-reporting-data.68e96eadf8682fc5cee2670351fa5d0a38a8d572.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19251,7 +19251,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [get-in-app-acquisitions.54eba988c61a25a2b31ea547e4b1978b14f801c7.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/get-in-app-acquisitions.54eba988c61a25a2b31ea547e4b1978b14f801c7.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19263,7 +19263,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [grant-free-products.df4beaeb26d5661670d94e55f72d2f6952467528.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/grant-free-products.df4beaeb26d5661670d94e55f72d2f6952467528.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19275,7 +19275,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [index.60bb2aa912764fa32f417298252b8d55496bcf6d.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/index.60bb2aa912764fa32f417298252b8d55496bcf6d.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19287,7 +19287,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [install-the-microsoft-universal-ad-client-sdk.319afe78c78c640aca0231a9d7f3fd0d0d6b6d86.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/install-the-microsoft-universal-ad-client-sdk.319afe78c78c640aca0231a9d7f3fd0d0d6b6d86.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19299,7 +19299,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [manage-a-large-catalog-of-in-app-products.58497889327f9ce9d9d6e75c3f7597d7baca2dcb.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/manage-a-large-catalog-of-in-app-products.58497889327f9ce9d9d6e75c3f7597d7baca2dcb.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19311,7 +19311,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [query-for-products.f3d5364ca940c8b7d97de4877062ed5084ec9480.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/query-for-products.f3d5364ca940c8b7d97de4877062ed5084ec9480.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19323,7 +19323,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [renew-a-windows-store-id-key.ecf15f951899193447be845edc958145505395d1.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/renew-a-windows-store-id-key.ecf15f951899193447be845edc958145505395d1.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19335,7 +19335,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [report-consumable-products-as-fulfilled.70c85797516f3bba14ca05d1fac02bffe5c5ec00.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/report-consumable-products-as-fulfilled.70c85797516f3bba14ca05d1fac02bffe5c5ec00.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19347,7 +19347,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [select-and-manage-your-ad-networks.f3765c96cb3d09d26ef34f94f4d6c45719a1362c.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/select-and-manage-your-ad-networks.f3765c96cb3d09d26ef34f94f4d6c45719a1362c.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19359,7 +19359,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [submit-your-app-and-configure-ad-mediation.f8a03e13b9233f799ee43dccbc0881d44b5f3c02.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/submit-your-app-and-configure-ad-mediation.f8a03e13b9233f799ee43dccbc0881d44b5f3c02.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19371,7 +19371,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [test-your-ad-mediation-implementation.152db2d94530d4fe92c393f4ca0557ca765b74b5.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/test-your-ad-mediation-implementation.152db2d94530d4fe92c393f4ca0557ca765b74b5.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19383,7 +19383,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [troubleshoot-ad-mediation.794c7fe4e3487c9470756f7569249f0a7d24cdaf.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/troubleshoot-ad-mediation.794c7fe4e3487c9470756f7569249f0a7d24cdaf.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19395,7 +19395,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [use-ad-mediation-to-maximize-revenue.8751cb700a90a5c9e88e595150a787c87e7a643a.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/use-ad-mediation-to-maximize-revenue.8751cb700a90a5c9e88e595150a787c87e7a643a.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19407,7 +19407,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [use-receipts-to-verify-product-purchases.3f65480a5a0b5b25cb9846cbae4b0711762afdc0.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/use-receipts-to-verify-product-purchases.3f65480a5a0b5b25cb9846cbae4b0711762afdc0.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19419,7 +19419,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [using-windows-store-services.d1637717b969a35106dc43378610fb68c8827288.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/using-windows-store-services.d1637717b969a35106dc43378610fb68c8827288.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19431,7 +19431,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [view-and-grant-products-from-a-service.365e43b3d65ec603972c7996a2ee36084079749a.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/view-and-grant-products-from-a-service.365e43b3d65ec603972c7996a2ee36084079749a.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19443,7 +19443,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [background-transfers.aec36926dacd115cf797d4ad5a2eb423d3b6dd74.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/background-transfers.aec36926dacd115cf797d4ad5a2eb423d3b6dd74.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19503,7 +19503,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [httpclient.7a1c617dae410d92435ef2ab4e7f97d3f8db362a.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/httpclient.7a1c617dae410d92435ef2ab4e7f97d3f8db362a.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19515,7 +19515,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [index.cd380449f7821ea5d15ad007fb046b2701449cbf.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/index.cd380449f7821ea5d15ad007fb046b2701449cbf.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19527,7 +19527,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [network-communications-in-the-background.2cc3adcfab018cafba6637853afd7652c2cf81de.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/network-communications-in-the-background.2cc3adcfab018cafba6637853afd7652c2cf81de.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19539,7 +19539,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [networking-basics.49d9fb06de1f877a272832661fb7466031b1a2b1.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/networking-basics.49d9fb06de1f877a272832661fb7466031b1a2b1.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19551,7 +19551,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [sockets.6796d16e83b4026f60d158c8bc3dbd8a5d7367b3.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/sockets.6796d16e83b4026f60d158c8bc3dbd8a5d7367b3.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19563,7 +19563,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [web-feeds.83f92f165fe11405132be3d2c1a055efa0a561ae.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/web-feeds.83f92f165fe11405132be3d2c1a055efa0a561ae.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19575,7 +19575,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [websockets.58d052162e359353c9537247fe9cf6709bc81f5b.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/websockets.58d052162e359353c9537247fe9cf6709bc81f5b.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19587,7 +19587,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [which-networking-technology.2ad0c8f8099eb922850259ffcaad8b9b27e5c437.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/which-networking-technology.2ad0c8f8099eb922850259ffcaad8b9b27e5c437.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19599,7 +19599,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [app-capability-declarations.593ff2975fa4721c68f51f89de936a6a77be6a1f.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/app-capability-declarations.593ff2975fa4721c68f51f89de936a6a77be6a1f.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19611,7 +19611,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [index.f868972ee124fa51b08eb00a937ed11589125eb9.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/index.f868972ee124fa51b08eb00a937ed11589125eb9.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19623,7 +19623,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [install-universal-windows-apps-with-the-winappdeploycmd-tool.921fa50a81057ac57ebeac4758b7bada421e6f39.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/install-universal-windows-apps-with-the-winappdeploycmd-tool.921fa50a81057ac57ebeac4758b7bada421e6f39.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19635,7 +19635,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [packaging-uwp-apps.d386af56286c0b715e8a0a84cd76c22167721d24.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/packaging-uwp-apps.d386af56286c0b715e8a0a84cd76c22167721d24.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19647,7 +19647,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [android-ios-uwp-map.14b3f990b51dd81aefab285a8932c429e43851c3.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/android-ios-uwp-map.14b3f990b51dd81aefab285a8932c429e43851c3.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19659,7 +19659,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [getting-started-animation.bed2e44c40cffb39c66076a82dc9963d432d5096.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/getting-started-animation.bed2e44c40cffb39c66076a82dc9963d432d5096.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19671,7 +19671,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [getting-started-choosing-a-programming-language.dfbbfe499d1e28105822a7a91f3214a07ac14bc5.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/getting-started-choosing-a-programming-language.dfbbfe499d1e28105822a7a91f3214a07ac14bc5.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19683,7 +19683,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [getting-started-common-controls.b6014b2b3dbf59860abed39c1b7b0bdd8112be79.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/getting-started-common-controls.b6014b2b3dbf59860abed39c1b7b0bdd8112be79.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19695,7 +19695,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [getting-started-creating-a-project.7ad826a4f26ed926d41ff59107f2b088b01977ca.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/getting-started-creating-a-project.7ad826a4f26ed926d41ff59107f2b088b01977ca.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19707,7 +19707,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [getting-started-getting-around-in-visual-studio.d3ea94879ee03299795f135f3eb228733235d295.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/getting-started-getting-around-in-visual-studio.d3ea94879ee03299795f135f3eb228733235d295.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19719,7 +19719,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [getting-started-navigation.440b63b7785bb47e6ffb81a80ccad9aee356c33e.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/getting-started-navigation.440b63b7785bb47e6ffb81a80ccad9aee356c33e.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19731,7 +19731,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [getting-started-what-next.b5ddcfabd07e9a37fb8704d1aea61de5266e6fac.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/getting-started-what-next.b5ddcfabd07e9a37fb8704d1aea61de5266e6fac.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19743,7 +19743,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [getting-started-with-uwp-for-ios-developers.9799534dae9d5ac7eaee9d0f97f185e52f95ff12.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/getting-started-with-uwp-for-ios-developers.9799534dae9d5ac7eaee9d0f97f185e52f95ff12.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19755,7 +19755,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [index.963ad92c0eb8306dfda432ff537ec7ba426f87c1.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/index.963ad92c0eb8306dfda432ff537ec7ba426f87c1.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19767,7 +19767,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [ios-to-uwp-root.b5fab31ce36fc34be420c277e699bcf9d3e23b29.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/ios-to-uwp-root.b5fab31ce36fc34be420c277e699bcf9d3e23b29.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19779,7 +19779,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [selecting-an-approach-to-ios-and-uwp-app-development.47d68ff930c336bd39c413a46ec1e1d721ed39d6.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/selecting-an-approach-to-ios-and-uwp-app-development.47d68ff930c336bd39c413a46ec1e1d721ed39d6.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19791,7 +19791,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [setting-up-your-mac-with-windows-10.b7d8ab4c5747fb76ad43befb88260b3246cdbc3f.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/setting-up-your-mac-with-windows-10.b7d8ab4c5747fb76ad43befb88260b3246cdbc3f.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19803,7 +19803,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [update-your-visual-studio-2015-rc-project-to-rtm.0ec209344851dd3482c946360c0cf32f5bc1bb0c.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/update-your-visual-studio-2015-rc-project-to-rtm.0ec209344851dd3482c946360c0cf32f5bc1bb0c.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19815,7 +19815,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [w8x-to-uwp-case-study-bookstore1.5b274e37b373de227cfc710e5493447fbf914ae7.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/w8x-to-uwp-case-study-bookstore1.5b274e37b373de227cfc710e5493447fbf914ae7.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19827,7 +19827,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [w8x-to-uwp-case-study-bookstore2.ad76d963e04ca3fbfbb6a2e752e085587a962b31.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/w8x-to-uwp-case-study-bookstore2.ad76d963e04ca3fbfbb6a2e752e085587a962b31.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19839,7 +19839,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [w8x-to-uwp-case-study-quizgame.bbb20237c790189cfc18dfc75f8764c4f7a89523.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/w8x-to-uwp-case-study-quizgame.bbb20237c790189cfc18dfc75f8764c4f7a89523.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19851,7 +19851,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [w8x-to-uwp-input-and-sensors.a737c8bd842a5e509de7d99d86d68ab9206f500b.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/w8x-to-uwp-input-and-sensors.a737c8bd842a5e509de7d99d86d68ab9206f500b.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19863,7 +19863,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [w8x-to-uwp-porting-to-a-uwp-project.58b8fafdc5ed8dbe5b73c9783b9812f3e35edccf.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/w8x-to-uwp-porting-to-a-uwp-project.58b8fafdc5ed8dbe5b73c9783b9812f3e35edccf.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19875,7 +19875,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [w8x-to-uwp-porting-xaml-and-ui.4233606a97893971ff870f08f6cd8d5542d6046d.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/w8x-to-uwp-porting-xaml-and-ui.4233606a97893971ff870f08f6cd8d5542d6046d.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19887,7 +19887,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [w8x-to-uwp-root.28963c21e75cb8137c69e6b72fb7c29a3312c014.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/w8x-to-uwp-root.28963c21e75cb8137c69e6b72fb7c29a3312c014.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19899,7 +19899,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [w8x-to-uwp-troubleshooting.60bc58c68adc46954879730a2f760da67cb7860c.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/w8x-to-uwp-troubleshooting.60bc58c68adc46954879730a2f760da67cb7860c.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19911,7 +19911,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [wpsl-to-uwp-business-and-data.2ac194cdc595bf4bdae6bda24250669077cd4df8.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/wpsl-to-uwp-business-and-data.2ac194cdc595bf4bdae6bda24250669077cd4df8.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19923,7 +19923,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [wpsl-to-uwp-case-study-bookstore1.339aaa57e2219925b372ee5e725df2eda848da92.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/wpsl-to-uwp-case-study-bookstore1.339aaa57e2219925b372ee5e725df2eda848da92.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19935,7 +19935,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [wpsl-to-uwp-case-study-bookstore2.586052c062ab2d4e02abe22d7830ac9c4cadcb9e.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/wpsl-to-uwp-case-study-bookstore2.586052c062ab2d4e02abe22d7830ac9c4cadcb9e.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19947,7 +19947,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [wpsl-to-uwp-form-factors-and-ux.2982dfcd114ede84c469640518b3ba108f0b5a28.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/wpsl-to-uwp-form-factors-and-ux.2982dfcd114ede84c469640518b3ba108f0b5a28.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19959,7 +19959,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [wpsl-to-uwp-input-and-sensors.90f3b2665cdbf0d42f949d3ddb865d38c5cd959b.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/wpsl-to-uwp-input-and-sensors.90f3b2665cdbf0d42f949d3ddb865d38c5cd959b.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19971,7 +19971,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [wpsl-to-uwp-namespace-and-class-mappings.33e7d94bee725d6c47de4511e491188742d7431d.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/wpsl-to-uwp-namespace-and-class-mappings.33e7d94bee725d6c47de4511e491188742d7431d.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19983,7 +19983,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [wpsl-to-uwp-porting-to-a-uwp-project.2f8f00bf46a8a34cba51d65ba5800516f2953667.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/wpsl-to-uwp-porting-to-a-uwp-project.2f8f00bf46a8a34cba51d65ba5800516f2953667.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19995,7 +19995,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [wpsl-to-uwp-porting-xaml-and-ui.393cf6918819f12cc26fa6b15ae5c294315c8b3a.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/wpsl-to-uwp-porting-xaml-and-ui.393cf6918819f12cc26fa6b15ae5c294315c8b3a.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20007,7 +20007,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [wpsl-to-uwp-root.91f1dfb08f766e169984c863df309b99a0d10e3a.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/wpsl-to-uwp-root.91f1dfb08f766e169984c863df309b99a0d10e3a.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20019,7 +20019,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [wpsl-to-uwp-troubleshooting.5b286c171c95aa020f0acc3dbc10e23f57e45abe.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/wpsl-to-uwp-troubleshooting.5b286c171c95aa020f0acc3dbc10e23f57e45abe.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20031,7 +20031,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [about-house-ads.61ac440a9fb36c2248961bdfa8da0bbd52ad0aac.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/about-house-ads.61ac440a9fb36c2248961bdfa8da0bbd52ad0aac.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20043,7 +20043,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [account-types-locations-and-fees.c48f734f3c862dd595412f2f3ae09a9cc34a142a.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/account-types-locations-and-fees.c48f734f3c862dd595412f2f3ae09a9cc34a142a.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20055,7 +20055,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [acquisitions-report.36511153b832c45e8a44d7b8333cbcf532ffae5c.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/acquisitions-report.36511153b832c45e8a44d7b8333cbcf532ffae5c.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20067,7 +20067,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [ad-mediation-report.660398cc23164fc0b92650dd2318fd33ca1f2a18.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/ad-mediation-report.660398cc23164fc0b92650dd2318fd33ca1f2a18.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20079,7 +20079,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [advertising-performance-report.6cf6bf79d0a0611d310843e6b8ecf4a65bd32b3f.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/advertising-performance-report.6cf6bf79d0a0611d310843e6b8ecf4a65bd32b3f.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20091,7 +20091,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [age-ratings.d783f083c35b56ed883ad9796779a4cab656982f.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/age-ratings.d783f083c35b56ed883ad9796779a4cab656982f.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20103,7 +20103,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [analytics.62e86a609ab148e02bedd933226d05c3efa1764e.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/analytics.62e86a609ab148e02bedd933226d05c3efa1764e.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20115,7 +20115,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [app-declarations.3a90c631e0e8d78d63787f96882eecbc1c02b1c8.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/app-declarations.3a90c631e0e8d78d63787f96882eecbc1c02b1c8.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20127,7 +20127,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [app-install-ads-reports.d096a8374eb2fbd4cbbb9e42a55d4f2a83b2e55a.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/app-install-ads-reports.d096a8374eb2fbd4cbbb9e42a55d4f2a83b2e55a.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20139,7 +20139,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [app-management-and-services.780a314dd104d3d83ec3906fdc50a1b1de7fd0b6.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/app-management-and-services.780a314dd104d3d83ec3906fdc50a1b1de7fd0b6.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20151,7 +20151,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [app-marketing-guidelines.6922266366712bf4ca48e87369411bd5a5bd52a0.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/app-marketing-guidelines.6922266366712bf4ca48e87369411bd5a5bd52a0.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20163,7 +20163,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [app-package-requirements.fcfd0ab8e9f0a882d3af91096401b96efd7a0dfa.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/app-package-requirements.fcfd0ab8e9f0a882d3af91096401b96efd7a0dfa.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20175,7 +20175,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [app-promotion-and-customer-engagement.2cc29cc45864f9d6d8ab15da08778e490088470a.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/app-promotion-and-customer-engagement.2cc29cc45864f9d6d8ab15da08778e490088470a.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20187,7 +20187,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [app-screenshots-and-images.d51c2dd529ee22d65c966f439ac287e13be42e2c.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/app-screenshots-and-images.d51c2dd529ee22d65c966f439ac287e13be42e2c.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20199,7 +20199,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [app-submissions.05678bf82b761ff1a73b616cd74391922d29440e.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/app-submissions.05678bf82b761ff1a73b616cd74391922d29440e.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20211,7 +20211,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [avoid-common-certification-failures.50c49d8d488e27f0ad93aebef01bf4cac6f6465d.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/avoid-common-certification-failures.50c49d8d488e27f0ad93aebef01bf4cac6f6465d.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20223,7 +20223,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [beta-testing-and-targeted-distribution.48048ebcc07108c9792b93458cd6868d425a9fd9.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/beta-testing-and-targeted-distribution.48048ebcc07108c9792b93458cd6868d425a9fd9.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20235,7 +20235,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [category-and-subcategory-table.89c1c7a37b94e9d345452d3cbb428e0d92b4d652.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/category-and-subcategory-table.89c1c7a37b94e9d345452d3cbb428e0d92b4d652.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20247,7 +20247,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [channels-and-conversions-report.ad2e072c1e6360068d3cf710ebab54edbb97c52a.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/channels-and-conversions-report.ad2e072c1e6360068d3cf710ebab54edbb97c52a.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20259,7 +20259,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [common-questions.8fe2d7f0bb638c1cd98b10fa032a29b006b6cdbd.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/common-questions.8fe2d7f0bb638c1cd98b10fa032a29b006b6cdbd.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20271,7 +20271,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [create-a-custom-app-promotion-campaign.4bb4cdd41e687eff693a9d5bf92a7461f1ba3a00.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/create-a-custom-app-promotion-campaign.4bb4cdd41e687eff693a9d5bf92a7461f1ba3a00.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20283,7 +20283,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [create-an-ad-campaign-for-your-app.d92f29c04d33f9c1e2543855b9825dc112efa144.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/create-an-ad-campaign-for-your-app.d92f29c04d33f9c1e2543855b9825dc112efa144.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20295,7 +20295,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [create-app-descriptions.b6ca885fc6f46afc953a0e54893893d42613e934.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/create-app-descriptions.b6ca885fc6f46afc953a0e54893893d42613e934.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20307,7 +20307,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [create-iap-descriptions.7e023b199feaa9bc40e6b810bcc71a20f387c6da.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/create-iap-descriptions.7e023b199feaa9bc40e6b810bcc71a20f387c6da.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20319,7 +20319,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [create-platform-specific-descriptions.e075180ef003a7f74f915c76e82841c444e522b2.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/create-platform-specific-descriptions.e075180ef003a7f74f915c76e82841c444e522b2.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20331,7 +20331,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [create-your-app-by-reserving-a-name.2b2d9466c4c9108addaf732123578710ca794a81.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/create-your-app-by-reserving-a-name.2b2d9466c4c9108addaf732123578710ca794a81.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20343,7 +20343,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [define-pricing-and-market-selection.1e7a0aefe0261368fd8ee51a1af04a1d960957f8.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/define-pricing-and-market-selection.1e7a0aefe0261368fd8ee51a1af04a1d960957f8.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20355,7 +20355,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [distribute-lob-apps-to-enterprises.c4440ba0fb8dbfe16d53ec52a58b3e038e5ae0b7.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/distribute-lob-apps-to-enterprises.c4440ba0fb8dbfe16d53ec52a58b3e038e5ae0b7.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20367,7 +20367,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [download-analytic-reports.593986e031c0123ad0cf6839a341dfe070a1cffa.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/download-analytic-reports.593986e031c0123ad0cf6839a341dfe070a1cffa.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20379,7 +20379,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [enter-app-properties.2d7b21887b976a3ea7bb43f7b6f5502042f21083.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/enter-app-properties.2d7b21887b976a3ea7bb43f7b6f5502042f21083.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20391,7 +20391,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [enter-iap-properties.cef32ab8d828f2c472e6ceec71f6d8f2eed606f7.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/enter-iap-properties.cef32ab8d828f2c472e6ceec71f6d8f2eed606f7.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20403,7 +20403,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [generate-preinstall-packages-for-oems.83f4d065a0ce4f7b64ed29e5b67221d69634bce8.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/generate-preinstall-packages-for-oems.83f4d065a0ce4f7b64ed29e5b67221d69634bce8.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20415,7 +20415,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [generate-promotional-codes.f0b366645450c2a1fe764099bd0396e78061ddc1.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/generate-promotional-codes.f0b366645450c2a1fe764099bd0396e78061ddc1.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20427,7 +20427,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [getting-paid-apps.c3a425c2bbdaba02e3e022ad9d504dc4bd0b6882.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/getting-paid-apps.c3a425c2bbdaba02e3e022ad9d504dc4bd0b6882.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20439,7 +20439,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [guidance-for-app-package-management.9ecce9a5e03ed4938b02ce0d1e079f7d6642c125.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/guidance-for-app-package-management.9ecce9a5e03ed4938b02ce0d1e079f7d6642c125.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20451,7 +20451,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [health-report.8a737c7e285866e6d424adb86f21690b9ee8d670.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/health-report.8a737c7e285866e6d424adb86f21690b9ee8d670.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20463,7 +20463,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [how-your-app-appears-in-the-store-for-windows-10-customers.b39cf4b13d2151423c6ed5d9ee7f1b4f6b1ca562.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/how-your-app-appears-in-the-store-for-windows-10-customers.b39cf4b13d2151423c6ed5d9ee7f1b4f6b1ca562.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20475,7 +20475,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [iap-acquisitions-report.bbcdf8757e8c2b68230ea24a4d46875440a86469.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/iap-acquisitions-report.bbcdf8757e8c2b68230ea24a4d46875440a86469.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20487,7 +20487,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [iap-submissions.bcdfe468cc62a9ceecf64cc25bcf2c7c0cd7d3c5.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/iap-submissions.bcdfe468cc62a9ceecf64cc25bcf2c7c0cd7d3c5.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20499,7 +20499,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [link-to-your-app.3fde1ec4235370cdb65fa89b1609bda589f47059.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/link-to-your-app.3fde1ec4235370cdb65fa89b1609bda589f47059.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20511,7 +20511,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [make-your-app-easier-to-promote.a6eca7bffeffb0ccb77f3f737ae8c244e153e636.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/make-your-app-easier-to-promote.a6eca7bffeffb0ccb77f3f737ae8c244e153e636.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20523,7 +20523,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [manage-account-users.3ebefd766a435c92a74f62313ceb9a209abb7ab1.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/manage-account-users.3ebefd766a435c92a74f62313ceb9a209abb7ab1.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20535,7 +20535,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [manage-app-names.cdc68696a838a059f15952f04ae10a78076cc248.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/manage-app-names.cdc68696a838a059f15952f04ae10a78076cc248.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20547,7 +20547,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [managing-your-ad-campaign.bc67587672e218d9026752f566eaceddf10fccad.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/managing-your-ad-campaign.bc67587672e218d9026752f566eaceddf10fccad.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20559,7 +20559,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [managing-your-profile.3a66788eb60859f54ce842e545556aafe3f1b104.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/managing-your-profile.3a66788eb60859f54ce842e545556aafe3f1b104.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20571,7 +20571,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [mobile-operator-billing.7ae7149a890a7a0d409f0418300ca372b80eed20.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/mobile-operator-billing.7ae7149a890a7a0d409f0418300ca372b80eed20.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20583,7 +20583,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [monetize-with-ads.b704d6444401a444fc6799e78b56992b177c1fc6.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/monetize-with-ads.b704d6444401a444fc6799e78b56992b177c1fc6.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20595,7 +20595,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [notes-for-certification.a78bf11942b44fac1de5385bd64f2c5ed8c82ff6.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/notes-for-certification.a78bf11942b44fac1de5385bd64f2c5ed8c82ff6.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20607,7 +20607,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [opening-a-developer-account.0832729e0a0c3cc0a023e2e090f51c7bd4e6e1d0.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/opening-a-developer-account.0832729e0a0c3cc0a023e2e090f51c7bd4e6e1d0.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20619,7 +20619,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [organizational-licensing.e888f1067fb29dadbd347cd823e07826698407b0.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/organizational-licensing.e888f1067fb29dadbd347cd823e07826698407b0.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20631,7 +20631,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [package-version-numbering.88aafb64c2c769d7f041ba61f16e6a7d9b1f59f2.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/package-version-numbering.88aafb64c2c769d7f041ba61f16e6a7d9b1f59f2.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20643,7 +20643,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [payout-summary.f968344a20d2982623082204155949d07899dbca.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/payout-summary.f968344a20d2982623082204155949d07899dbca.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20655,7 +20655,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [pubcenter-dev-center-integration.58fce099e4c421266dba4cd482fcb7dbfe0cad32.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/pubcenter-dev-center-integration.58fce099e4c421266dba4cd482fcb7dbfe0cad32.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20667,7 +20667,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [pubcenter-devcenter-payout-account-and-tax-profile-consolidation.e9748c7adc6a19e33db6505356fb8be795276f97.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/pubcenter-devcenter-payout-account-and-tax-profile-consolidation.e9748c7adc6a19e33db6505356fb8be795276f97.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20679,7 +20679,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [put-apps-and-iaps-on-sale.4453f37c82d102086b0bc37687ed1f6d34f58819.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/put-apps-and-iaps-on-sale.4453f37c82d102086b0bc37687ed1f6d34f58819.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20691,7 +20691,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [ratings-report.12ff272d94eaf520002acc155a8b375a3ac31d1c.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/ratings-report.12ff272d94eaf520002acc155a8b375a3ac31d1c.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20703,7 +20703,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [resolve-package-upload-errors.ebef2f501af2c8aa662dcc919b117d65601fb2a7.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/resolve-package-upload-errors.ebef2f501af2c8aa662dcc919b117d65601fb2a7.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20715,7 +20715,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [resolve-submission-errors.83c557b6bdfba5947fce779be0bd59e84115b364.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/resolve-submission-errors.83c557b6bdfba5947fce779be0bd59e84115b364.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20727,7 +20727,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [respond-to-customer-reviews.49d11f649d5dec24a337a58d137c945165f623a8.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/respond-to-customer-reviews.49d11f649d5dec24a337a58d137c945165f623a8.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20739,7 +20739,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [reviews-report.3b9a798c0425ad49ffff6837e25d72f2ea039508.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/reviews-report.3b9a798c0425ad49ffff6837e25d72f2ea039508.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20751,7 +20751,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [set-app-pricing-and-availability.c31d87f21106464d15974329455ee2cb62de19d6.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/set-app-pricing-and-availability.c31d87f21106464d15974329455ee2cb62de19d6.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20763,7 +20763,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [set-iap-pricing-and-availability.367f94c2621e9ec09cb63da641d4973b739856fd.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/set-iap-pricing-and-availability.367f94c2621e9ec09cb63da641d4973b739856fd.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20775,7 +20775,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [setting-up-your-payout-account-and-tax-forms.dda46024cf9d22462f0dd6bb8dd2289c6ca3a065.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/setting-up-your-payout-account-and-tax-forms.dda46024cf9d22462f0dd6bb8dd2289c6ca3a065.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20787,7 +20787,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [set-your-iap-product-id.b3f9606ba1cd4f892537c787d40206026b64544f.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/set-your-iap-product-id.b3f9606ba1cd4f892537c787d40206026b64544f.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20799,7 +20799,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [supported-languages.1befde4ca6f6fdc30ecaae686c527aa28aeb51e3.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/supported-languages.1befde4ca6f6fdc30ecaae686c527aa28aeb51e3.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20811,7 +20811,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [tax-details-for-paid-apps.97ec4e37d271098f64fefa2ae7483c9abb8a29ac.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/tax-details-for-paid-apps.97ec4e37d271098f64fefa2ae7483c9abb8a29ac.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20823,7 +20823,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [the-app-certification-process.e5e64b922e18b625ea51cac58187b45867443af5.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/the-app-certification-process.e5e64b922e18b625ea51cac58187b45867443af5.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20835,7 +20835,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [trademark-and-copyright-protection.d881b16d922ba00655d71fefa57e5c93b8f3ad9f.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/trademark-and-copyright-protection.d881b16d922ba00655d71fefa57e5c93b8f3ad9f.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20847,7 +20847,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [upload-app-packages.5051a4d7b3bc18a74c12dbc966f61d6047d5afe1.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/upload-app-packages.5051a4d7b3bc18a74c12dbc966f61d6047d5afe1.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20859,7 +20859,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [usage-report.07314873bc2d878b5426852997d8c69b7a910b1d.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/usage-report.07314873bc2d878b5426852997d8c69b7a910b1d.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20871,7 +20871,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [use-map-services.526a63c71e5f07c4d71146c32315a0f1be8e3841.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/use-map-services.526a63c71e5f07c4d71146c32315a0f1be8e3841.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20883,7 +20883,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [using-the-windows-dev-center-dashboard.371a82de084d25302acfd01a3fcffa5719515b99.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/using-the-windows-dev-center-dashboard.371a82de084d25302acfd01a3fcffa5719515b99.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20895,7 +20895,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [vat-info.0ea16877b91ece243c86f897de001b6971ed4a2b.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/vat-info.0ea16877b91ece243c86f897de001b6971ed4a2b.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20907,7 +20907,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [view-app-identity-details.a818ed94ee41bfb2158722f876acc23c876b3ae4.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/view-app-identity-details.a818ed94ee41bfb2158722f876acc23c876b3ae4.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20919,7 +20919,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [write-a-great-app-description.1482bba1cb1cea80a4ac7bb35c20a6015f279382.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/write-a-great-app-description.1482bba1cb1cea80a4ac7bb35c20a6015f279382.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20931,7 +20931,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [authentication-and-user-identity.8b8ec304bde7f6f2e51903477b77e5aa49326205.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/authentication-and-user-identity.8b8ec304bde7f6f2e51903477b77e5aa49326205.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20943,7 +20943,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [certificates.0e865a41824f70336896107f48b6b2608a0e8245.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/certificates.0e865a41824f70336896107f48b6b2608a0e8245.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20955,7 +20955,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [common-cryptography-tasks.c7d8d75c6a405cd378c442d9d610190af5140316.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/common-cryptography-tasks.c7d8d75c6a405cd378c442d9d610190af5140316.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20967,7 +20967,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [compare-buffers.3b3792e5d8b4319737208cdbc7070456a38a764d.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/compare-buffers.3b3792e5d8b4319737208cdbc7070456a38a764d.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20979,7 +20979,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [convert-between-strings-and-binary-data.9ae8c01686fbe7333bbb4bc2af2bf586632812f8.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/convert-between-strings-and-binary-data.9ae8c01686fbe7333bbb4bc2af2bf586632812f8.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20991,7 +20991,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [copy-to-and-from-byte-arrays.bfa38f0fe4b1f2c721a7383a040f70abf31f41b6.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/copy-to-and-from-byte-arrays.bfa38f0fe4b1f2c721a7383a040f70abf31f41b6.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21003,7 +21003,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [create-random-numbers.d17c35ad3279aa1a6c2d10c3b0149fbfc2f5e372.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/create-random-numbers.d17c35ad3279aa1a6c2d10c3b0149fbfc2f5e372.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21015,7 +21015,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [credential-locker.e4ef8f3e398b509d9986142a73beb432ec26356f.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/credential-locker.e4ef8f3e398b509d9986142a73beb432ec26356f.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21027,7 +21027,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [cryptographic-keys.7c0d4cc05b590222d4920c8cfc3fa107c040ebcc.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/cryptographic-keys.7c0d4cc05b590222d4920c8cfc3fa107c040ebcc.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21039,7 +21039,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [cryptography.dfe9a5f6f3028159f21229057a9d79bbfab5eafd.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/cryptography.dfe9a5f6f3028159f21229057a9d79bbfab5eafd.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21051,7 +21051,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [data-protection.4d568f83741a22b523269f948e96fb047be2059a.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/data-protection.4d568f83741a22b523269f948e96fb047be2059a.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21063,7 +21063,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [encode-and-decode-data.b29f2f3dcbb8b29be23236fd0899b863aad93e4c.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/encode-and-decode-data.b29f2f3dcbb8b29be23236fd0899b863aad93e4c.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21075,7 +21075,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [export-restrictions-on-cryptography.a746f4d8a8e9334d142997c20334735e549a89dd.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/export-restrictions-on-cryptography.a746f4d8a8e9334d142997c20334735e549a89dd.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21087,7 +21087,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [fingerprint-biometrics.3269cad083bfdcc7f393a7b5613bddfe40e32009.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/fingerprint-biometrics.3269cad083bfdcc7f393a7b5613bddfe40e32009.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21099,7 +21099,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [index.749b9356d7054ea78dd13cef30537087f70ca674.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/index.749b9356d7054ea78dd13cef30537087f70ca674.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21111,7 +21111,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [intro-to-secure-windows-app-development.527929476464d504dc5b0568c0d7c5c085ad7a80.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/intro-to-secure-windows-app-development.527929476464d504dc5b0568c0d7c5c085ad7a80.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21123,7 +21123,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [macs-hashes-and-signatures.d7f2608c62342b1c0728a96be70acc4e735b7cd8.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/macs-hashes-and-signatures.d7f2608c62342b1c0728a96be70acc4e735b7cd8.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21135,7 +21135,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [microsoft-passport.c4c2bf22e2360527c73618a9440fc2a892d6a855.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/microsoft-passport.c4c2bf22e2360527c73618a9440fc2a892d6a855.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21147,7 +21147,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [microsoft-passport-login.007b4d8b94b3deb4f225348e9fa3d1eb2c80c617.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/microsoft-passport-login.007b4d8b94b3deb4f225348e9fa3d1eb2c80c617.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21159,7 +21159,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [microsoft-passport-login-auth-service.5598ee82542914d5a55c9c0f8fb8afa31bc9f314.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/microsoft-passport-login-auth-service.5598ee82542914d5a55c9c0f8fb8afa31bc9f314.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21171,7 +21171,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [share-certificates.163cf50f77ee6733c50d84de2e75561dc4f13373.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/share-certificates.163cf50f77ee6733c50d84de2e75561dc4f13373.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21183,7 +21183,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [smart-cards.fb8389c5d55a171dee9ddb4f81ec6cca260169d1.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/smart-cards.fb8389c5d55a171dee9ddb4f81ec6cca260169d1.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21195,7 +21195,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [web-authentication-broker.1315aa46a56798bdc74058c0cb2da9eb1c5a3be1.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/web-authentication-broker.1315aa46a56798bdc74058c0cb2da9eb1c5a3be1.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21207,7 +21207,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [cryptographic-keys.7c0d4cc05b590222d4920c8cfc3fa107c040ebcc.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/cryptographic-keys.7c0d4cc05b590222d4920c8cfc3fa107c040ebcc.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21219,7 +21219,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [cryptography.dfe9a5f6f3028159f21229057a9d79bbfab5eafd.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/cryptography.dfe9a5f6f3028159f21229057a9d79bbfab5eafd.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21231,7 +21231,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [asynchronous-programming-in-cpp-universal-windows-platform-apps.12ea7a0b8c55f8da19161057f896212736947931.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/asynchronous-programming-in-cpp-universal-windows-platform-apps.12ea7a0b8c55f8da19161057f896212736947931.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21243,7 +21243,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [asynchronous-programming-universal-windows-platform-apps.f93d614264caf87618dc214c852f03d00b1b6aa5.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/asynchronous-programming-universal-windows-platform-apps.f93d614264caf87618dc214c852f03d00b1b6aa5.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21447,7 +21447,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [best-practices-for-using-the-thread-pool.c5be04db5551989354597da2ece308d471f23f9f.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/best-practices-for-using-the-thread-pool.c5be04db5551989354597da2ece308d471f23f9f.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21459,7 +21459,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [call-asynchronous-apis-in-csharp-or-visual-basic.9010e3d643cf0b5447808861c0717575e44e2140.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/call-asynchronous-apis-in-csharp-or-visual-basic.9010e3d643cf0b5447808861c0717575e44e2140.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21471,7 +21471,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [create-a-periodic-work-item.0a7fc981c1d3f6f43d538125fe01963733033e41.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/create-a-periodic-work-item.0a7fc981c1d3f6f43d538125fe01963733033e41.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21483,7 +21483,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [index.a814deaa0bb704c226707e6ffef90402ebbf928f.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/index.a814deaa0bb704c226707e6ffef90402ebbf928f.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21495,7 +21495,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [submit-a-work-item-to-the-thread-pool.af524974f8dfbfe08549b17a62146715b9708f7a.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/submit-a-work-item-to-the-thread-pool.af524974f8dfbfe08549b17a62146715b9708f7a.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21507,7 +21507,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [use-a-timer-to-submit-a-work-item.5dd57fa42e5a3d672791c066202344978f018755.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/use-a-timer-to-submit-a-work-item.5dd57fa42e5a3d672791c066202344978f018755.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21519,7 +21519,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [TOC.10b51421a0ee7685bbf67fbd24364b931fd2c801.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/TOC.10b51421a0ee7685bbf67fbd24364b931fd2c801.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21531,7 +21531,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [creating-windows-runtime-components-in-cpp.52d9d41b46d5f2880f3167b7066d3cf63513df56.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/creating-windows-runtime-components-in-cpp.52d9d41b46d5f2880f3167b7066d3cf63513df56.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21543,7 +21543,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [creating-windows-runtime-components-in-csharp-and-visual-basic.a9cbb10df35e87cd98ba03d80a4229c1c991752c.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/creating-windows-runtime-components-in-csharp-and-visual-basic.a9cbb10df35e87cd98ba03d80a4229c1c991752c.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21555,7 +21555,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [custom-events-and-event-accessors-in-windows-runtime-components.8323b61e80752270d057ba0b00dcd2db4d8bb477.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/custom-events-and-event-accessors-in-windows-runtime-components.8323b61e80752270d057ba0b00dcd2db4d8bb477.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21567,7 +21567,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [diagnosing-windows-runtime-component-error-conditions.73199be6bc841527b0b6c52c1fc35c0aa6b141a2.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/diagnosing-windows-runtime-component-error-conditions.73199be6bc841527b0b6c52c1fc35c0aa6b141a2.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21579,7 +21579,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [distributing-a-managed-windows-runtime-component.889d2ab9bbf1401ce86dd4fa0e54019363776bf7.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/distributing-a-managed-windows-runtime-component.889d2ab9bbf1401ce86dd4fa0e54019363776bf7.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21591,7 +21591,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [index.c7ea3fadc43f863a42cac3de7d00496a1fd89b6d.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/index.c7ea3fadc43f863a42cac3de7d00496a1fd89b6d.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21603,7 +21603,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [net-framework-mappings-of-windows-runtime-types.1b8c108bb9a4091ddf7634e7ad00a6255c73760e.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/net-framework-mappings-of-windows-runtime-types.1b8c108bb9a4091ddf7634e7ad00a6255c73760e.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21615,7 +21615,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [passing-arrays-to-a-windows-runtime-component.9223a53aaeba29f6c7ca67188abc5bf5c299afe8.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/passing-arrays-to-a-windows-runtime-component.9223a53aaeba29f6c7ca67188abc5bf5c299afe8.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21627,7 +21627,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [raising-events-in-windows-runtime-components.81e806dd29d140d61f3ffa3b1596630eda38f534.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/raising-events-in-windows-runtime-components.81e806dd29d140d61f3ffa3b1596630eda38f534.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21639,7 +21639,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [walkthrough-creating-a-basic-windows-runtime-component-in-cpp-and-calling-it.25801d344e1befb77d50bd9032c14c731cf8c500.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/walkthrough-creating-a-basic-windows-runtime-component-in-cpp-and-calling-it.25801d344e1befb77d50bd9032c14c731cf8c500.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21651,7 +21651,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [walkthrough-creating-a-simple-windows-runtime-component-and-calling-it-from-.372542a45742fb93d68b1e180a36fa247b5cd7bf.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/walkthrough-creating-a-simple-windows-runtime-component-and-calling-it-from-.372542a45742fb93d68b1e180a36fa247b5cd7bf.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21663,7 +21663,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [attached-properties-overview.832585939c4991a517d5beed7613220b863b2665.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/attached-properties-overview.832585939c4991a517d5beed7613220b863b2665.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21675,7 +21675,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [binding-markup-extension.aa2bc4bafa7362e03a95b23726fcd0e0bc8c81cd.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/binding-markup-extension.aa2bc4bafa7362e03a95b23726fcd0e0bc8c81cd.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21687,7 +21687,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [custom-attached-properties.f52f2ed20ad81a06ff9e146e722ab86a2e80020a.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/custom-attached-properties.f52f2ed20ad81a06ff9e146e722ab86a2e80020a.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21699,7 +21699,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [custom-dependency-properties.6471a73d820363b0d164a7c7c6662cc25d7fd20e.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/custom-dependency-properties.6471a73d820363b0d164a7c7c6662cc25d7fd20e.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21711,7 +21711,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [customresource-markup-extension.754ab2c0caf469c50bb6df1a38a5899e19a60462.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/customresource-markup-extension.754ab2c0caf469c50bb6df1a38a5899e19a60462.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21723,7 +21723,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [dependency-properties-overview.f9622e1b92d651e80b614e7485de9a79be34e6ab.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/dependency-properties-overview.f9622e1b92d651e80b614e7485de9a79be34e6ab.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21735,7 +21735,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [events-and-routed-events-overview.1430d9bc15a85143d4ba3fcd0f57801491da68cd.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/events-and-routed-events-overview.1430d9bc15a85143d4ba3fcd0f57801491da68cd.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21747,7 +21747,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [index.bf6b0b67debaa6f8765e0ca10815db90d59f8d08.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/index.bf6b0b67debaa6f8765e0ca10815db90d59f8d08.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21759,7 +21759,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [move-draw-commands-syntax.2f762c3edff6b2da4837622aab585618312e27b0.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/move-draw-commands-syntax.2f762c3edff6b2da4837622aab585618312e27b0.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21771,7 +21771,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [property-path-syntax.1def0437e008e2524bacf22ab1cbd37adf5f66d1.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/property-path-syntax.1def0437e008e2524bacf22ab1cbd37adf5f66d1.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21783,7 +21783,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [relativesource-markup-extension.79458f5261ae3e890dfb7e742f48cf1772143cc7.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/relativesource-markup-extension.79458f5261ae3e890dfb7e742f48cf1772143cc7.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21795,7 +21795,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [staticresource-markup-extension.65b19cf5e82b4a9ae2001c710fb64e4e261cd713.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/staticresource-markup-extension.65b19cf5e82b4a9ae2001c710fb64e4e261cd713.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21807,7 +21807,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [templatebinding-markup-extension.9f8fff3f1b5c07145bcbdc4805f1564f753aea28.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/templatebinding-markup-extension.9f8fff3f1b5c07145bcbdc4805f1564f753aea28.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21819,7 +21819,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [template-settings-classes.b31e88cb6923fb71f9727d857e59d48de60d4c71.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/template-settings-classes.b31e88cb6923fb71f9727d857e59d48de60d4c71.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21831,7 +21831,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [themeresource-markup-extension.719a46b756a29fd42c47530c61526417c6a1c587.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/themeresource-markup-extension.719a46b756a29fd42c47530c61526417c6a1c587.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21843,7 +21843,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [xaml-and-whitespace.f15f3ee7341faefedcf8dcc2beee90b67688f3f8.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/xaml-and-whitespace.f15f3ee7341faefedcf8dcc2beee90b67688f3f8.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21855,7 +21855,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [xaml-intrinsic-data-types.df3aca56c1bdd4e6295fd0c8860b607328bdda37.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/xaml-intrinsic-data-types.df3aca56c1bdd4e6295fd0c8860b607328bdda37.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21867,7 +21867,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [xaml-namescopes.3c77a3c0e6720bbb9b53148e93b53a5a268008de.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/xaml-namescopes.3c77a3c0e6720bbb9b53148e93b53a5a268008de.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21879,7 +21879,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [xaml-namespaces-and-namespace-mapping.4388610c56aa7432e2e02c2767afeb72e3a6dfb2.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/xaml-namespaces-and-namespace-mapping.4388610c56aa7432e2e02c2767afeb72e3a6dfb2.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21891,7 +21891,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [xaml-overview.3dd6c7fdeb3fc340d4effc4239de927c7306972a.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/xaml-overview.3dd6c7fdeb3fc340d4effc4239de927c7306972a.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21903,7 +21903,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [xaml-syntax-guide.5cf9f62655dacd41ff650c44a04ce57c5d771cc6.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/xaml-syntax-guide.5cf9f62655dacd41ff650c44a04ce57c5d771cc6.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21915,7 +21915,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [x-bind-markup-extension.e203bdc1de4ee76d2de665cc254c56568a96cc59.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/x-bind-markup-extension.e203bdc1de4ee76d2de665cc254c56568a96cc59.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21927,7 +21927,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [x-class-attribute.045edfa08b45a8f32dd5a37bf46000f1f713c535.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/x-class-attribute.045edfa08b45a8f32dd5a37bf46000f1f713c535.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21939,7 +21939,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [x-deferloadstrategy-attribute.7a6c777971c8488d5e3877e4fb1d146fb6d31cdd.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/x-deferloadstrategy-attribute.7a6c777971c8488d5e3877e4fb1d146fb6d31cdd.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21951,7 +21951,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [x-fieldmodifier-attribute.5dfee67072e78e242c65a2be77480b8254f97c35.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/x-fieldmodifier-attribute.5dfee67072e78e242c65a2be77480b8254f97c35.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21963,7 +21963,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [x-key-attribute.b2c42bd2da3e45e9807c2ebb1b6ede7565d44702.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/x-key-attribute.b2c42bd2da3e45e9807c2ebb1b6ede7565d44702.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21975,7 +21975,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [x-name-attribute.ac53964f65ede3b25a62aea68495936f98db3906.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/x-name-attribute.ac53964f65ede3b25a62aea68495936f98db3906.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21987,7 +21987,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [x-null-markup-extension.481290531768b68af858a06799199582a6257b63.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/x-null-markup-extension.481290531768b68af858a06799199582a6257b63.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21999,7 +21999,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [x-phase-attribute.035b555d5b71f87888312e8199ca658d0a4b7c55.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/x-phase-attribute.035b555d5b71f87888312e8199ca658d0a4b7c55.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22011,7 +22011,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [x-uid-directive.54a77d759b0558f3709674c70775cbdb364736fc.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/x-uid-directive.54a77d759b0558f3709674c70775cbdb364736fc.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22023,7 +22023,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [new_extension.f88bd3f6fa14afe4748498423af87153bb741983.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/new_extension.f88bd3f6fa14afe4748498423af87153bb741983.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22035,7 +22035,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [markdown-tips.0223efeae412507af7c4547e7e0aa549e87ea60a.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/markdown-tips.0223efeae412507af7c4547e7e0aa549e87ea60a.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22047,7 +22047,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [tedhudek-home.cd82e1b999ca1e8e89601b96d7b6ed332d44c137.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/tedhudek-home.cd82e1b999ca1e8e89601b96d7b6ed332d44c137.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22059,7 +22059,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [wdcml-to-open-publish.a4dd794f0bf7ce39cc12ecded434499fcb86d4f4.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/wdcml-to-open-publish.a4dd794f0bf7ce39cc12ecded434499fcb86d4f4.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22071,7 +22071,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [workflow.c81c0151d66bf0be9587301c3f7e2255d13a9e00.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/workflow.c81c0151d66bf0be9587301c3f7e2255d13a9e00.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22083,7 +22083,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [testhtml.a5059cd2abaa4519b328ce39518d5ebfcd6b4fc0.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/testhtml.a5059cd2abaa4519b328ce39518d5ebfcd6b4fc0.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22095,7 +22095,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [test-xliff-2.9e74d19c2a06ffac1ddb5240e10c103cbf0db315.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/test-xliff-2.9e74d19c2a06ffac1ddb5240e10c103cbf0db315.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22107,7 +22107,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [TOC.a9ee67cb4f35ab2cb1a9b412181346e45899f313.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/TOC.a9ee67cb4f35ab2cb1a9b412181346e45899f313.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22119,7 +22119,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [analyzing_driver_quality_by_using_code_analysis_tools.fa3d557dd7b16334872b19b7d288e2179b421f36.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/analyzing_driver_quality_by_using_code_analysis_tools.fa3d557dd7b16334872b19b7d288e2179b421f36.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22131,7 +22131,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [attestation_signing_a_kernel_driver_for_public_release.60952bf9330143f0f7f5ec5a32dd4e53f311b511.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/attestation_signing_a_kernel_driver_for_public_release.60952bf9330143f0f7f5ec5a32dd4e53f311b511.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22143,7 +22143,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [avoiding_floating_point_errors_in_custom_build_environments.cee0e6d04ff683ed75853cbaefdb3cb80a9ba8b9.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/avoiding_floating_point_errors_in_custom_build_environments.cee0e6d04ff683ed75853cbaefdb3cb80a9ba8b9.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22155,7 +22155,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [building_a_driver.cbc09280250e99cd2659c1df5d0ad4fc537f9081.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/building_a_driver.cbc09280250e99cd2659c1df5d0ad4fc537f9081.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22167,7 +22167,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [building_drivers_for_different_versions_of_windows.a7c7436aaf4de0b7c53827a0fa712ca3bde1a84c.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/building_drivers_for_different_versions_of_windows.a7c7436aaf4de0b7c53827a0fa712ca3bde1a84c.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22191,7 +22191,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [converting_wdk_8_1_projects_to_wdk_10.474e5e2dbbaf162065af3c72ae497364a406ed87.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/converting_wdk_8_1_projects_to_wdk_10.474e5e2dbbaf162065af3c72ae497364a406ed87.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22203,7 +22203,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [counters_manifest_preprocessor_properties_for_driver_projects.eeeab85b33933cf108a80d82f2b8adc624e8e2ed.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/counters_manifest_preprocessor_properties_for_driver_projects.eeeab85b33933cf108a80d82f2b8adc624e8e2ed.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22215,7 +22215,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [create_a_custom_driver_installation_script.357dbb9021e614bca1c5fa19d9777bca3fffefb9.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/create_a_custom_driver_installation_script.357dbb9021e614bca1c5fa19d9777bca3fffefb9.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22227,7 +22227,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [creating_a_device_metadata_package.d2e96cda60fffef1c4ac7d8c69c5442ec20ed839.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/creating_a_device_metadata_package.d2e96cda60fffef1c4ac7d8c69c5442ec20ed839.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22239,7 +22239,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [creating_a_driver_from_existing_source_files.21b428e353639aad4f789fbce2c093e8dafd9dc2.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/creating_a_driver_from_existing_source_files.21b428e353639aad4f789fbce2c093e8dafd9dc2.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22251,7 +22251,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [creating_a_driver_package.73e06db2ddf1087ccf602c36d1ff122837314e31.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/creating_a_driver_package.73e06db2ddf1087ccf602c36d1ff122837314e31.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22263,7 +22263,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [creating_a_driver_verification_log.96eff15d7e468242b14cf46aedc5527782908604.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/creating_a_driver_verification_log.96eff15d7e468242b14cf46aedc5527782908604.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22275,7 +22275,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [creating_a_log_file_for_static_driver_verifier.c33f99351b08661a50d5fd3977e69e4a534e5dbf.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/creating_a_log_file_for_static_driver_verifier.c33f99351b08661a50d5fd3977e69e4a534e5dbf.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22287,7 +22287,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [creating_a_log_file_for_the_code_analysis_tool.9af7d60829f22ab6d9d9660d5f3fe961d7f765df.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/creating_a_log_file_for_the_code_analysis_tool.9af7d60829f22ab6d9d9660d5f3fe961d7f765df.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22299,7 +22299,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [creating_a_new_driver.2beda9848f2913454930779b42c798c7a14e4b30.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/creating_a_new_driver.2beda9848f2913454930779b42c798c7a14e4b30.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22311,7 +22311,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [creating_a_new_filter_driver.d70f3a12da3192fe8e7ff943a58111b6eaaff602.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/creating_a_new_filter_driver.d70f3a12da3192fe8e7ff943a58111b6eaaff602.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22323,7 +22323,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [creating_a_new_software_driver.080b52a3e470fa06b9cbbef274ae2a9a61c3524d.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/creating_a_new_software_driver.080b52a3e470fa06b9cbbef274ae2a9a61c3524d.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22335,7 +22335,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [debugging_a_driver.d0f46f354896826a092820cf39261d4f410dbeed.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/debugging_a_driver.d0f46f354896826a092820cf39261d4f410dbeed.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22347,7 +22347,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [deploying_a_driver_to_a_test_computer.5d1d0565bb41ea5d115f7a9b856ba02546d36a95.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/deploying_a_driver_to_a_test_computer.5d1d0565bb41ea5d115f7a9b856ba02546d36a95.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22359,7 +22359,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [deployment_properties_for_driver_projects.0608b2ac61637bfa80027bab956bf36221bc7bbc.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/deployment_properties_for_driver_projects.0608b2ac61637bfa80027bab956bf36221bc7bbc.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22371,7 +22371,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [distributing_a_driver_package_win8.12755b11f7f467f14f730a8c28f8eaa90468c4eb.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/distributing_a_driver_package_win8.12755b11f7f467f14f730a8c28f8eaa90468c4eb.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22395,7 +22395,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [driver_model_convergence.a1a2d739cd3547a1e600d802ab77a42dc77bc286.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/driver_model_convergence.a1a2d739cd3547a1e600d802ab77a42dc77bc286.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22407,7 +22407,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [driver_model_settings_properties_for_driver_projects.fcf119a52613a74a749a980980ec95063a23b0a1.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/driver_model_settings_properties_for_driver_projects.fcf119a52613a74a749a980980ec95063a23b0a1.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22419,7 +22419,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [driver_signing_properties.cb7fe7fb67183b04c9e6c6bfdb1d289dd5729a80.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/driver_signing_properties.cb7fe7fb67183b04c9e6c6bfdb1d289dd5729a80.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22431,7 +22431,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [driver_verifier_properties_for__driver_projects.8af174283d96ea6ec207ff10ade1775c8f05918b.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/driver_verifier_properties_for__driver_projects.8af174283d96ea6ec207ff10ade1775c8f05918b.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22443,7 +22443,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [getting_started_with_universal_drivers.f719b648b017e312575ebdca030512f0c5325b94.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/getting_started_with_universal_drivers.f719b648b017e312575ebdca030512f0c5325b94.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22455,7 +22455,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [how_to_select_and_configure_the_device_fundamental_tests.12af8415bd7bce765f79bc6a510ea434fdd37296.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/how_to_select_and_configure_the_device_fundamental_tests.12af8415bd7bce765f79bc6a510ea434fdd37296.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22467,7 +22467,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [how_to_test_a_driver_at_runtime_from_a_command_prompt.dd9b45b531d935ce5ab79c83e50b2d632e3e16fa.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/how_to_test_a_driver_at_runtime_from_a_command_prompt.dd9b45b531d935ce5ab79c83e50b2d632e3e16fa.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22479,7 +22479,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [how_to_write_a_driver_test_.61f137f1ad3610a554d2e28e0410d98bfb985887.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/how_to_write_a_driver_test_.61f137f1ad3610a554d2e28e0410d98bfb985887.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22491,7 +22491,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [e0f09dec7a25d3016140c132c7e6f0411589b8f3.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/e0f09dec7a25d3016140c132c7e6f0411589b8f3.png)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22504,7 +22504,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [21987b89a2bd6120f2fbb8084c822d6cf0f5b73e.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/21987b89a2bd6120f2fbb8084c822d6cf0f5b73e.png)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22517,7 +22517,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [df36e47e5bdc8ec928da08d1e7e8f66d7f421837.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/df36e47e5bdc8ec928da08d1e7e8f66d7f421837.png)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22530,7 +22530,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [b4d01e34c4ef81ab40804f4cf5b6981d2cdd91bd.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/b4d01e34c4ef81ab40804f4cf5b6981d2cdd91bd.png)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22543,7 +22543,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [95f73079b57688206bf3238e1a509f0b81ba8da2.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/95f73079b57688206bf3238e1a509f0b81ba8da2.png)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22556,7 +22556,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [3ce2fdf00618bcc50d2d3b9454a1c522096e9053.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/3ce2fdf00618bcc50d2d3b9454a1c522096e9053.png)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22569,7 +22569,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [65302587cbc9b4aa1c3633df61751962844f9e2c.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/65302587cbc9b4aa1c3633df61751962844f9e2c.png)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22582,7 +22582,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [bd0c6c5437446ea0c01d45fd1049fff8f8b3790c.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/bd0c6c5437446ea0c01d45fd1049fff8f8b3790c.png)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22595,7 +22595,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [inf2cat_properties_for_driver_package_projects.b6ddd3185a2c07176103bc47e341f746b0f23082.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/inf2cat_properties_for_driver_package_projects.b6ddd3185a2c07176103bc47e341f746b0f23082.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22607,7 +22607,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [installing_a_universal_driver.b7a0455a19eec512588540d32d294dc4dc588629.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/installing_a_universal_driver.b7a0455a19eec512588540d32d294dc4dc588629.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22619,7 +22619,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [Installing_the_Enterprise_WDK.52bff242f4316ede62303abfe9b38068827b4926.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/Installing_the_Enterprise_WDK.52bff242f4316ede62303abfe9b38068827b4926.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22631,7 +22631,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [installing_the_wdk_build_environment_in_a_lab.4b0d0259f015b7af204488eb719a7cd8fdad089d.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/installing_the_wdk_build_environment_in_a_lab.4b0d0259f015b7af204488eb719a7cd8fdad089d.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22643,7 +22643,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [kmdf_verifier_properties_for_driver_package_projects.6de1407e3bb459c6c459466f7a405125c1537873.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/kmdf_verifier_properties_for_driver_package_projects.6de1407e3bb459c6c459466f7a405125c1537873.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22655,7 +22655,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [message_compiler_properties_for_driver_projects.3f85a4a66d609368eb1e66eea78b63ae5f6c1b5b.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/message_compiler_properties_for_driver_projects.3f85a4a66d609368eb1e66eea78b63ae5f6c1b5b.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22667,7 +22667,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [mof_compiler_properties_for_driver_projects.b84cd2cc7370511be671c43efa7c43bac0f3de27.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/mof_compiler_properties_for_driver_projects.b84cd2cc7370511be671c43efa7c43bac0f3de27.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22679,7 +22679,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [preparing_a_computer_for_manual_driver_deployment.51ad54b679016cd1d0c801b7c7f7b9ab197d661d.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/preparing_a_computer_for_manual_driver_deployment.51ad54b679016cd1d0c801b7c7f7b9ab197d661d.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22691,7 +22691,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [read_the_driver_test_results_log.eb789dceaf151302de89217fe530e346162f78b8.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/read_the_driver_test_results_log.eb789dceaf151302de89217fe530e346162f78b8.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22703,7 +22703,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [README.61953ed54565669063acc19192c50e7fa0b2d6c5.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/README.61953ed54565669063acc19192c50e7fa0b2d6c5.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22715,7 +22715,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [run_the_hck_test_suites_in_the_wdk.626ab9e426be669c2b7872664e5b36e04a040e48.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/run_the_hck_test_suites_in_the_wdk.626ab9e426be669c2b7872664e5b36e04a040e48.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22727,7 +22727,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [signing_a_driver.d8f891ef3713e655606ee7c5f10708fd6b1cad77.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/signing_a_driver.d8f891ef3713e655606ee7c5f10708fd6b1cad77.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22739,7 +22739,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [signing_a_driver_during_development_and_testing.81a60998378a6f28726d548997445d60ddbfcb20.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/signing_a_driver_during_development_and_testing.81a60998378a6f28726d548997445d60ddbfcb20.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22751,7 +22751,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [signing_a_driver_for_public_release.0493fdc06d8757a97e7a3d5b6b456d0f1b2ece55.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/signing_a_driver_for_public_release.0493fdc06d8757a97e7a3d5b6b456d0f1b2ece55.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22763,7 +22763,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [stampinf_properties_for_driver_projects.2326d09cab960412f419e514a8f362ce1b3a1baf.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/stampinf_properties_for_driver_projects.2326d09cab960412f419e514a8f362ce1b3a1baf.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22775,7 +22775,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [strategies_for_testing_drivers_during_development.16bcb49fb4d79448be1c3bead0b002ad114c8071.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/strategies_for_testing_drivers_during_development.16bcb49fb4d79448be1c3bead0b002ad114c8071.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22787,7 +22787,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [test_a_driver_package.d17f8c0f32052a7cd3e7f2b181d1976478f5ae51.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/test_a_driver_package.d17f8c0f32052a7cd3e7f2b181d1976478f5ae51.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22799,7 +22799,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [testing_a_driver.094134d3f100ae97179f8b35217317ca1dd92543.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/testing_a_driver.094134d3f100ae97179f8b35217317ca1dd92543.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22811,7 +22811,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [testing_a_driver_at_runtime.7297ee08eda57f78f10cb96021bb26e1b26031cb.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/testing_a_driver_at_runtime.7297ee08eda57f78f10cb96021bb26e1b26031cb.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22823,7 +22823,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [to_add_test_metadata.5628c4aeece116648c1aa37d87b85a14b59bc8f8.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/to_add_test_metadata.5628c4aeece116648c1aa37d87b85a14b59bc8f8.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22835,7 +22835,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [TOC.18945f002d8614ade84dd70a7a3a886036563906.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/TOC.18945f002d8614ade84dd70a7a3a886036563906.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22847,7 +22847,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [troubleshooting_configuration_of_driver_deployment__testing_and_debugging.150387a3e5878072825b5c4de61ed143a92efbe3.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/troubleshooting_configuration_of_driver_deployment__testing_and_debugging.150387a3e5878072825b5c4de61ed143a92efbe3.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22859,7 +22859,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [troubleshooting_configuration_of_driver_deployment__testing_and_debugging.150387a3e5878072825b5c4de61ed143a92efbe3.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/troubleshooting_configuration_of_driver_deployment__testing_and_debugging.150387a3e5878072825b5c4de61ed143a92efbe3.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22871,7 +22871,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [umdf_verifier_properties_for_driver_package_projects.c74447a594f54cbf33538e4d86c298df572586e7.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/umdf_verifier_properties_for_driver_package_projects.c74447a594f54cbf33538e4d86c298df572586e7.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22883,7 +22883,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [using_the_microsoft_c_runtime_with_user_mode_drivers_and_apps.b387aa692a8e081d84588efa3f26e0baf9a6d11f.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/using_the_microsoft_c_runtime_with_user_mode_drivers_and_apps.b387aa692a8e081d84588efa3f26e0baf9a6d11f.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22895,7 +22895,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [validating_universal_drivers.f62e7538d9469f919649024785de1ce56d1d51d1.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/validating_universal_drivers.f62e7538d9469f919649024785de1ce56d1d51d1.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22907,7 +22907,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [visual_studio_driver_development_environment.8000e0deea179f6875a81edfb7b928b8889c0d63.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/visual_studio_driver_development_environment.8000e0deea179f6875a81edfb7b928b8889c0d63.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22919,7 +22919,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [what_happens_when_you_provision_a_computer__wdk_8_0_.a7c85524b6e8ece19940ef2541798bb113898dd1.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/what_happens_when_you_provision_a_computer__wdk_8_0_.a7c85524b6e8ece19940ef2541798bb113898dd1.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22931,7 +22931,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [what_happens_when_you_provision_a_computer__wdk_8_1_.8ad0b1b3a0a4a147e38782bf64c94e3f9c4e3fe3.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/what_happens_when_you_provision_a_computer__wdk_8_1_.8ad0b1b3a0a4a147e38782bf64c94e3f9c4e3fe3.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22943,7 +22943,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [windows_10_editions_for_universal_drivers.4cd87125419ce917f638854e2b8bf422e6600f23.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/windows_10_editions_for_universal_drivers.4cd87125419ce917f638854e2b8bf422e6600f23.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22955,7 +22955,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [Welcome.ecbb965b6e13825c7524206fa12c4cc64183e55b.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/Welcome.ecbb965b6e13825c7524206fa12c4cc64183e55b.ko-kr.xlf)
-* Handoff Datetime: 2016-05-23 02:45:36
+* Handoff Datetime: 2016-05-23 03:10:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
