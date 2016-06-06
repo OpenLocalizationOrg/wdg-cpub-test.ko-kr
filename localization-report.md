@@ -7885,14 +7885,14 @@
 
 ##### <a name='d0712383af8e62261a0adf84be3a2af8e5941e64502'></a> Source: [wdg-cpub-test\ndolci1\get-started\account-types-locations-and-fees.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/283f3e5bb612dfa08de58e1a9a3ca293a038044f/wdg-cpub-test/ndolci1/get-started/account-types-locations-and-fees.md)
 * Status: InSyncHandedBackSuccess
-* Target File: [wdg-cpub-test\ndolci1\get-started\account-types-locations-and-fees.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.ko-kr/blob/d215069634323aa1b12adaf5c95c8a8555163e27/wdg-cpub-test/ndolci1/get-started/account-types-locations-and-fees.md)
+* Target File: [wdg-cpub-test\ndolci1\get-started\account-types-locations-and-fees.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.ko-kr/blob/ba59733e5a992cfd9c080d4494aab75fa15c1920/wdg-cpub-test/ndolci1/get-started/account-types-locations-and-fees.md)
 * Handoff File: [account-types-locations-and-fees.52e52704753403f64bda470c9808229f2f42f46e.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/6b3bcf4181f20e2abe07639a79fba961560e0a1a/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/account-types-locations-and-fees.52e52704753403f64bda470c9808229f2f42f46e.ko-kr.xlf)
 * Handoff Datetime: 2016-06-01 08:30:54
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
-* Handback File: [account-types-locations-and-fees.52e52704753403f64bda470c9808229f2f42f46e.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/7d33b9dabb08c2d6ab865274a23ebced96abecde/ol-handback/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/account-types-locations-and-fees.52e52704753403f64bda470c9808229f2f42f46e.ko-kr.xlf)
-* Handback Datetime: 2016-06-06 02:06:00
+* Handback File: [account-types-locations-and-fees.52e52704753403f64bda470c9808229f2f42f46e.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/5e3c39337ab721f1da7ca389eb75684c78a892f6/ol-handback/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/account-types-locations-and-fees.52e52704753403f64bda470c9808229f2f42f46e.ko-kr.xlf)
+* Handback Datetime: 2016-06-06 06:17:49
 * Bilingual File: [account-types-locations-and-fees.52e52704753403f64bda470c9808229f2f42f46e.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/7d33b9dabb08c2d6ab865274a23ebced96abecde/ol-handback/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/account-types-locations-and-fees.52e52704753403f64bda470c9808229f2f42f46e.ko-kr.xlf)
 * Bilingual Datetime: 2016-06-06 02:06:38
 * [Back to Top](#report-top)
