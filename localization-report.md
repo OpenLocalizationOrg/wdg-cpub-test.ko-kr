@@ -7893,8 +7893,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [account-types-locations-and-fees.52e52704753403f64bda470c9808229f2f42f46e.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/68b3ca26ce77ddd7856704c61c25195c530a43f5/ol-handback/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/account-types-locations-and-fees.52e52704753403f64bda470c9808229f2f42f46e.ko-kr.xlf)
 * Handback Datetime: 2016-06-06 12:25:36
-* Bilingual File: [account-types-locations-and-fees.52e52704753403f64bda470c9808229f2f42f46e.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/5e3c39337ab721f1da7ca389eb75684c78a892f6/ol-handback/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/account-types-locations-and-fees.52e52704753403f64bda470c9808229f2f42f46e.ko-kr.xlf)
-* Bilingual Datetime: 2016-06-06 06:25:18
+* Bilingual File: [account-types-locations-and-fees.52e52704753403f64bda470c9808229f2f42f46e.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/68b3ca26ce77ddd7856704c61c25195c530a43f5/ol-handback/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/account-types-locations-and-fees.52e52704753403f64bda470c9808229f2f42f46e.ko-kr.xlf)
+* Bilingual Datetime: 2016-06-06 12:27:11
 * [Back to Top](#report-top)
 
 ##### <a name='1dcd35b41e215558005b1056c0384986ab86753b503'></a> Source: [wdg-cpub-test\ndolci1\get-started\create-a-basic-windows-10-app-in-cpp.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/283f3e5bb612dfa08de58e1a9a3ca293a038044f/wdg-cpub-test/ndolci1/get-started/create-a-basic-windows-10-app-in-cpp.md)
