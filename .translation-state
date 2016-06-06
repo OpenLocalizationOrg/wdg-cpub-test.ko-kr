@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "7275c902bcd6d8885af7cc0f3b323cba574e5585",
-  "LastTranslatedCommit": "ba59733e5a992cfd9c080d4494aab75fa15c1920",
+  "LastTranslatedCommit": "7ea139c766b2b963c7f04e8ddb7ebc5c51a8ac32",
   "Items": {
     "3c246d6c393687dbeff05e58303c204713ba80a4": {
       "FileHash": "3c246d6c393687dbeff05e58303c204713ba80a4",
@@ -8886,14 +8886,14 @@
       "HandoffPriority": "",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
-      "TargetFileCommit": "ba59733e5a992cfd9c080d4494aab75fa15c1920",
+      "TargetFileCommit": "7ea139c766b2b963c7f04e8ddb7ebc5c51a8ac32",
       "TargetFilePath": "wdg-cpub-test\\ndolci1\\get-started\\account-types-locations-and-fees.md",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.ko-kr\\master\\account-types-locations-and-fees.52e52704753403f64bda470c9808229f2f42f46e.ko-kr.xlf",
-      "HandbackFileCommit": "5e3c39337ab721f1da7ca389eb75684c78a892f6",
-      "HandbackDateTime": "2016-06-06T06:17:49.8250001Z",
+      "HandbackFileCommit": "68b3ca26ce77ddd7856704c61c25195c530a43f5",
+      "HandbackDateTime": "2016-06-06T12:25:36.3080898Z",
       "HandbackException": null,
       "HandbackFailureTimes": 0,
-      "UpdatedDateTime": "2016-06-06T06:17:49.8250001Z",
+      "UpdatedDateTime": "2016-06-06T12:25:36.3080898Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
