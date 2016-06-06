@@ -5,12 +5,12 @@
  -------- | ----- 
  Total Files | 1758
 [ Handoff Failed Files ](#handoff-failed-list)| 0
-[ Handoff Success Files ](#handoff-success-list)| 1192
+[ Handoff Success Files ](#handoff-success-list)| 1188
 [ Archive Failed Files ](#archive-failed-list)| 0
 [ Archive Success Files ](#archive-success-list)| 0
 [ Handback Failed Files ](#handback-failed-list)| 0
 [ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 0
-[ In Sync Handback Files ](#insync-handback-success-list)| 0
+[ In Sync Handback Files ](#insync-handback-success-list)| 4
 [ Ignored Files ](#ignored-list)| 566
 
 ## <a name='handoff-failed-list'></a> Handoff Failed File List
@@ -280,7 +280,6 @@
  [wdg-cpub-test\ndolci1\files\quickstart-reading-and-writing-files.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/283f3e5bb612dfa08de58e1a9a3ca293a038044f/wdg-cpub-test/ndolci1/files/quickstart-reading-and-writing-files.md) | HandedOffSuccess | [Details](#73d1597e8aa7679ecfea44b667b604ae402d516e499)
  [wdg-cpub-test\ndolci1\files\quickstart-save-a-file-with-a-picker.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/283f3e5bb612dfa08de58e1a9a3ca293a038044f/wdg-cpub-test/ndolci1/files/quickstart-save-a-file-with-a-picker.md) | HandedOffSuccess | [Details](#f8b1c4a57dec3d0a865852e2650a9ccc13fe2240500)
  [wdg-cpub-test\ndolci1\files\quickstart-using-file-and-folder-pickers.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/283f3e5bb612dfa08de58e1a9a3ca293a038044f/wdg-cpub-test/ndolci1/files/quickstart-using-file-and-folder-pickers.md) | HandedOffSuccess | [Details](#b3c59d66a7c582910f33691c31e13863455adf5a501)
- [wdg-cpub-test\ndolci1\get-started\account-types-locations-and-fees.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/283f3e5bb612dfa08de58e1a9a3ca293a038044f/wdg-cpub-test/ndolci1/get-started/account-types-locations-and-fees.md) | HandedOffSuccess | [Details](#d0712383af8e62261a0adf84be3a2af8e5941e64502)
  [wdg-cpub-test\ndolci1\get-started\create-a-basic-windows-10-app-in-cpp.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/283f3e5bb612dfa08de58e1a9a3ca293a038044f/wdg-cpub-test/ndolci1/get-started/create-a-basic-windows-10-app-in-cpp.md) | HandedOffSuccess | [Details](#1dcd35b41e215558005b1056c0384986ab86753b503)
  [wdg-cpub-test\ndolci1\get-started\create-a-hello-world-app-js-universal.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/283f3e5bb612dfa08de58e1a9a3ca293a038044f/wdg-cpub-test/ndolci1/get-started/create-a-hello-world-app-js-universal.md) | HandedOffSuccess | [Details](#2f9b56da71d2b73859043cc145bf84f1972e92d7504)
  [wdg-cpub-test\ndolci1\get-started\create-a-hello-world-app-xaml-universal.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/283f3e5bb612dfa08de58e1a9a3ca293a038044f/wdg-cpub-test/ndolci1/get-started/create-a-hello-world-app-xaml-universal.md) | HandedOffSuccess | [Details](#05358eaace659edd690c939d4c93be9aff6ba023505)
@@ -456,7 +455,6 @@
  [wdg-cpub-test\ndolci1\usability\accessibility\accessibility-checklist.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/283f3e5bb612dfa08de58e1a9a3ca293a038044f/wdg-cpub-test/ndolci1/usability/accessibility/accessibility-checklist.md) | HandedOffSuccess | [Details](#d696d06e6634c99824b230a1f7c4a088cbaf2ff2695)
  [wdg-cpub-test\ndolci1\usability\accessibility\accessibility-in-the-store.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/283f3e5bb612dfa08de58e1a9a3ca293a038044f/wdg-cpub-test/ndolci1/usability/accessibility/accessibility-in-the-store.md) | HandedOffSuccess | [Details](#143b4cde23916bcf38a234155bc70332e914aadf696)
  [wdg-cpub-test\ndolci1\usability\accessibility\accessibility-overview.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/283f3e5bb612dfa08de58e1a9a3ca293a038044f/wdg-cpub-test/ndolci1/usability/accessibility/accessibility-overview.md) | HandedOffSuccess | [Details](#12f5e0dbf2eaf7a8ea903ed0e7cb7ecd5a6eb0f9697)
- [wdg-cpub-test\ndolci1\usability\accessibility\accessibility-testing.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/283f3e5bb612dfa08de58e1a9a3ca293a038044f/wdg-cpub-test/ndolci1/usability/accessibility/accessibility-testing.md) | HandedOffSuccess | [Details](#57a6b3462bc1cbdc06486d7150b67171fd900fb4698)
  [wdg-cpub-test\ndolci1\usability\accessibility\accessible-text-requirements.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/283f3e5bb612dfa08de58e1a9a3ca293a038044f/wdg-cpub-test/ndolci1/usability/accessibility/accessible-text-requirements.md) | HandedOffSuccess | [Details](#9823882a499de121fda16449b1ee2ed55e491b19700)
  [wdg-cpub-test\ndolci1\usability\accessibility\basic-accessibility-information.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/283f3e5bb612dfa08de58e1a9a3ca293a038044f/wdg-cpub-test/ndolci1/usability/accessibility/basic-accessibility-information.md) | HandedOffSuccess | [Details](#81a0a429daa82224e548eaa50393d6be266b23f0701)
  [wdg-cpub-test\ndolci1\usability\accessibility\control-patterns-and-interfaces.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/283f3e5bb612dfa08de58e1a9a3ca293a038044f/wdg-cpub-test/ndolci1/usability/accessibility/control-patterns-and-interfaces.md) | HandedOffSuccess | [Details](#7705d7a4dd1dc693c409d1d3c039feab7ec1030a702)
@@ -508,7 +506,6 @@
  [wdg-cpub-test\ndolci2\accessibility\accessibility-Copy.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/f804e3477283ad63dfe1112ce8ac35c418c99650/wdg-cpub-test/ndolci2/accessibility/accessibility-Copy.md) | HandedOffSuccess | [Details](#6ef819326b829ba567f6bc3c4b7c7ad8c641e0f4747)
  [wdg-cpub-test\ndolci2\accessibility\accessibility-in-the-store.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/5907beedcb3d2b1c6838847f2bba92e8c12a1675/wdg-cpub-test/ndolci2/accessibility/accessibility-in-the-store.md) | HandedOffSuccess | [Details](#6e80a91434b48569a5b71c3780194933310b408d748)
  [wdg-cpub-test\ndolci2\accessibility\accessibility-overview.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/5907beedcb3d2b1c6838847f2bba92e8c12a1675/wdg-cpub-test/ndolci2/accessibility/accessibility-overview.md) | HandedOffSuccess | [Details](#5664362e618659c6c59b4a30f16a3029c56f66ef749)
- [wdg-cpub-test\ndolci2\accessibility\accessibility-testing.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/5907beedcb3d2b1c6838847f2bba92e8c12a1675/wdg-cpub-test/ndolci2/accessibility/accessibility-testing.md) | HandedOffSuccess | [Details](#4f439d95b79f18d8b2ee3a6e0133171b3000224f750)
  [wdg-cpub-test\ndolci2\accessibility\accessible-text-requirements.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/5907beedcb3d2b1c6838847f2bba92e8c12a1675/wdg-cpub-test/ndolci2/accessibility/accessible-text-requirements.md) | HandedOffSuccess | [Details](#ce748a86b572d3e05a9019a82b4421a9149c3619752)
  [wdg-cpub-test\ndolci2\accessibility\basic-accessibility-information.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/5907beedcb3d2b1c6838847f2bba92e8c12a1675/wdg-cpub-test/ndolci2/accessibility/basic-accessibility-information.md) | HandedOffSuccess | [Details](#be5c600c95b0e6a95272a915e2bd337498db6e39753)
  [wdg-cpub-test\ndolci2\accessibility\control-patterns-and-interfaces.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/5907beedcb3d2b1c6838847f2bba92e8c12a1675/wdg-cpub-test/ndolci2/accessibility/control-patterns-and-interfaces.md) | HandedOffSuccess | [Details](#70accacb24ef18e60101ded39f5d2e48bbc8eb28754)
@@ -985,7 +982,6 @@
  [wdg-cpub-test\ndolci2\porting\wpsl-to-uwp-root.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7275c902bcd6d8885af7cc0f3b323cba574e5585/wdg-cpub-test/ndolci2/porting/wpsl-to-uwp-root.md) | HandedOffSuccess | [Details](#b55a4f942eb5d8e80d50dcc7a8b418680a8deb881512)
  [wdg-cpub-test\ndolci2\porting\wpsl-to-uwp-troubleshooting.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7275c902bcd6d8885af7cc0f3b323cba574e5585/wdg-cpub-test/ndolci2/porting/wpsl-to-uwp-troubleshooting.md) | HandedOffSuccess | [Details](#cb09ba3c6a44ec7eef1ccb9e80609352582a0e3e1513)
  [wdg-cpub-test\ndolci2\publish\about-house-ads.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/5907beedcb3d2b1c6838847f2bba92e8c12a1675/wdg-cpub-test/ndolci2/publish/about-house-ads.md) | HandedOffSuccess | [Details](#70df7045066bdc7da9aad7673a2b94a38a54c7171514)
- [wdg-cpub-test\ndolci2\publish\account-types-locations-and-fees.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/5907beedcb3d2b1c6838847f2bba92e8c12a1675/wdg-cpub-test/ndolci2/publish/account-types-locations-and-fees.md) | HandedOffSuccess | [Details](#b397405dae20eb34d8868ba6e6a6684d32fe90761515)
  [wdg-cpub-test\ndolci2\publish\acquisitions-report.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/5907beedcb3d2b1c6838847f2bba92e8c12a1675/wdg-cpub-test/ndolci2/publish/acquisitions-report.md) | HandedOffSuccess | [Details](#cbf20fe737d63f367a571e2243e9855803897d821516)
  [wdg-cpub-test\ndolci2\publish\ad-mediation-report.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7275c902bcd6d8885af7cc0f3b323cba574e5585/wdg-cpub-test/ndolci2/publish/ad-mediation-report.md) | HandedOffSuccess | [Details](#011fa6fb219acefd41dfc58381d58991c0ac61e01517)
  [wdg-cpub-test\ndolci2\publish\advertising-performance-report.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/5907beedcb3d2b1c6838847f2bba92e8c12a1675/wdg-cpub-test/ndolci2/publish/advertising-performance-report.md) | HandedOffSuccess | [Details](#bc482fcea5dc2e3369ca0a474be416002156dc531518)
@@ -1220,6 +1216,12 @@
 ## <a name='outofsync-handback-success-list'></a> Out Of Sync Handback Success File List
 
 ## <a name='insync-handback-success-list'></a> In Sync Handback File Success List
+ Source File | Status | Details 
+ ----------- | ------ | ------- 
+ [wdg-cpub-test\ndolci1\get-started\account-types-locations-and-fees.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/283f3e5bb612dfa08de58e1a9a3ca293a038044f/wdg-cpub-test/ndolci1/get-started/account-types-locations-and-fees.md) | InSyncHandedBackSuccess | [Details](#d0712383af8e62261a0adf84be3a2af8e5941e64502)
+ [wdg-cpub-test\ndolci1\usability\accessibility\accessibility-testing.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/283f3e5bb612dfa08de58e1a9a3ca293a038044f/wdg-cpub-test/ndolci1/usability/accessibility/accessibility-testing.md) | InSyncHandedBackSuccess | [Details](#57a6b3462bc1cbdc06486d7150b67171fd900fb4698)
+ [wdg-cpub-test\ndolci2\accessibility\accessibility-testing.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/5907beedcb3d2b1c6838847f2bba92e8c12a1675/wdg-cpub-test/ndolci2/accessibility/accessibility-testing.md) | InSyncHandedBackSuccess | [Details](#4f439d95b79f18d8b2ee3a6e0133171b3000224f750)
+ [wdg-cpub-test\ndolci2\publish\account-types-locations-and-fees.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/5907beedcb3d2b1c6838847f2bba92e8c12a1675/wdg-cpub-test/ndolci2/publish/account-types-locations-and-fees.md) | InSyncHandedBackSuccess | [Details](#b397405dae20eb34d8868ba6e6a6684d32fe90761515)
 
 ## <a name='ignored-list'></a> Ignored File List
  Source File | Status | Details 
@@ -7882,15 +7884,15 @@
 * [Back to Top](#report-top)
 
 ##### <a name='d0712383af8e62261a0adf84be3a2af8e5941e64502'></a> Source: [wdg-cpub-test\ndolci1\get-started\account-types-locations-and-fees.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/283f3e5bb612dfa08de58e1a9a3ca293a038044f/wdg-cpub-test/ndolci1/get-started/account-types-locations-and-fees.md)
-* Status: HandedOffSuccess
-* Target File: 
+* Status: InSyncHandedBackSuccess
+* Target File: [wdg-cpub-test\ndolci1\get-started\account-types-locations-and-fees.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.ko-kr/blob/d215069634323aa1b12adaf5c95c8a8555163e27/wdg-cpub-test/ndolci1/get-started/account-types-locations-and-fees.md)
 * Handoff File: [account-types-locations-and-fees.52e52704753403f64bda470c9808229f2f42f46e.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/6b3bcf4181f20e2abe07639a79fba961560e0a1a/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/account-types-locations-and-fees.52e52704753403f64bda470c9808229f2f42f46e.ko-kr.xlf)
 * Handoff Datetime: 2016-06-01 08:30:54
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
+* Handback File: [account-types-locations-and-fees.52e52704753403f64bda470c9808229f2f42f46e.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/7d33b9dabb08c2d6ab865274a23ebced96abecde/ol-handback/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/account-types-locations-and-fees.52e52704753403f64bda470c9808229f2f42f46e.ko-kr.xlf)
+* Handback Datetime: 2016-06-06 02:06:00
 * [Back to Top](#report-top)
 
 ##### <a name='1dcd35b41e215558005b1056c0384986ab86753b503'></a> Source: [wdg-cpub-test\ndolci1\get-started\create-a-basic-windows-10-app-in-cpp.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/283f3e5bb612dfa08de58e1a9a3ca293a038044f/wdg-cpub-test/ndolci1/get-started/create-a-basic-windows-10-app-in-cpp.md)
@@ -10247,15 +10249,15 @@
 * [Back to Top](#report-top)
 
 ##### <a name='57a6b3462bc1cbdc06486d7150b67171fd900fb4698'></a> Source: [wdg-cpub-test\ndolci1\usability\accessibility\accessibility-testing.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/283f3e5bb612dfa08de58e1a9a3ca293a038044f/wdg-cpub-test/ndolci1/usability/accessibility/accessibility-testing.md)
-* Status: HandedOffSuccess
-* Target File: 
+* Status: InSyncHandedBackSuccess
+* Target File: [wdg-cpub-test\ndolci1\usability\accessibility\accessibility-testing.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.ko-kr/blob/d215069634323aa1b12adaf5c95c8a8555163e27/wdg-cpub-test/ndolci1/usability/accessibility/accessibility-testing.md)
 * Handoff File: [accessibility-testing.ca7a36c28ccc34b72a1dc9010c27c75d84760094.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/6b3bcf4181f20e2abe07639a79fba961560e0a1a/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/accessibility-testing.ca7a36c28ccc34b72a1dc9010c27c75d84760094.ko-kr.xlf)
 * Handoff Datetime: 2016-06-01 08:30:54
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
+* Handback File: [accessibility-testing.ca7a36c28ccc34b72a1dc9010c27c75d84760094.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/7d33b9dabb08c2d6ab865274a23ebced96abecde/ol-handback/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/accessibility-testing.ca7a36c28ccc34b72a1dc9010c27c75d84760094.ko-kr.xlf)
+* Handback Datetime: 2016-06-06 02:06:00
 * [Back to Top](#report-top)
 
 ##### <a name='9823882a499de121fda16449b1ee2ed55e491b19700'></a> Source: [wdg-cpub-test\ndolci1\usability\accessibility\accessible-text-requirements.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/283f3e5bb612dfa08de58e1a9a3ca293a038044f/wdg-cpub-test/ndolci1/usability/accessibility/accessible-text-requirements.md)
@@ -10871,15 +10873,15 @@
 * [Back to Top](#report-top)
 
 ##### <a name='4f439d95b79f18d8b2ee3a6e0133171b3000224f750'></a> Source: [wdg-cpub-test\ndolci2\accessibility\accessibility-testing.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/5907beedcb3d2b1c6838847f2bba92e8c12a1675/wdg-cpub-test/ndolci2/accessibility/accessibility-testing.md)
-* Status: HandedOffSuccess
-* Target File: 
+* Status: InSyncHandedBackSuccess
+* Target File: [wdg-cpub-test\ndolci2\accessibility\accessibility-testing.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.ko-kr/blob/d215069634323aa1b12adaf5c95c8a8555163e27/wdg-cpub-test/ndolci2/accessibility/accessibility-testing.md)
 * Handoff File: [accessibility-testing.cda58c0da3fdc9616274328a2b51521617fd499c.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/6b3bcf4181f20e2abe07639a79fba961560e0a1a/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/accessibility-testing.cda58c0da3fdc9616274328a2b51521617fd499c.ko-kr.xlf)
 * Handoff Datetime: 2016-06-01 08:30:54
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
+* Handback File: [accessibility-testing.cda58c0da3fdc9616274328a2b51521617fd499c.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/7d33b9dabb08c2d6ab865274a23ebced96abecde/ol-handback/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/accessibility-testing.cda58c0da3fdc9616274328a2b51521617fd499c.ko-kr.xlf)
+* Handback Datetime: 2016-06-06 02:06:00
 * [Back to Top](#report-top)
 
 ##### <a name='ce748a86b572d3e05a9019a82b4421a9149c3619752'></a> Source: [wdg-cpub-test\ndolci2\accessibility\accessible-text-requirements.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/5907beedcb3d2b1c6838847f2bba92e8c12a1675/wdg-cpub-test/ndolci2/accessibility/accessible-text-requirements.md)
@@ -20040,15 +20042,15 @@
 * [Back to Top](#report-top)
 
 ##### <a name='b397405dae20eb34d8868ba6e6a6684d32fe90761515'></a> Source: [wdg-cpub-test\ndolci2\publish\account-types-locations-and-fees.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/5907beedcb3d2b1c6838847f2bba92e8c12a1675/wdg-cpub-test/ndolci2/publish/account-types-locations-and-fees.md)
-* Status: HandedOffSuccess
-* Target File: 
+* Status: InSyncHandedBackSuccess
+* Target File: [wdg-cpub-test\ndolci2\publish\account-types-locations-and-fees.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.ko-kr/blob/d215069634323aa1b12adaf5c95c8a8555163e27/wdg-cpub-test/ndolci2/publish/account-types-locations-and-fees.md)
 * Handoff File: [account-types-locations-and-fees.c48f734f3c862dd595412f2f3ae09a9cc34a142a.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/6b3bcf4181f20e2abe07639a79fba961560e0a1a/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/account-types-locations-and-fees.c48f734f3c862dd595412f2f3ae09a9cc34a142a.ko-kr.xlf)
 * Handoff Datetime: 2016-06-01 08:30:54
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
+* Handback File: [account-types-locations-and-fees.c48f734f3c862dd595412f2f3ae09a9cc34a142a.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/7d33b9dabb08c2d6ab865274a23ebced96abecde/ol-handback/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/account-types-locations-and-fees.c48f734f3c862dd595412f2f3ae09a9cc34a142a.ko-kr.xlf)
+* Handback Datetime: 2016-06-06 02:06:00
 * [Back to Top](#report-top)
 
 ##### <a name='cbf20fe737d63f367a571e2243e9855803897d821516'></a> Source: [wdg-cpub-test\ndolci2\publish\acquisitions-report.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/5907beedcb3d2b1c6838847f2bba92e8c12a1675/wdg-cpub-test/ndolci2/publish/acquisitions-report.md)
