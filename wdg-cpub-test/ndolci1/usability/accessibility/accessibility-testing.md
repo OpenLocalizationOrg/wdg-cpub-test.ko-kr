@@ -1,9 +1,13 @@
 ---
-Description: Testing procedures to follow to ensure that your Universal Windows Platform (UWP) app is accessible.
+Description: Yaml header should been added HUMAN TRANSLATION.
 title: Accessibility testing
 ms.assetid: 272D9C9E-B179-4F5A-8493-926D007A0225
 label: Testing
 template: detail.hbs
+translationtype: Human Translation
+ms.sourcegitcommit: 283f3e5bb612dfa08de58e1a9a3ca293a038044f
+ms.openlocfilehash: 57a6b3462bc1cbdc06486d7150b67171fd900fb4
+
 ---
 
 # Accessibility testing
@@ -129,6 +133,7 @@ One aspect that you can test is whether there are elements appearing in the UI A
 
 
 
-<!--HONumber=Jun16_HO1-->
+
+<!--HONumber=Jun16_HO4-->
 
 
