@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "798e88c4c86abb909d6c72bcd5a1bf1f4c2f2859",
-  "LastTranslatedCommit": "7ea139c766b2b963c7f04e8ddb7ebc5c51a8ac32",
+  "LastTranslatedCommit": "93e69eaf113deb0eea919b2ec4a836b6fe7ad1b0",
   "Items": {
     "3c246d6c393687dbeff05e58303c204713ba80a4": {
       "FileHash": "3c246d6c393687dbeff05e58303c204713ba80a4",
@@ -15378,14 +15378,14 @@
       "HandoffPriority": "",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
-      "TargetFileCommit": "d215069634323aa1b12adaf5c95c8a8555163e27",
+      "TargetFileCommit": "93e69eaf113deb0eea919b2ec4a836b6fe7ad1b0",
       "TargetFilePath": "wdg-cpub-test\\ndolci1\\usability\\accessibility\\accessibility-testing.md",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.ko-kr\\master\\accessibility-testing.ca7a36c28ccc34b72a1dc9010c27c75d84760094.ko-kr.xlf",
-      "HandbackFileCommit": "7d33b9dabb08c2d6ab865274a23ebced96abecde",
-      "HandbackDateTime": "2016-06-06T02:06:00.0100501Z",
+      "HandbackFileCommit": "baf87364749ecfe5e8dd24b2fda0c11ae1c2d87c",
+      "HandbackDateTime": "2016-06-26T03:05:34.542009Z",
       "HandbackException": null,
       "HandbackFailureTimes": 0,
-      "UpdatedDateTime": "2016-06-06T02:06:00.0100501Z",
+      "UpdatedDateTime": "2016-06-26T03:05:34.542009Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
