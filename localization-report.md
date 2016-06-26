@@ -10262,8 +10262,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [accessibility-testing.ca7a36c28ccc34b72a1dc9010c27c75d84760094.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/baf87364749ecfe5e8dd24b2fda0c11ae1c2d87c/ol-handback/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/accessibility-testing.ca7a36c28ccc34b72a1dc9010c27c75d84760094.ko-kr.xlf)
 * Handback Datetime: 2016-06-26 03:05:34
-* Bilingual File: [accessibility-testing.ca7a36c28ccc34b72a1dc9010c27c75d84760094.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/7d33b9dabb08c2d6ab865274a23ebced96abecde/ol-handback/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/accessibility-testing.ca7a36c28ccc34b72a1dc9010c27c75d84760094.ko-kr.xlf)
-* Bilingual Datetime: 2016-06-06 02:06:38
+* Bilingual File: [accessibility-testing.ca7a36c28ccc34b72a1dc9010c27c75d84760094.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/baf87364749ecfe5e8dd24b2fda0c11ae1c2d87c/ol-handback/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/accessibility-testing.ca7a36c28ccc34b72a1dc9010c27c75d84760094.ko-kr.xlf)
+* Bilingual Datetime: 2016-06-26 03:06:08
 * [Back to Top](#report-top)
 
 ##### <a name='9823882a499de121fda16449b1ee2ed55e491b19700'></a> Source: [wdg-cpub-test\ndolci1\usability\accessibility\accessible-text-requirements.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/283f3e5bb612dfa08de58e1a9a3ca293a038044f/wdg-cpub-test/ndolci1/usability/accessibility/accessible-text-requirements.md)

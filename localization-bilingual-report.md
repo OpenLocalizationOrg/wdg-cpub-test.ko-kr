@@ -1,11 +1,28 @@
 # <a name='report-top'></a> Localization Bilingual Report
 
 ## Summary
- Total Files | 0
+ Total Files | 1
 
 ## File List
+ Source File | Status | Details 
+ ----------- | ------ | ------- 
+ [wdg-cpub-test\ndolci1\usability\accessibility\accessibility-testing.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/283f3e5bb612dfa08de58e1a9a3ca293a038044f/wdg-cpub-test/ndolci1/usability/accessibility/accessibility-testing.md) | InSyncHandedBackSuccess | [Details](#57a6b3462bc1cbdc06486d7150b67171fd900fb4698)
 
 ## Item Details
+##### <a name='57a6b3462bc1cbdc06486d7150b67171fd900fb4698'></a> Source: [wdg-cpub-test\ndolci1\usability\accessibility\accessibility-testing.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/283f3e5bb612dfa08de58e1a9a3ca293a038044f/wdg-cpub-test/ndolci1/usability/accessibility/accessibility-testing.md)
+* Status: InSyncHandedBackSuccess
+* Target File: [wdg-cpub-test\ndolci1\usability\accessibility\accessibility-testing.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.ko-kr/blob/93e69eaf113deb0eea919b2ec4a836b6fe7ad1b0/wdg-cpub-test/ndolci1/usability/accessibility/accessibility-testing.md)
+* Handoff File: [accessibility-testing.ca7a36c28ccc34b72a1dc9010c27c75d84760094.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/c4d1014291b39fa2db18f83782da87940d32c464/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/accessibility-testing.ca7a36c28ccc34b72a1dc9010c27c75d84760094.ko-kr.xlf)
+* Handoff Datetime: 2016-06-25 15:59:53
+* Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: [accessibility-testing.ca7a36c28ccc34b72a1dc9010c27c75d84760094.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/baf87364749ecfe5e8dd24b2fda0c11ae1c2d87c/ol-handback/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/accessibility-testing.ca7a36c28ccc34b72a1dc9010c27c75d84760094.ko-kr.xlf)
+* Handback Datetime: 2016-06-26 03:05:34
+* Bilingual File: [accessibility-testing.ca7a36c28ccc34b72a1dc9010c27c75d84760094.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/baf87364749ecfe5e8dd24b2fda0c11ae1c2d87c/ol-handback/OpenLocalizationOrg/wdg-cpub-test.ko-kr/master/accessibility-testing.ca7a36c28ccc34b72a1dc9010c27c75d84760094.ko-kr.xlf)
+* Bilingual Datetime: 2016-06-26 03:06:08
+* [Back to Top](#report-top)
+
 
 ## Error Details
 
