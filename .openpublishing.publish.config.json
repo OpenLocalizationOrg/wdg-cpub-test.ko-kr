@@ -7,16 +7,18 @@
       "docset_name": "wdg-cpub-test",
       "build_output_subfolder": "wdg-cpub-test",
       "locale": "ko-kr",
-      "version": 0,
       "open_to_public_contributors": false,
       "type_mapping": {
         "Conceptual": "Content"
-      }
+      },
+      "version": 0
     }
   ],
   "notification_subscribers": [],
   "branches_to_filter": [
     "live"
   ],
-  "skip_source_output_uploading": false
+  "continue_with_document_error": true,
+  "skip_source_output_uploading": false,
+  "need_generate_pdf_url_template": false
 }
